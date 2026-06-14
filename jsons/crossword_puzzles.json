@@ -1,0 +1,576 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "title": "Level 1",
+      "rows": 15,
+      "cols": 15,
+      "grid": [
+        "DOGSTMOONF#BOOK",
+        "###UR##RAIN#SKY",
+        "##ANEEL##STAR##",
+        "STONE#E##H###G#",
+        "#MOUNTAIN##BIRD",
+        "CHAIR#F#A#OCEAN",
+        "O###RIVER#HOUSE",
+        "M#D###CAT###TS#",
+        "PHONE#LIGHT#A#F",
+        "U#O#FLOWER##B#O",
+        "T#R##BUTTERFLYR",
+        "E##WINDOW###E#E",
+        "RIVERBANK#####S",
+        "VALLEY###DESERT",
+        "GARDEN#BRIDGE##"
+      ],
+      "cluesAcross": [
+        {
+          "number": 1,
+          "row": 7,
+          "col": 6,
+          "answer": "CAT",
+          "clue": "Purr maker"
+        },
+        {
+          "number": 2,
+          "row": 0,
+          "col": 0,
+          "answer": "DOG",
+          "clue": "Barks"
+        },
+        {
+          "number": 5,
+          "row": 2,
+          "col": 2,
+          "answer": "ANEEL",
+          "clue": "A male given name, variant of Anil"
+        },
+        {
+          "number": 6,
+          "row": 0,
+          "col": 5,
+          "answer": "MOON",
+          "clue": "Earth's satellite"
+        },
+        {
+          "number": 9,
+          "row": 1,
+          "col": 7,
+          "answer": "RAIN",
+          "clue": "Falls from clouds"
+        },
+        {
+          "number": 10,
+          "row": 0,
+          "col": 11,
+          "answer": "BOOK",
+          "clue": "Contains pages"
+        },
+        {
+          "number": 11,
+          "row": 2,
+          "col": 9,
+          "answer": "STAR",
+          "clue": "Shines at night"
+        },
+        {
+          "number": 12,
+          "row": 1,
+          "col": 12,
+          "answer": "SKY",
+          "clue": "Above us all"
+        },
+        {
+          "number": 14,
+          "row": 6,
+          "col": 4,
+          "answer": "RIVER",
+          "clue": "Flows to the sea"
+        },
+        {
+          "number": 15,
+          "row": 4,
+          "col": 1,
+          "answer": "MOUNTAIN",
+          "clue": "High landform"
+        },
+        {
+          "number": 16,
+          "row": 3,
+          "col": 0,
+          "answer": "STONE",
+          "clue": "Hard material"
+        },
+        {
+          "number": 17,
+          "row": 8,
+          "col": 6,
+          "answer": "LIGHT",
+          "clue": "Illuminates"
+        },
+        {
+          "number": 19,
+          "row": 9,
+          "col": 4,
+          "answer": "FLOWER",
+          "clue": "Blooms in garden"
+        },
+        {
+          "number": 20,
+          "row": 5,
+          "col": 10,
+          "answer": "OCEAN",
+          "clue": "Bigger than a sea"
+        },
+        {
+          "number": 21,
+          "row": 4,
+          "col": 11,
+          "answer": "BIRD",
+          "clue": "Chirper"
+        },
+        {
+          "number": 22,
+          "row": 10,
+          "col": 5,
+          "answer": "BUTTERFLY",
+          "clue": "Has wings"
+        },
+        {
+          "number": 23,
+          "row": 5,
+          "col": 0,
+          "answer": "CHAIR",
+          "clue": "You sit on it"
+        },
+        {
+          "number": 25,
+          "row": 8,
+          "col": 0,
+          "answer": "PHONE",
+          "clue": "Makes calls"
+        },
+        {
+          "number": 26,
+          "row": 11,
+          "col": 3,
+          "answer": "WINDOW",
+          "clue": "Lets light in"
+        },
+        {
+          "number": 28,
+          "row": 6,
+          "col": 10,
+          "answer": "HOUSE",
+          "clue": "Place to live"
+        },
+        {
+          "number": 29,
+          "row": 12,
+          "col": 0,
+          "answer": "RIVERBANK",
+          "clue": "Side of river"
+        },
+        {
+          "number": 31,
+          "row": 13,
+          "col": 0,
+          "answer": "VALLEY",
+          "clue": "Between mountains"
+        },
+        {
+          "number": 32,
+          "row": 13,
+          "col": 9,
+          "answer": "DESERT",
+          "clue": "Hot, sandy"
+        },
+        {
+          "number": 33,
+          "row": 14,
+          "col": 0,
+          "answer": "GARDEN",
+          "clue": "Plants grow"
+        },
+        {
+          "number": 34,
+          "row": 14,
+          "col": 7,
+          "answer": "BRIDGE",
+          "clue": "Crosses water"
+        }
+      ],
+      "cluesDown": [
+        {
+          "number": 3,
+          "row": 0,
+          "col": 3,
+          "answer": "SUN",
+          "clue": "Star of our system"
+        },
+        {
+          "number": 4,
+          "row": 5,
+          "col": 8,
+          "answer": "ART",
+          "clue": "Creative work"
+        },
+        {
+          "number": 7,
+          "row": 0,
+          "col": 9,
+          "answer": "FISH",
+          "clue": "Swims in water"
+        },
+        {
+          "number": 8,
+          "row": 0,
+          "col": 4,
+          "answer": "TREE",
+          "clue": "Grows leaves"
+        },
+        {
+          "number": 13,
+          "row": 2,
+          "col": 6,
+          "answer": "LEAF",
+          "clue": "Part of a tree"
+        },
+        {
+          "number": 1,
+          "row": 7,
+          "col": 6,
+          "answer": "CLOUD",
+          "clue": "White and fluffy"
+        },
+        {
+          "number": 18,
+          "row": 3,
+          "col": 13,
+          "answer": "GRASS",
+          "clue": "Green plant"
+        },
+        {
+          "number": 24,
+          "row": 7,
+          "col": 12,
+          "answer": "TABLE",
+          "clue": "Holds things"
+        },
+        {
+          "number": 23,
+          "row": 5,
+          "col": 0,
+          "answer": "COMPUTER",
+          "clue": "Electronic device"
+        },
+        {
+          "number": 27,
+          "row": 7,
+          "col": 2,
+          "answer": "DOOR",
+          "clue": "Entrance/exit"
+        },
+        {
+          "number": 30,
+          "row": 8,
+          "col": 14,
+          "answer": "FOREST",
+          "clue": "Lots of trees"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Level 2",
+      "rows": 15,
+      "cols": 15,
+      "grid": [
+        "FG##OSE#VALLEYD",
+        "OR##WHALE#HOUSE",
+        "RA##LAG#L#S#B#S",
+        "ESEA#RL#EST#R#E",
+        "SSSNAKE#PPO#I#R",
+        "T##TDOLPHINPD#T",
+        "#CLIGHT#ADEEG##",
+        "QAE##LIONE#NERP",
+        "USAFROG#TR#G#IR",
+        "ETFLBEE#CLOUDVI",
+        "EL#O#CROCODILEN",
+        "NE#WMOUNTAIN#RC",
+        "###EO#CHAIR###E",
+        "###RO#TABLE###S",
+        "##KING#PHONE##S"
+      ],
+      "cluesAcross": [
+        {
+          "number": 1,
+          "row": 7,
+          "col": 5,
+          "answer": "LION",
+          "clue": "King of the jungle"
+        },
+        {
+          "number": 4,
+          "row": 1,
+          "col": 4,
+          "answer": "WHALE",
+          "clue": "Giant of the sea"
+        },
+        {
+          "number": 7,
+          "row": 5,
+          "col": 4,
+          "answer": "DOLPHIN",
+          "clue": "Intelligent marine mammal"
+        },
+        {
+          "number": 8,
+          "row": 8,
+          "col": 3,
+          "answer": "FROG",
+          "clue": "Jumps"
+        },
+        {
+          "number": 9,
+          "row": 4,
+          "col": 2,
+          "answer": "SNAKE",
+          "clue": "Slithers"
+        },
+        {
+          "number": 11,
+          "row": 9,
+          "col": 4,
+          "answer": "BEE",
+          "clue": "Makes honey"
+        },
+        {
+          "number": 13,
+          "row": 10,
+          "col": 5,
+          "answer": "CROCODILE",
+          "clue": "Lurks in water"
+        },
+        {
+          "number": 16,
+          "row": 3,
+          "col": 1,
+          "answer": "SEA",
+          "clue": "Salty expanse"
+        },
+        {
+          "number": 17,
+          "row": 11,
+          "col": 4,
+          "answer": "MOUNTAIN",
+          "clue": "High landform"
+        },
+        {
+          "number": 18,
+          "row": 9,
+          "col": 8,
+          "answer": "CLOUD",
+          "clue": "White in sky"
+        },
+        {
+          "number": 20,
+          "row": 6,
+          "col": 2,
+          "answer": "LIGHT",
+          "clue": "Illuminates"
+        },
+        {
+          "number": 24,
+          "row": 0,
+          "col": 8,
+          "answer": "VALLEY",
+          "clue": "Between mountains"
+        },
+        {
+          "number": 28,
+          "row": 14,
+          "col": 2,
+          "answer": "KING",
+          "clue": "Ruler"
+        },
+        {
+          "number": 31,
+          "row": 1,
+          "col": 10,
+          "answer": "HOUSE",
+          "clue": "Place to live"
+        },
+        {
+          "number": 32,
+          "row": 12,
+          "col": 6,
+          "answer": "CHAIR",
+          "clue": "You sit on it"
+        },
+        {
+          "number": 33,
+          "row": 13,
+          "col": 6,
+          "answer": "TABLE",
+          "clue": "Holds things"
+        },
+        {
+          "number": 34,
+          "row": 14,
+          "col": 7,
+          "answer": "PHONE",
+          "clue": "Makes calls"
+        }
+      ],
+      "cluesDown": [
+        {
+          "number": 2,
+          "row": 6,
+          "col": 6,
+          "answer": "TIGER",
+          "clue": "Striped predator"
+        },
+        {
+          "number": 3,
+          "row": 1,
+          "col": 8,
+          "answer": "ELEPHANT",
+          "clue": "Large mammal"
+        },
+        {
+          "number": 5,
+          "row": 0,
+          "col": 5,
+          "answer": "SHARK",
+          "clue": "Fierce fish"
+        },
+        {
+          "number": 6,
+          "row": 0,
+          "col": 6,
+          "answer": "EAGLE",
+          "clue": "Bird of prey"
+        },
+        {
+          "number": 10,
+          "row": 3,
+          "col": 3,
+          "answer": "ANT",
+          "clue": "Tiny insect"
+        },
+        {
+          "number": 12,
+          "row": 3,
+          "col": 9,
+          "answer": "SPIDER",
+          "clue": "Eight legs"
+        },
+        {
+          "number": 14,
+          "row": 5,
+          "col": 11,
+          "answer": "PENGUIN",
+          "clue": "Cannot fly"
+        },
+        {
+          "number": 15,
+          "row": 0,
+          "col": 4,
+          "answer": "OWL",
+          "clue": "Night bird"
+        },
+        {
+          "number": 19,
+          "row": 2,
+          "col": 10,
+          "answer": "STONE",
+          "clue": "Hard material"
+        },
+        {
+          "number": 21,
+          "row": 0,
+          "col": 1,
+          "answer": "GRASS",
+          "clue": "Green plant"
+        },
+        {
+          "number": 20,
+          "row": 6,
+          "col": 2,
+          "answer": "LEAF",
+          "clue": "Part of a tree"
+        },
+        {
+          "number": 17,
+          "row": 11,
+          "col": 4,
+          "answer": "MOON",
+          "clue": "Earth's satellite"
+        },
+        {
+          "number": 22,
+          "row": 7,
+          "col": 13,
+          "answer": "RIVER",
+          "clue": "Flows to the sea"
+        },
+        {
+          "number": 8,
+          "row": 8,
+          "col": 3,
+          "answer": "FLOWER",
+          "clue": "Blooms in garden"
+        },
+        {
+          "number": 23,
+          "row": 0,
+          "col": 0,
+          "answer": "FOREST",
+          "clue": "Lots of trees"
+        },
+        {
+          "number": 25,
+          "row": 0,
+          "col": 14,
+          "answer": "DESERT",
+          "clue": "Hot, sandy"
+        },
+        {
+          "number": 26,
+          "row": 2,
+          "col": 12,
+          "answer": "BRIDGE",
+          "clue": "Crosses water"
+        },
+        {
+          "number": 27,
+          "row": 6,
+          "col": 1,
+          "answer": "CASTLE",
+          "clue": "Medieval building"
+        },
+        {
+          "number": 29,
+          "row": 7,
+          "col": 0,
+          "answer": "QUEEN",
+          "clue": "Royal lady"
+        },
+        {
+          "number": 30,
+          "row": 7,
+          "col": 14,
+          "answer": "PRINCE",
+          "clue": "Royal son"
+        },
+        {
+          "number": 30,
+          "row": 7,
+          "col": 14,
+          "answer": "PRINCESS",
+          "clue": "Royal daughter"
+        }
+      ]
+    }
+  ]
+}
