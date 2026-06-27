@@ -1,0 +1,7504 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "words": [
+        "MAGHRIB",
+        "HALQ",
+        "OTTOMAN",
+        "CAIRO",
+        "TAHAJJUD",
+        "KABIR",
+        "QUBBAH",
+        "TAHLEEL",
+        "TURBAH",
+        "MUIZZ"
+      ]
+    },
+    {
+      "id": 2,
+      "words": [
+        "THIQA",
+        "KASHHI",
+        "HURR",
+        "TAKBIR",
+        "RUKUBI",
+        "SUHAYB",
+        "TAFWID",
+        "IFTITAH",
+        "SASAA",
+        "KUMEYL"
+      ]
+    },
+    {
+      "id": 3,
+      "words": [
+        "MUTAWAF",
+        "MUFASSIR",
+        "SAWM",
+        "MATN",
+        "NAJASHI",
+        "SHAHADAH",
+        "AMANAH",
+        "NAHY",
+        "WARASAT",
+        "QIRAAT"
+      ]
+    },
+    {
+      "id": 4,
+      "words": [
+        "MIZAN",
+        "KHAWF",
+        "QADR",
+        "HUSAYN",
+        "SHAHID",
+        "KADHIM",
+        "MUFASSIR",
+        "SINA",
+        "MUTLAQ",
+        "TABIYAH"
+      ]
+    },
+    {
+      "id": 5,
+      "words": [
+        "AZIZ",
+        "RAFI",
+        "TAWIL",
+        "ALIM",
+        "ANDALUS",
+        "KABIR",
+        "MUSLIM",
+        "DAIF",
+        "SAWM",
+        "ARBAEEN"
+      ]
+    },
+    {
+      "id": 6,
+      "words": [
+        "KHAFIDH",
+        "HIFZ",
+        "ALIM",
+        "HUDUD",
+        "NAFILAH",
+        "NABUWWAH",
+        "WITR",
+        "HADI",
+        "HUDHAYFAH",
+        "MIQDAD"
+      ]
+    },
+    {
+      "id": 7,
+      "words": [
+        "WITR",
+        "SAMIA",
+        "SINA",
+        "FITRAH",
+        "KHAFIDH",
+        "GHARAH",
+        "NADWAH",
+        "RIYA",
+        "HAKAM",
+        "TADAKHUL"
+      ]
+    },
+    {
+      "id": 8,
+      "words": [
+        "FARABI",
+        "MUTAWATIR",
+        "AQL",
+        "AMRU",
+        "HUKM",
+        "THABIT",
+        "TAHAQQUQ",
+        "TADABBUR",
+        "TUSI",
+        "HASANAT"
+      ]
+    },
+    {
+      "id": 9,
+      "words": [
+        "BAGHDAD",
+        "TAMYIZ",
+        "IKHTIYAR",
+        "SAHIH",
+        "TANDHIR",
+        "HASANAT",
+        "HAYAT",
+        "FATIMID",
+        "DAMASCUS",
+        "QUDRAT"
+      ]
+    },
+    {
+      "id": 10,
+      "words": [
+        "QAHAAR",
+        "BASMALAH",
+        "WASIYAH",
+        "MAHR",
+        "LAHAWLA",
+        "KHILAFAH",
+        "ADL",
+        "GHAYBAH",
+        "TAZKIYAH",
+        "TAHARAH"
+      ]
+    },
+    {
+      "id": 11,
+      "words": [
+        "NISA",
+        "JAMAAH",
+        "UDHIYYA",
+        "NUFUS",
+        "TANZIL",
+        "ZAYNAB",
+        "SINAN",
+        "TARTIL",
+        "MUSLIM",
+        "SHIMR"
+      ]
+    },
+    {
+      "id": 12,
+      "words": [
+        "TALBIYAH",
+        "KHAWF",
+        "TAZALLU",
+        "MUNKAR",
+        "MASLIS",
+        "QADA",
+        "JUMUAH",
+        "GARIB",
+        "MUNJAT",
+        "JAMAAH"
+      ]
+    },
+    {
+      "id": 13,
+      "words": [
+        "QABIDH",
+        "HAYAT",
+        "ATASH",
+        "NATHAR",
+        "SALAM",
+        "ASHURA",
+        "SAKINAH",
+        "SHIRKAH",
+        "SULHA",
+        "SHAKUR"
+      ]
+    },
+    {
+      "id": 14,
+      "words": [
+        "HUSAYN",
+        "GHAYT",
+        "RIYADAH",
+        "HASAD",
+        "RAHN",
+        "IDADDAH",
+        "JANNAH",
+        "MUTAWAF",
+        "NASIHAH",
+        "SHURA"
+      ]
+    },
+    {
+      "id": 15,
+      "words": [
+        "MABDA",
+        "NAFS",
+        "JAMAAH",
+        "SAQIFAH",
+        "SALMAN",
+        "ZAWAL",
+        "MASHIYAH",
+        "SHAHID",
+        "HADD",
+        "TAJARRUD"
+      ]
+    },
+    {
+      "id": 16,
+      "words": [
+        "KARAM",
+        "MAQYAD",
+        "SABA",
+        "THAQALAYN",
+        "MAFATIH",
+        "HIRS",
+        "SAMIA",
+        "KISSA",
+        "AQL",
+        "KADHIB"
+      ]
+    },
+    {
+      "id": 17,
+      "words": [
+        "RUQAYAH",
+        "ILLAH",
+        "AMANAH",
+        "HASAD",
+        "GHADAB",
+        "MUSHID",
+        "IHARM",
+        "THUBUT",
+        "UDHIYYA",
+        "MUSLIM"
+      ]
+    },
+    {
+      "id": 18,
+      "words": [
+        "KARBALA",
+        "ZAMIN",
+        "MASLIS",
+        "HALQ",
+        "QIBLAH",
+        "IHARM",
+        "BAB",
+        "JANAZAH",
+        "HADI",
+        "KHUBAH"
+      ]
+    },
+    {
+      "id": 19,
+      "words": [
+        "BASMALAH",
+        "QIRAAT",
+        "ANDALUS",
+        "BALKANS",
+        "BAGHDAD",
+        "SUJUD",
+        "TILAWAH",
+        "TAQARRUB",
+        "JAMI",
+        "BATIN"
+      ]
+    },
+    {
+      "id": 20,
+      "words": [
+        "MATN",
+        "NAJAF",
+        "WARA",
+        "BAB",
+        "TAWWABIN",
+        "ZAJAR",
+        "KARBALA",
+        "HURR",
+        "TAHDHIB",
+        "GHIBAH"
+      ]
+    },
+    {
+      "id": 21,
+      "words": [
+        "MIQDAD",
+        "RUQAYAH",
+        "BAGHDAD",
+        "TARAWIH",
+        "BADR",
+        "YAZID",
+        "QASIM",
+        "SASANID",
+        "HIRA",
+        "ADHINA"
+      ]
+    },
+    {
+      "id": 22,
+      "words": [
+        "TAMA",
+        "DAMASCUS",
+        "NILE",
+        "UMAR",
+        "ATASH",
+        "SALAM",
+        "AMANAH",
+        "BAB",
+        "TAWBAH",
+        "SAYYIDA"
+      ]
+    },
+    {
+      "id": 23,
+      "words": [
+        "MURAQABA",
+        "QUDRAT",
+        "BASMALAH",
+        "TAJARRUD",
+        "TALBIYAH",
+        "MIHRAB",
+        "SAHAR",
+        "MASJID",
+        "BUKHUL",
+        "SADR"
+      ]
+    },
+    {
+      "id": 24,
+      "words": [
+        "IFTITAH",
+        "TAFKKUR",
+        "MUHASABA",
+        "JUUD",
+        "AQL",
+        "WUJUD",
+        "AMR",
+        "LAHAWLA",
+        "TAHLIL",
+        "BURHAN"
+      ]
+    },
+    {
+      "id": 25,
+      "words": [
+        "FATTAH",
+        "GHARAH",
+        "GHIBAH",
+        "QUDDUS",
+        "MUSHID",
+        "MUHKAM",
+        "NASIKH",
+        "ZAJAR",
+        "FITRAH",
+        "GHADAB"
+      ]
+    },
+    {
+      "id": 26,
+      "words": [
+        "RUKUBI",
+        "SAWM",
+        "NAYAM",
+        "MUHIT",
+        "SHIRKAH",
+        "QADA",
+        "MUIZZ",
+        "TALAQ",
+        "KHUMS",
+        "ISMATE"
+      ]
+    },
+    {
+      "id": 27,
+      "words": [
+        "ABUZAR",
+        "SALMAN",
+        "HARAM",
+        "LATIF",
+        "HADITH",
+        "MUALLAL",
+        "MUSAWWIR",
+        "KADHIM",
+        "ZARIH",
+        "QUDDUS"
+      ]
+    },
+    {
+      "id": 28,
+      "words": [
+        "NASKH",
+        "MADANI",
+        "TABSHIR",
+        "NUFUS",
+        "MUSIBAH",
+        "BATIN",
+        "QADR",
+        "TAWWABIN",
+        "MUQAYYAD",
+        "UMAR"
+      ]
+    },
+    {
+      "id": 29,
+      "words": [
+        "TAQARRUB",
+        "TAWAF",
+        "KUMEYL",
+        "QABIDH",
+        "KHABIR",
+        "IQAMAH",
+        "SAMARRA",
+        "WAJIB",
+        "UDHIYYA",
+        "JAMIAH"
+      ]
+    },
+    {
+      "id": 30,
+      "words": [
+        "IDADDAH",
+        "ABID",
+        "MUNTAZAR",
+        "THUBUT",
+        "ZAWAL",
+        "FATTAH",
+        "KAFALAH",
+        "MUTLAQ",
+        "BASIR",
+        "ABUZAR"
+      ]
+    },
+    {
+      "id": 31,
+      "words": [
+        "KAABAH",
+        "UTHMAN",
+        "ARAD",
+        "EID",
+        "YAZID",
+        "ADHINA",
+        "MUSHID",
+        "ZAYNAB",
+        "FAQIH",
+        "SAKINAH"
+      ]
+    },
+    {
+      "id": 32,
+      "words": [
+        "MAHDI",
+        "MAJBUL",
+        "TAYYIB",
+        "WADHA",
+        "MUSALSAL",
+        "ALI",
+        "JAWHAN",
+        "AMMAR",
+        "SAJJAD",
+        "ATASH"
+      ]
+    },
+    {
+      "id": 33,
+      "words": [
+        "QURBAN",
+        "MASLIS",
+        "KHABAB",
+        "MUKHTAR",
+        "ADHAN",
+        "JUUD",
+        "NASIHAH",
+        "TADARRU",
+        "MIQDAD",
+        "TADLIS"
+      ]
+    },
+    {
+      "id": 34,
+      "words": [
+        "NUFUS",
+        "FAQIH",
+        "SAHIH",
+        "TAWTHIQ",
+        "GHARAR",
+        "TANDHUR",
+        "MASHUR",
+        "FARABI",
+        "NATHAR",
+        "MUHARRAM"
+      ]
+    },
+    {
+      "id": 35,
+      "words": [
+        "TAYYIB",
+        "EGYPT",
+        "KUFI",
+        "SYRIA",
+        "TAWASSAL",
+        "CORDOBA",
+        "MIQDAD",
+        "HUDAYBIYAH",
+        "RIDA",
+        "SINDH"
+      ]
+    },
+    {
+      "id": 36,
+      "words": [
+        "SABA",
+        "NAFILAH",
+        "JIHAD",
+        "ARAD",
+        "RUKUBI",
+        "MAYASHA",
+        "JAMI",
+        "QASD",
+        "TANDHUR",
+        "JANAZAH"
+      ]
+    },
+    {
+      "id": 37,
+      "words": [
+        "BADAA",
+        "FATIMA",
+        "MAFATIH",
+        "TAHDHIB",
+        "ISTIGHFAR",
+        "FARAJ",
+        "QURAYSH",
+        "ABID",
+        "QABIDH",
+        "MUNKAR"
+      ]
+    },
+    {
+      "id": 38,
+      "words": [
+        "MUQAYYAD",
+        "QADA",
+        "HIFZ",
+        "RABB",
+        "NATHAR",
+        "SAWM",
+        "MARJA",
+        "RIDA",
+        "WASIYAH",
+        "JANNAH"
+      ]
+    },
+    {
+      "id": 39,
+      "words": [
+        "MUSLIM",
+        "MUDHIL",
+        "IDADDAH",
+        "QUDDUS",
+        "IJTIHAD",
+        "HIDANAH",
+        "MARJA",
+        "HIBAT",
+        "AZIM",
+        "KHABIR"
+      ]
+    },
+    {
+      "id": 40,
+      "words": [
+        "QURAYSH",
+        "SALAH",
+        "SAMI",
+        "RABB",
+        "MARJA",
+        "MUBALAHAH",
+        "NASKH",
+        "QURAN",
+        "HAFIZ",
+        "NASIKH"
+      ]
+    },
+    {
+      "id": 41,
+      "words": [
+        "NISA",
+        "SAJJAHD",
+        "MUSTAHABB",
+        "HASAN",
+        "JAWHAN",
+        "HIDANAH",
+        "QADA",
+        "KISSA",
+        "BILAL",
+        "TAWAKKUL"
+      ]
+    },
+    {
+      "id": 42,
+      "words": [
+        "AZIM",
+        "HUSAYN",
+        "RAFI",
+        "SADIQ",
+        "SALAWAT",
+        "SAJJAD",
+        "WAHHAB",
+        "AMMAR",
+        "TAKBIR",
+        "TAQARRUB"
+      ]
+    },
+    {
+      "id": 43,
+      "words": [
+        "QUNUT",
+        "SABR",
+        "KAFALAH",
+        "JAWSHAN",
+        "KARAM",
+        "AHD",
+        "SHAHID",
+        "IJARAH",
+        "KHUMS",
+        "KHAWF"
+      ]
+    },
+    {
+      "id": 44,
+      "words": [
+        "WARASAT",
+        "JAMIAH",
+        "TAWIL",
+        "SHIMR",
+        "MUQAYYAD",
+        "SUJUD",
+        "NIKAH",
+        "ZARIH",
+        "SHAM",
+        "ZAYNAB"
+      ]
+    },
+    {
+      "id": 45,
+      "words": [
+        "KARBALA",
+        "ARBAEEN",
+        "RAKBAH",
+        "BAY",
+        "GHAYT",
+        "HUDAYBIYAH",
+        "KUFI",
+        "HAJJ",
+        "SHIRKAH",
+        "SINAN"
+      ]
+    },
+    {
+      "id": 46,
+      "words": [
+        "ARBAEEN",
+        "HAMDALAH",
+        "TAHLIL",
+        "MUNJAT",
+        "HUR",
+        "SAHAR",
+        "QUDS",
+        "BASMALAH",
+        "TAHMID",
+        "SALAWAT"
+      ]
+    },
+    {
+      "id": 47,
+      "words": [
+        "KADHIB",
+        "WAJIB",
+        "ABUAYYUB",
+        "TAMA",
+        "FARABI",
+        "MUZDALIFAH",
+        "WARA",
+        "IDADDAH",
+        "IKTIKAF",
+        "TASHKIK"
+      ]
+    },
+    {
+      "id": 48,
+      "words": [
+        "EID",
+        "QURBAN",
+        "IFTITAH",
+        "SAMARRA",
+        "JAMIAH",
+        "KADHIM",
+        "BASMALAH",
+        "TAHAJJUD",
+        "TAQARRUB",
+        "MAYASHA"
+      ]
+    },
+    {
+      "id": 49,
+      "words": [
+        "YAZID",
+        "DARI",
+        "FAQIH",
+        "GHAYT",
+        "KULAYNI",
+        "MUSLIM",
+        "HUR",
+        "ZAYNAB",
+        "MUTAHIR",
+        "BASIR"
+      ]
+    },
+    {
+      "id": 50,
+      "words": [
+        "THUBUT",
+        "BASMALAH",
+        "ZAKAT",
+        "QUBBAH",
+        "NAJAF",
+        "TASABUH",
+        "WAJIB",
+        "NASKH",
+        "MASHIYAH",
+        "TAWASUL"
+      ]
+    },
+    {
+      "id": 51,
+      "words": [
+        "HANI",
+        "BYZANTINE",
+        "MASHIYAH",
+        "DHU",
+        "HUNAYN",
+        "IBTIDA",
+        "ANDALUS",
+        "MAKHARIJ",
+        "KUFI",
+        "FATIMID"
+      ]
+    },
+    {
+      "id": 52,
+      "words": [
+        "HUNAYN",
+        "SABA",
+        "HIZB",
+        "JAWSHAN",
+        "EGYPT",
+        "SAJJAD",
+        "TAKBIR",
+        "HASHIM",
+        "TAQARRUB",
+        "BAGHDAD"
+      ]
+    },
+    {
+      "id": 53,
+      "words": [
+        "KHUMS",
+        "IHARM",
+        "ASWAD",
+        "AMM",
+        "SHAHADAH",
+        "MIKAIL",
+        "TANZIL",
+        "WAKALAH",
+        "MAYSAM",
+        "SIFAT"
+      ]
+    },
+    {
+      "id": 54,
+      "words": [
+        "AMANAH",
+        "ADL",
+        "HUDHAIFA",
+        "RAJAH",
+        "AHD",
+        "SUHAYB",
+        "KUMEYL",
+        "HIZB",
+        "HAKAM",
+        "HAFIZ"
+      ]
+    },
+    {
+      "id": 55,
+      "words": [
+        "KALAM",
+        "MUMIN",
+        "SINAN",
+        "KAABAH",
+        "ZUHD",
+        "YAZID",
+        "MUZDALIFAH",
+        "FITRAH",
+        "SHUJAA",
+        "SUQ"
+      ]
+    },
+    {
+      "id": 56,
+      "words": [
+        "RAZZAQ",
+        "MUTAAH",
+        "RABB",
+        "MAYSIR",
+        "TAHARAH",
+        "HASHIM",
+        "MAHDI",
+        "TAYYIB",
+        "RIDA",
+        "MARJA"
+      ]
+    },
+    {
+      "id": 57,
+      "words": [
+        "RAHMAN",
+        "MUGHAL",
+        "HAFIZ",
+        "OWAIS",
+        "SALMAN",
+        "MAAD",
+        "TATHEER",
+        "MARKAZ",
+        "JAHILIYYAH",
+        "BYZANTINE"
+      ]
+    },
+    {
+      "id": 58,
+      "words": [
+        "MUNQATI",
+        "TAJARRUD",
+        "NAFS",
+        "MAWQUF",
+        "MAJLISHI",
+        "BILAL",
+        "MUSHID",
+        "THABIT",
+        "KHILAFAH",
+        "FITRAH"
+      ]
+    },
+    {
+      "id": 59,
+      "words": [
+        "HADI",
+        "SADIQ",
+        "EID",
+        "KABIR",
+        "UDHIYYA",
+        "MURTAZA",
+        "MUJIR",
+        "ZARIH",
+        "MAHDI",
+        "ALI"
+      ]
+    },
+    {
+      "id": 60,
+      "words": [
+        "MAHDI",
+        "SHAHID",
+        "HAJJ",
+        "KARBALA",
+        "KHAZIN",
+        "KHAFIDH",
+        "MUDHIL",
+        "RIWAYAH",
+        "MASHHAD",
+        "TAWHID"
+      ]
+    },
+    {
+      "id": 61,
+      "words": [
+        "RAHN",
+        "TAWAKKUL",
+        "TAJWID",
+        "IRADAH",
+        "DAIF",
+        "SADAQAH",
+        "MUSTAHABB",
+        "TAQSIR",
+        "SALAH",
+        "MAWQUF"
+      ]
+    },
+    {
+      "id": 62,
+      "words": [
+        "MAWDU",
+        "WALAD",
+        "IJTIHAD",
+        "NUFUS",
+        "FATTAH",
+        "QASIM",
+        "MAJBUL",
+        "SHURAYH",
+        "UTHMAN",
+        "TADLIS"
+      ]
+    },
+    {
+      "id": 63,
+      "words": [
+        "SUHAYB",
+        "ASHURA",
+        "BURHAN",
+        "JAMI",
+        "JABIR",
+        "ADHINA",
+        "SAFAR",
+        "TAJWID",
+        "SAQIFAH",
+        "BANU"
+      ]
+    },
+    {
+      "id": 64,
+      "words": [
+        "MIZAN",
+        "HUDHAIFA",
+        "TAYYAR",
+        "TAHLIL",
+        "WITR",
+        "QUNUT",
+        "RAJAA",
+        "MUNAJAH",
+        "MIRAJ",
+        "MAKRUH"
+      ]
+    },
+    {
+      "id": 65,
+      "words": [
+        "AKRAM",
+        "IFTITAH",
+        "HUDHAIFA",
+        "WAKALAH",
+        "HILM",
+        "TAQARRUB",
+        "GHIBAH",
+        "WUDHU",
+        "MAHR",
+        "KAFALAH"
+      ]
+    },
+    {
+      "id": 66,
+      "words": [
+        "MASHIYAH",
+        "MUNJAT",
+        "FITRAH",
+        "TAWHID",
+        "FARABI",
+        "TAHMID",
+        "MARJA",
+        "KHAFIDH",
+        "MUMIN",
+        "RAFI"
+      ]
+    },
+    {
+      "id": 67,
+      "words": [
+        "KHAYBAR",
+        "TAHDHIB",
+        "MUTAWATIR",
+        "BASRA",
+        "BARA",
+        "MINA",
+        "AMRU",
+        "NAFILAH",
+        "SALMAN",
+        "TADLIS"
+      ]
+    },
+    {
+      "id": 68,
+      "words": [
+        "TAWAF",
+        "EUFRATES",
+        "QURBAN",
+        "KARAM",
+        "PERSIA",
+        "NAMEEMAH",
+        "RAJAA",
+        "IKTIKAF",
+        "HUNAYN",
+        "MUHASABA"
+      ]
+    },
+    {
+      "id": 69,
+      "words": [
+        "MAQAM",
+        "MUTAWAF",
+        "MASHIYAH",
+        "FITRAH",
+        "AHL",
+        "IRADAH",
+        "HIKMAH",
+        "JIBRIL",
+        "TAHLEEL",
+        "DHU"
+      ]
+    },
+    {
+      "id": 70,
+      "words": [
+        "NASIHAH",
+        "MAQTU",
+        "RIJAL",
+        "AMANAH",
+        "AQL",
+        "NAMEEMAH",
+        "ADL",
+        "IRADAH",
+        "MUSALSAL",
+        "MASLIS"
+      ]
+    },
+    {
+      "id": 71,
+      "words": [
+        "KARAM",
+        "HILM",
+        "NAHY",
+        "ZAYNAB",
+        "MURAQABA",
+        "TURBAH",
+        "TAUBAH",
+        "ADHAB",
+        "JUUD",
+        "SIDQ"
+      ]
+    },
+    {
+      "id": 72,
+      "words": [
+        "GHUFLAT",
+        "MUNAJAH",
+        "TUSI",
+        "TAKBIR",
+        "RIBA",
+        "ADL",
+        "NASIHAH",
+        "HARAM",
+        "BAY",
+        "TASABUH"
+      ]
+    },
+    {
+      "id": 73,
+      "words": [
+        "HURR",
+        "SUQ",
+        "JABIR",
+        "KULAYNI",
+        "HADITH",
+        "UTHMAN",
+        "HUDHAIFA",
+        "JUMUAH",
+        "THIQA",
+        "MASJID"
+      ]
+    },
+    {
+      "id": 74,
+      "words": [
+        "SUQ",
+        "QIBLAH",
+        "RAHMAN",
+        "BASIT",
+        "HILM",
+        "HASAD",
+        "QURBAN",
+        "IHARM",
+        "GHAFUR",
+        "JAMAAH"
+      ]
+    },
+    {
+      "id": 75,
+      "words": [
+        "RASHID",
+        "IRADAH",
+        "DARA",
+        "SHAFAH",
+        "RAHMAH",
+        "ZAYD",
+        "MAYSAM",
+        "KADHIM",
+        "HUDHAIFA",
+        "SABR"
+      ]
+    },
+    {
+      "id": 76,
+      "words": [
+        "HARAM",
+        "GHAYT",
+        "TAFWID",
+        "JAHILIYYAH",
+        "MUTAWATIR",
+        "KITAB",
+        "HIJRAH",
+        "ZARIH",
+        "MUNKAR",
+        "MAQTU"
+      ]
+    },
+    {
+      "id": 77,
+      "words": [
+        "ALI",
+        "MUNAJAH",
+        "BILAL",
+        "MAFATIH",
+        "ADL",
+        "ABID",
+        "TAYYIB",
+        "RUKUBI",
+        "TATHEER",
+        "GHUFLAT"
+      ]
+    },
+    {
+      "id": 78,
+      "words": [
+        "GHUSL",
+        "QANAAT",
+        "TAWIL",
+        "QIRAAT",
+        "NATHAR",
+        "ASKARI",
+        "ZAYD",
+        "FITNAH",
+        "ZAKAT",
+        "TILAWAH"
+      ]
+    },
+    {
+      "id": 79,
+      "words": [
+        "QADR",
+        "WAHI",
+        "TADARRU",
+        "FARAJ",
+        "BARA",
+        "THABIT",
+        "BURHAN",
+        "SUHAYB",
+        "HUKM",
+        "SABR"
+      ]
+    },
+    {
+      "id": 80,
+      "words": [
+        "TAQARRUB",
+        "MUHIT",
+        "ZUBAYR",
+        "SALMAN",
+        "TAMA",
+        "THUBUT",
+        "TASBIH",
+        "NAHY",
+        "AKRAM",
+        "SAJJAHD"
+      ]
+    },
+    {
+      "id": 81,
+      "words": [
+        "SALAM",
+        "YAMIN",
+        "TAHARAH",
+        "BAY",
+        "ISTIBSAR",
+        "TAQIYAH",
+        "GHAFFAR",
+        "JAHILIYYAH",
+        "MAQTU",
+        "CORDOBA"
+      ]
+    },
+    {
+      "id": 82,
+      "words": [
+        "IKTIKAF",
+        "UHUD",
+        "IBTILA",
+        "SINDH",
+        "TAZALLU",
+        "HUKM",
+        "SAFAVID",
+        "SABA",
+        "TAQSIR",
+        "MINA"
+      ]
+    },
+    {
+      "id": 83,
+      "words": [
+        "TAHDHIB",
+        "RUQAYAH",
+        "RIDA",
+        "WAHHAB",
+        "SAMARRA",
+        "GHAYT",
+        "MUNASHA",
+        "ZAHRA",
+        "MUSAWWIR",
+        "JABBAR"
+      ]
+    },
+    {
+      "id": 84,
+      "words": [
+        "MUSLIM",
+        "NAYAM",
+        "HUDHAYFAH",
+        "AHD",
+        "QANAAT",
+        "TAQARRUB",
+        "ADL",
+        "MUSIBAH",
+        "MAHDI",
+        "MATN"
+      ]
+    },
+    {
+      "id": 85,
+      "words": [
+        "HIZB",
+        "WIRD",
+        "IBTIDA",
+        "MAYSIR",
+        "HUDUD",
+        "AMRU",
+        "RASHID",
+        "HIFZ",
+        "AKRAM",
+        "SHURAYH"
+      ]
+    },
+    {
+      "id": 86,
+      "words": [
+        "HUNAYN",
+        "TAQIYAH",
+        "RAHMAN",
+        "ABBASID",
+        "CAIRO",
+        "KHANDAQ",
+        "WARASAT",
+        "RAHN",
+        "MUGHAL",
+        "ADHAN"
+      ]
+    },
+    {
+      "id": 87,
+      "words": [
+        "WARASAT",
+        "TUSI",
+        "NAJAF",
+        "SYRIA",
+        "WAJIB",
+        "MAHR",
+        "MAGHRIB",
+        "MASLIS",
+        "KHAYBAR",
+        "YAMIN"
+      ]
+    },
+    {
+      "id": 88,
+      "words": [
+        "AMMAR",
+        "HADI",
+        "SHURAYH",
+        "NUDBAT",
+        "MIRAJ",
+        "TAHLIL",
+        "SUHAYB",
+        "EGYPT",
+        "FATIMID",
+        "HALQ"
+      ]
+    },
+    {
+      "id": 89,
+      "words": [
+        "ZAYNAB",
+        "HARITH",
+        "MALIK",
+        "UHUD",
+        "SALMAN",
+        "WALAD",
+        "MUGHAL",
+        "AMRU",
+        "QASIM",
+        "TATHEER"
+      ]
+    },
+    {
+      "id": 90,
+      "words": [
+        "MALIK",
+        "RAHIM",
+        "IBTIDA",
+        "TILAWAH",
+        "JAMI",
+        "TAHAWUL",
+        "ASKARI",
+        "NATHAR",
+        "SADR",
+        "THAQALAYN"
+      ]
+    },
+    {
+      "id": 91,
+      "words": [
+        "HUDHAIFA",
+        "NISA",
+        "UMAR",
+        "MAFATIH",
+        "JABIR",
+        "AMMAR",
+        "BARA",
+        "JUNADAH",
+        "DUA",
+        "TAKBIR"
+      ]
+    },
+    {
+      "id": 92,
+      "words": [
+        "RAZZAQ",
+        "RABB",
+        "BUKHUL",
+        "KISSA",
+        "AMANAH",
+        "SHURA",
+        "ABID",
+        "HALIM",
+        "AZIM",
+        "WILAYAH"
+      ]
+    },
+    {
+      "id": 93,
+      "words": [
+        "MIKAIL",
+        "AHAD",
+        "ISTIBSAR",
+        "NASIHAH",
+        "MUSALSAL",
+        "HALQ",
+        "ABUZAR",
+        "MURAQABA",
+        "HADI",
+        "SAASAH"
+      ]
+    },
+    {
+      "id": 94,
+      "words": [
+        "ALI",
+        "MUMIN",
+        "GHARAR",
+        "BASIT",
+        "SUUD",
+        "MUNASHA",
+        "QABIDH",
+        "KADHIM",
+        "ZAWAL",
+        "MAHIYAH"
+      ]
+    },
+    {
+      "id": 95,
+      "words": [
+        "TANZIL",
+        "ZUHD",
+        "RASHID",
+        "JAMIAH",
+        "AMMAR",
+        "TAJWID",
+        "MUTLAQ",
+        "NAMEEMAH",
+        "BARA",
+        "MUHIT"
+      ]
+    },
+    {
+      "id": 96,
+      "words": [
+        "QARD",
+        "TAMYIZ",
+        "HASAD",
+        "TAKAFUL",
+        "BALAA",
+        "WUDHU",
+        "SIRAT",
+        "TAWAKKUL",
+        "TAZKIYAH",
+        "KADHIB"
+      ]
+    },
+    {
+      "id": 97,
+      "words": [
+        "MUSIBAH",
+        "ZAYNAB",
+        "NISA",
+        "RAHMAN",
+        "TADARRU",
+        "SUNNAH",
+        "GHIBAH",
+        "JAWHAN",
+        "TAMHIS",
+        "ADL"
+      ]
+    },
+    {
+      "id": 98,
+      "words": [
+        "MA",
+        "MAQAM",
+        "SAHARA",
+        "RAHMAH",
+        "ANDALUS",
+        "TABUK",
+        "TADAKHUL",
+        "ZAYNAB",
+        "TURBAH",
+        "SAKINAH"
+      ]
+    },
+    {
+      "id": 99,
+      "words": [
+        "MAKKAH",
+        "SHAHID",
+        "SALAT",
+        "TAHDHIB",
+        "HURR",
+        "MIZAN",
+        "QANAAT",
+        "MUTAAH",
+        "JAHILIYYAH",
+        "MUTAWATIR"
+      ]
+    },
+    {
+      "id": 100,
+      "words": [
+        "KHAZIN",
+        "ADHAB",
+        "ABDUL",
+        "IRADAH",
+        "AMMAR",
+        "BALAA",
+        "KARBALA",
+        "SIDQ",
+        "DARI",
+        "GHADIR"
+      ]
+    },
+    {
+      "id": 101,
+      "words": [
+        "MAQAM",
+        "HUDHAYFAH",
+        "UDHIYYA",
+        "KAFARA",
+        "KHALID",
+        "ASWAD",
+        "ADAB",
+        "NAJAF",
+        "RAJAA",
+        "QADAR"
+      ]
+    },
+    {
+      "id": 102,
+      "words": [
+        "WAJIB",
+        "HUDUD",
+        "MUHARRAM",
+        "SAASAH",
+        "NIKAH",
+        "UBAYD",
+        "SUJUD",
+        "RAHN",
+        "BARA",
+        "ZAYNAB"
+      ]
+    },
+    {
+      "id": 103,
+      "words": [
+        "AMR",
+        "BADR",
+        "SABR",
+        "TARAWIH",
+        "TADAKHUL",
+        "SUBHAN",
+        "ABBASID",
+        "TAWAKKUL",
+        "HIRA",
+        "DAMASCUS"
+      ]
+    },
+    {
+      "id": 104,
+      "words": [
+        "MIRAJ",
+        "KHABAB",
+        "ADHINA",
+        "RAJAA",
+        "MIHRAB",
+        "ISRAFIL",
+        "HASANAT",
+        "ABUAYYUB",
+        "BILAL",
+        "KITAB"
+      ]
+    },
+    {
+      "id": 105,
+      "words": [
+        "HAKAM",
+        "TAWHID",
+        "JABBAR",
+        "RAKBAH",
+        "BADR",
+        "ASHURA",
+        "HIZB",
+        "BASRA",
+        "QUDS",
+        "MAAD"
+      ]
+    },
+    {
+      "id": 106,
+      "words": [
+        "AMMAR",
+        "MURSAL",
+        "JUNADAH",
+        "DHU",
+        "KASHHI",
+        "HARITH",
+        "AKRAM",
+        "BILAL",
+        "MAJBUL",
+        "SHAM"
+      ]
+    },
+    {
+      "id": 107,
+      "words": [
+        "KARAM",
+        "ABBAS",
+        "GHUFLAT",
+        "HASAD",
+        "BUKHUL",
+        "SINAN",
+        "NABUWWAH",
+        "HALIM",
+        "RAKBAH",
+        "MAAD"
+      ]
+    },
+    {
+      "id": 108,
+      "words": [
+        "MAWDU",
+        "HUDUD",
+        "MAJLISHI",
+        "BALKANS",
+        "ABBASID",
+        "ADHAB",
+        "JABR",
+        "MAKKI",
+        "SAFAVID",
+        "NASKH"
+      ]
+    },
+    {
+      "id": 109,
+      "words": [
+        "TAWAKKUL",
+        "KHAZIN",
+        "NAJAF",
+        "WAJIB",
+        "MAYASHA",
+        "MUSHID",
+        "QUDRAT",
+        "HAMDALAH",
+        "FARAJ",
+        "IFTITAH"
+      ]
+    },
+    {
+      "id": 110,
+      "words": [
+        "MASLIS",
+        "BAY",
+        "ZAYNAB",
+        "GHARAR",
+        "MASHHAD",
+        "JAMARAT",
+        "FITRAH",
+        "JABBAR",
+        "IHARM",
+        "TAWHID"
+      ]
+    },
+    {
+      "id": 111,
+      "words": [
+        "SHUKR",
+        "RAJAA",
+        "WARA",
+        "HARITH",
+        "TASBIH",
+        "TASABUH",
+        "NAYAM",
+        "SHURAYH",
+        "HILM",
+        "TAMHIS"
+      ]
+    },
+    {
+      "id": 112,
+      "words": [
+        "TAFSIR",
+        "AZIZ",
+        "MUTLAQ",
+        "TAYYAR",
+        "HIFZ",
+        "HURR",
+        "MABDA",
+        "TILAWAH",
+        "QUDRAT",
+        "MIQDAD"
+      ]
+    },
+    {
+      "id": 113,
+      "words": [
+        "SAHARA",
+        "FITRAH",
+        "MASUD",
+        "HUDHAYFAH",
+        "KHAYBAR",
+        "JUNADAH",
+        "AKRAM",
+        "RAFI",
+        "UMAYYAD",
+        "HARITH"
+      ]
+    },
+    {
+      "id": 114,
+      "words": [
+        "NUDBAT",
+        "SABA",
+        "MUJIR",
+        "RIYADAH",
+        "TAHNIYAH",
+        "THABIT",
+        "JUNADAH",
+        "QUNUT",
+        "RASHID",
+        "TADARRU"
+      ]
+    },
+    {
+      "id": 115,
+      "words": [
+        "ISTIGHFAR",
+        "TIGRIS",
+        "SUUD",
+        "MAQAM",
+        "KUFI",
+        "MUHIT",
+        "QUBBAH",
+        "LAHAWLA",
+        "JAWSHAN",
+        "MUTLAQ"
+      ]
+    },
+    {
+      "id": 116,
+      "words": [
+        "WALAD",
+        "HIJRAH",
+        "GHADAB",
+        "TAQWA",
+        "TAMA",
+        "HADD",
+        "BAGHDAD",
+        "MARKAZ",
+        "ZARIH",
+        "YAZID"
+      ]
+    },
+    {
+      "id": 117,
+      "words": [
+        "QARD",
+        "TAQDEER",
+        "FAQIH",
+        "HUDHAYFAH",
+        "IKHTIYAR",
+        "MAQTU",
+        "MAHR",
+        "TAWTHIQ",
+        "FATIMA",
+        "MAKRUH"
+      ]
+    },
+    {
+      "id": 118,
+      "words": [
+        "HIJRAH",
+        "KARBALA",
+        "QUM",
+        "FATIMID",
+        "RIDA",
+        "HUSAYN",
+        "WAKALAH",
+        "SHAHADAH",
+        "SINDH",
+        "HARAM"
+      ]
+    },
+    {
+      "id": 119,
+      "words": [
+        "LATIF",
+        "TANDHUR",
+        "MARJA",
+        "TARTIL",
+        "IBTILA",
+        "JAMI",
+        "TAJARRUD",
+        "ZAHIR",
+        "MAHIYAH",
+        "TAWHID"
+      ]
+    },
+    {
+      "id": 120,
+      "words": [
+        "ABU",
+        "RAHMAN",
+        "TAHAQQUQ",
+        "KITAB",
+        "RAHIM",
+        "SINA",
+        "JANNAH",
+        "QIRAAT",
+        "HASHIM",
+        "MUFASSIR"
+      ]
+    },
+    {
+      "id": 121,
+      "words": [
+        "WIRD",
+        "KHAS",
+        "NASKH",
+        "UMAR",
+        "TAWASSAL",
+        "ARBAEEN",
+        "KITAB",
+        "HIZB",
+        "JANNAH",
+        "TAFSIR"
+      ]
+    },
+    {
+      "id": 122,
+      "words": [
+        "MUSIBAH",
+        "MAHR",
+        "CORDOBA",
+        "KHAWF",
+        "QADA",
+        "HUKM",
+        "HIKMAH",
+        "MAYSIR",
+        "KUFI",
+        "SULHA"
+      ]
+    },
+    {
+      "id": 123,
+      "words": [
+        "MAQTU",
+        "MAJBUL",
+        "SALAM",
+        "ARAD",
+        "SAMIA",
+        "TAQLID",
+        "HUNAYN",
+        "KUMEYL",
+        "LAHAWLA",
+        "ISTIBSAR"
+      ]
+    },
+    {
+      "id": 124,
+      "words": [
+        "SAMIA",
+        "HUBUT",
+        "TAWAKKUL",
+        "TAHNIYAH",
+        "SADAQAH",
+        "QUDS",
+        "MUZDALIFAH",
+        "MUTLAQ",
+        "RAWDAH",
+        "GHARAH"
+      ]
+    },
+    {
+      "id": 125,
+      "words": [
+        "NAFS",
+        "HUDHAYFAH",
+        "HAYAT",
+        "KISSA",
+        "QAJAR",
+        "DALIL",
+        "UHUD",
+        "ABU",
+        "SAMIA",
+        "ZAWAL"
+      ]
+    },
+    {
+      "id": 126,
+      "words": [
+        "MUSTAFA",
+        "NAYAM",
+        "SUHAYB",
+        "LAHAWLA",
+        "MURTAZA",
+        "ABUZAR",
+        "THABIT",
+        "BYZANTINE",
+        "SASANID",
+        "BAGHDAD"
+      ]
+    },
+    {
+      "id": 127,
+      "words": [
+        "TANDHIR",
+        "TAHDHIB",
+        "HUSAYN",
+        "NAQI",
+        "HIJRAH",
+        "ALI",
+        "AMRU",
+        "UMAYYAD",
+        "TAYYAR",
+        "SHAFAH"
+      ]
+    },
+    {
+      "id": 128,
+      "words": [
+        "ABDUL",
+        "NAFILAH",
+        "MIHRAB",
+        "IHARM",
+        "BALAA",
+        "TAHAJJUD",
+        "NAQI",
+        "MIQDAD",
+        "FITNAH",
+        "JUMUAH"
+      ]
+    },
+    {
+      "id": 129,
+      "words": [
+        "KHULI",
+        "SHIMR",
+        "SAASAH",
+        "MASUD",
+        "HUDHAYFAH",
+        "TAQDEER",
+        "AMRBAYN",
+        "ILLAH",
+        "HASANAT",
+        "BURHAN"
+      ]
+    },
+    {
+      "id": 130,
+      "words": [
+        "SYRIA",
+        "QARD",
+        "WALAD",
+        "WARA",
+        "AHL",
+        "SHAM",
+        "HUDAYBIYAH",
+        "RIYADAH",
+        "KASHF",
+        "HAJJ"
+      ]
+    },
+    {
+      "id": 131,
+      "words": [
+        "MUNASHA",
+        "DHU",
+        "NAJASHI",
+        "MAHDI",
+        "HIZB",
+        "HASHIM",
+        "TAZALLU",
+        "TARMI",
+        "THIQA",
+        "DAIF"
+      ]
+    },
+    {
+      "id": 132,
+      "words": [
+        "MASLIS",
+        "AMMAR",
+        "ISTIGHFAR",
+        "KHAS",
+        "WIRD",
+        "BATIN",
+        "HUDUD",
+        "HADITH",
+        "MUSTAFA",
+        "KASHHI"
+      ]
+    },
+    {
+      "id": 133,
+      "words": [
+        "TAQSIR",
+        "MAYSAM",
+        "AMMAR",
+        "TARMI",
+        "HANI",
+        "KHABAB",
+        "ZAYNAB",
+        "SALMAN",
+        "AMRU",
+        "JANAZAH"
+      ]
+    },
+    {
+      "id": 134,
+      "words": [
+        "AKRAM",
+        "KHULI",
+        "HUDHAIFA",
+        "SALMAN",
+        "TAWWABIN",
+        "SUHAYB",
+        "DHU",
+        "TASHKIK",
+        "TAHAQQUQ",
+        "MAYSAM"
+      ]
+    },
+    {
+      "id": 135,
+      "words": [
+        "WILAYAH",
+        "MARJA",
+        "IJARAH",
+        "ASBAB",
+        "HUDAYBIYAH",
+        "MAKKAH",
+        "HUDHAYFAH",
+        "BAY",
+        "SADIQ",
+        "JAMI"
+      ]
+    },
+    {
+      "id": 136,
+      "words": [
+        "ADAB",
+        "IFTITAH",
+        "TASBIH",
+        "HASHIM",
+        "AMMAR",
+        "WIRD",
+        "HUKM",
+        "KISSA",
+        "IBTILA",
+        "TAZLIA"
+      ]
+    },
+    {
+      "id": 137,
+      "words": [
+        "MASLIS",
+        "RAFI",
+        "MUNQATI",
+        "RAHMAN",
+        "IKHTIYAR",
+        "NADWAH",
+        "UDHIYYA",
+        "ARAFAT",
+        "RAHMAH",
+        "HALQ"
+      ]
+    },
+    {
+      "id": 138,
+      "words": [
+        "HIRS",
+        "IRADAH",
+        "MASUD",
+        "IBTIDA",
+        "MUTLAQ",
+        "MUSHID",
+        "NAMEEMAH",
+        "DAMASCUS",
+        "MUQRI",
+        "OWAIS"
+      ]
+    },
+    {
+      "id": 139,
+      "words": [
+        "MUGHAL",
+        "MAQAM",
+        "ZAKAT",
+        "WASIYAH",
+        "MUNASHA",
+        "SAQIFAH",
+        "ABU",
+        "WUDHU",
+        "KARBALA",
+        "MAGHRIB"
+      ]
+    },
+    {
+      "id": 140,
+      "words": [
+        "BAQIR",
+        "HAJJ",
+        "MUFASSIR",
+        "AMM",
+        "HARITH",
+        "KHABAB",
+        "SHURA",
+        "SHAHADAH",
+        "SALAT",
+        "FATIMA"
+      ]
+    },
+    {
+      "id": 141,
+      "words": [
+        "OTTOMAN",
+        "DUA",
+        "FARAJ",
+        "SALAH",
+        "QUDS",
+        "KASHF",
+        "BYZANTINE",
+        "DALIL",
+        "THUBUT",
+        "MUQAYYAD"
+      ]
+    },
+    {
+      "id": 142,
+      "words": [
+        "MUQAYYAD",
+        "ADHAN",
+        "HIRA",
+        "GHADAB",
+        "MINA",
+        "RAJAH",
+        "ZAHIR",
+        "JUUD",
+        "MARJA",
+        "TAWAZU"
+      ]
+    },
+    {
+      "id": 143,
+      "words": [
+        "SHAM",
+        "NILE",
+        "RUQAYAH",
+        "QAJAR",
+        "THUBUT",
+        "MASLIS",
+        "BASRA",
+        "MAJBUL",
+        "UBAYD",
+        "DALIL"
+      ]
+    },
+    {
+      "id": 144,
+      "words": [
+        "SHAM",
+        "TAWAKKUL",
+        "ISRA",
+        "CAIRO",
+        "TAKBIR",
+        "TAHMID",
+        "KUMEYL",
+        "HUDAYBIYAH",
+        "JAMARAT",
+        "WALAD"
+      ]
+    },
+    {
+      "id": 145,
+      "words": [
+        "RIYA",
+        "SABR",
+        "TAKAFUL",
+        "SHUJAA",
+        "SAWM",
+        "TADARRU",
+        "TAWWABIN",
+        "BUKHUL",
+        "SALAT",
+        "SHIMR"
+      ]
+    },
+    {
+      "id": 146,
+      "words": [
+        "TAYYIN",
+        "AZIZ",
+        "HAYAT",
+        "TAKAFUL",
+        "QADA",
+        "WAHI",
+        "RAHIM",
+        "MURSAL",
+        "QURAN",
+        "MUSTAHABB"
+      ]
+    },
+    {
+      "id": 147,
+      "words": [
+        "MUNKAR",
+        "NAJASHI",
+        "TADLIS",
+        "AKRAM",
+        "KAFI",
+        "NAAR",
+        "HASANAT",
+        "RAJAA",
+        "RIJAL",
+        "ABDULLAH"
+      ]
+    },
+    {
+      "id": 148,
+      "words": [
+        "HUSAYN",
+        "IJARAH",
+        "QAJAR",
+        "SASANID",
+        "HIZB",
+        "TASABUH",
+        "FARAJ",
+        "GHARAR",
+        "SAJJAD",
+        "SHIRKAH"
+      ]
+    },
+    {
+      "id": 149,
+      "words": [
+        "TAMHIS",
+        "TAWIL",
+        "HASANAT",
+        "MIQDAD",
+        "BILAL",
+        "QIRAAT",
+        "TAHDHIB",
+        "RAZZAQ",
+        "IRADAH",
+        "KASHHI"
+      ]
+    },
+    {
+      "id": 150,
+      "words": [
+        "HASAD",
+        "SABR",
+        "ABDULLAH",
+        "HUDHAIFA",
+        "RIDA",
+        "NAAR",
+        "NAMEEMAH",
+        "JUNADAH",
+        "GHIBAH",
+        "KIBR"
+      ]
+    },
+    {
+      "id": 151,
+      "words": [
+        "HARAM",
+        "SALAWAT",
+        "TAKAFUL",
+        "JUNADAH",
+        "MAHDI",
+        "QUDS",
+        "NATHAR",
+        "ZAHRA",
+        "HIZB",
+        "ASWAD"
+      ]
+    },
+    {
+      "id": 152,
+      "words": [
+        "TABUK",
+        "NASIHAH",
+        "TAWAF",
+        "SABR",
+        "MUHASABA",
+        "SAHARA",
+        "AHL",
+        "BYZANTINE",
+        "RIYA",
+        "MUHARRAM"
+      ]
+    },
+    {
+      "id": 153,
+      "words": [
+        "ZUBAYR",
+        "TAHARAH",
+        "MAAD",
+        "MUDHIL",
+        "KHABAB",
+        "WUJUD",
+        "ABDULLAH",
+        "SALMAN",
+        "HUDHAYFAH",
+        "SALAM"
+      ]
+    },
+    {
+      "id": 154,
+      "words": [
+        "MAKKI",
+        "ABU",
+        "ABUZAR",
+        "KISSA",
+        "MUNTAZAR",
+        "ABBAS",
+        "RIWAYAH",
+        "YAZID",
+        "AMMAR",
+        "SAQIFAH"
+      ]
+    },
+    {
+      "id": 155,
+      "words": [
+        "SALMAN",
+        "MUFASSIR",
+        "SADUQ",
+        "SYRIA",
+        "TAHDHIB",
+        "KUFI",
+        "HAJJ",
+        "TARTIL",
+        "NAQI",
+        "SIFAT"
+      ]
+    },
+    {
+      "id": 156,
+      "words": [
+        "QURBAN",
+        "SHIRKAH",
+        "NAFAQAH",
+        "NILE",
+        "TIGRIS",
+        "HARAM",
+        "TABUK",
+        "HIBAT",
+        "IJARAH",
+        "ISRAFIL"
+      ]
+    },
+    {
+      "id": 157,
+      "words": [
+        "IKHLAS",
+        "TADARRU",
+        "MASHHAD",
+        "SABA",
+        "SAYYIDA",
+        "SALAWAT",
+        "AHD",
+        "QUM",
+        "MURAQABA",
+        "RUKUBI"
+      ]
+    },
+    {
+      "id": 158,
+      "words": [
+        "HIRS",
+        "ZAJAR",
+        "TAZKIYAH",
+        "SAHAR",
+        "MUTAAH",
+        "RUKUBI",
+        "SULHA",
+        "TAZALLU",
+        "KALAM",
+        "BASIT"
+      ]
+    },
+    {
+      "id": 159,
+      "words": [
+        "JAWSHAN",
+        "MASUD",
+        "TAHAWUL",
+        "GHAFFAR",
+        "ZAWAL",
+        "SHURAYH",
+        "WALAD",
+        "ASHURA",
+        "SAASAH",
+        "AHD"
+      ]
+    },
+    {
+      "id": 160,
+      "words": [
+        "IDADDAH",
+        "HAJJ",
+        "BAB",
+        "QUM",
+        "JAFAR",
+        "ZAKAT",
+        "TANZIL",
+        "HADITH",
+        "SHADH",
+        "FAQIH"
+      ]
+    },
+    {
+      "id": 161,
+      "words": [
+        "TAHMID",
+        "MUSLIM",
+        "RIYA",
+        "ZAJAR",
+        "GHIBAH",
+        "SHAM",
+        "HAMDALAH",
+        "SALAWAT",
+        "GHUFLAT",
+        "AMR"
+      ]
+    },
+    {
+      "id": 162,
+      "words": [
+        "KARBALA",
+        "NAFS",
+        "SINA",
+        "WUJUD",
+        "SADR",
+        "TALBIYAH",
+        "ILLAH",
+        "QUM",
+        "MUSHID",
+        "NAJAF"
+      ]
+    },
+    {
+      "id": 163,
+      "words": [
+        "MASLIS",
+        "UMAYYAD",
+        "MUSTAJIR",
+        "UMM",
+        "BANU",
+        "MAJLISHI",
+        "SHADH",
+        "OTTOMAN",
+        "MIQDAD",
+        "WUDHU"
+      ]
+    },
+    {
+      "id": 164,
+      "words": [
+        "KADHIB",
+        "SINAN",
+        "RAWDAH",
+        "JUUD",
+        "ARBAEEN",
+        "SHAM",
+        "TURBAH",
+        "NIKAH",
+        "ZAKAT",
+        "RAKBAH"
+      ]
+    },
+    {
+      "id": 165,
+      "words": [
+        "CAIRO",
+        "HUDUD",
+        "RASHID",
+        "HIJRAH",
+        "BASRA",
+        "ASKARI",
+        "ABUAYYUB",
+        "MAGHRIB",
+        "WAQF",
+        "UMAYYAD"
+      ]
+    },
+    {
+      "id": 166,
+      "words": [
+        "FATTAH",
+        "MAFATIH",
+        "QADA",
+        "JABBAR",
+        "TAKBIR",
+        "TAQARRUB",
+        "BARA",
+        "MASUD",
+        "ALIM",
+        "FITNAH"
+      ]
+    },
+    {
+      "id": 167,
+      "words": [
+        "SHAM",
+        "SAFAVID",
+        "UMAR",
+        "HADI",
+        "BASRA",
+        "MANSUKH",
+        "MIHRAB",
+        "MAKKI",
+        "SAYEE",
+        "BAGHDAD"
+      ]
+    },
+    {
+      "id": 168,
+      "words": [
+        "QURAN",
+        "MUTAAH",
+        "BAGHDAD",
+        "HALIM",
+        "MUIZZ",
+        "RAHIM",
+        "MINA",
+        "ABBASID",
+        "KAFARA",
+        "WUDHU"
+      ]
+    },
+    {
+      "id": 169,
+      "words": [
+        "SAJJAHD",
+        "TIGRIS",
+        "HUDHAYFAH",
+        "SHIA",
+        "HUNAYN",
+        "JAHILIYYAH",
+        "NABUWWAH",
+        "NAYAM",
+        "TAHMID",
+        "ABUAYYUB"
+      ]
+    },
+    {
+      "id": 170,
+      "words": [
+        "HASAN",
+        "HASANAT",
+        "MIQDAD",
+        "TAHAJJUD",
+        "IHARM",
+        "MUBALAHAH",
+        "AKRAM",
+        "TAQDEER",
+        "JANAZAH",
+        "ABUZAR"
+      ]
+    },
+    {
+      "id": 171,
+      "words": [
+        "ISRA",
+        "JAMAAH",
+        "SHADH",
+        "FARAJ",
+        "ISNAD",
+        "DARA",
+        "MADANI",
+        "TAWASSAL",
+        "HIRA",
+        "NASIKH"
+      ]
+    },
+    {
+      "id": 172,
+      "words": [
+        "NAFILAH",
+        "IDADDAH",
+        "IRADAH",
+        "HAYAT",
+        "FITRAH",
+        "FATIMA",
+        "ABUZAR",
+        "SAWM",
+        "SALMAN",
+        "TALAQ"
+      ]
+    },
+    {
+      "id": 173,
+      "words": [
+        "NAMEEMAH",
+        "NAFILAH",
+        "MAKKI",
+        "BALAA",
+        "JANNAH",
+        "SUQ",
+        "SUJUD",
+        "WASIYAH",
+        "JUUD",
+        "TAZKIYAH"
+      ]
+    },
+    {
+      "id": 174,
+      "words": [
+        "MAGHRIB",
+        "SAKINAH",
+        "SASANID",
+        "MIZAN",
+        "SHAHID",
+        "TAHNIYAH",
+        "WAJIB",
+        "HUR",
+        "MAGHFIRAH",
+        "TAJWID"
+      ]
+    },
+    {
+      "id": 175,
+      "words": [
+        "KHUBAH",
+        "UDHIYYA",
+        "TAQSIR",
+        "KARBALA",
+        "TAWAF",
+        "HIRA",
+        "HALQ",
+        "ZAYNAB",
+        "JAMAAH",
+        "QURBAN"
+      ]
+    },
+    {
+      "id": 176,
+      "words": [
+        "YAZID",
+        "MUMIN",
+        "RIBA",
+        "MAKKAH",
+        "QARD",
+        "SYRIA",
+        "MUSTAFA",
+        "MAAD",
+        "FATIMA",
+        "BANU"
+      ]
+    },
+    {
+      "id": 177,
+      "words": [
+        "TAWHID",
+        "TAQIYAH",
+        "QADA",
+        "TAFKKUR",
+        "SHAHID",
+        "NAHY",
+        "SULHA",
+        "HIDANAH",
+        "GHARAR",
+        "NIKAH"
+      ]
+    },
+    {
+      "id": 178,
+      "words": [
+        "RUKUBI",
+        "TUSI",
+        "WITR",
+        "TAHMID",
+        "SHADH",
+        "NAFAQAH",
+        "NATHAR",
+        "IHARM",
+        "SULHA",
+        "HASAN"
+      ]
+    },
+    {
+      "id": 179,
+      "words": [
+        "NASIHAH",
+        "MUSTAFA",
+        "HUSAYN",
+        "OWAIS",
+        "THABIT",
+        "SABR",
+        "MUBALAHAH",
+        "HASHIM",
+        "ASKARI",
+        "TAQWA"
+      ]
+    },
+    {
+      "id": 180,
+      "words": [
+        "MIQDAD",
+        "TAWAKKUL",
+        "MUNAJAH",
+        "BYZANTINE",
+        "AHD",
+        "HUDHAYFAH",
+        "SAASAH",
+        "MAGHRIB",
+        "TAHMID",
+        "SUBHAN"
+      ]
+    },
+    {
+      "id": 181,
+      "words": [
+        "GHUSL",
+        "TAUBAH",
+        "TAFSIR",
+        "TAKAFUL",
+        "MAHR",
+        "KHAWF",
+        "KHAS",
+        "SIFAT",
+        "MUQRI",
+        "IBTIDA"
+      ]
+    },
+    {
+      "id": 182,
+      "words": [
+        "NAAR",
+        "FITNAH",
+        "YAMIN",
+        "SIRAT",
+        "LATIF",
+        "WAJIB",
+        "WARASAT",
+        "IRADAH",
+        "BADAA",
+        "ADHAB"
+      ]
+    },
+    {
+      "id": 183,
+      "words": [
+        "ZAYNAB",
+        "SUHAYB",
+        "TAZKIYAH",
+        "NASIHAH",
+        "TADARRU",
+        "SASAA",
+        "JUNADAH",
+        "NAMEEMAH",
+        "MIQDAD",
+        "ZUHD"
+      ]
+    },
+    {
+      "id": 184,
+      "words": [
+        "DAIF",
+        "BAGHDAD",
+        "THIQA",
+        "TABIYAH",
+        "MAAD",
+        "ISTIBSAR",
+        "ARAD",
+        "MASHUR",
+        "UMAYYAD",
+        "HAYAT"
+      ]
+    },
+    {
+      "id": 185,
+      "words": [
+        "KADHIM",
+        "TAWAF",
+        "QUDRAT",
+        "SHAFAH",
+        "TAMHIS",
+        "TABSHIR",
+        "TARAWIH",
+        "TASHKIK",
+        "JAMAAH",
+        "AMMAR"
+      ]
+    },
+    {
+      "id": 186,
+      "words": [
+        "TAWWABIN",
+        "DHU",
+        "BAGHDAD",
+        "SYRIA",
+        "HIKMAH",
+        "NAAR",
+        "EGYPT",
+        "FITNAH",
+        "SINDH",
+        "HUDAYBIYAH"
+      ]
+    },
+    {
+      "id": 187,
+      "words": [
+        "RAHMAH",
+        "WUDHU",
+        "AMR",
+        "QUDRAT",
+        "QAJAR",
+        "DALIL",
+        "WASIYAH",
+        "BARI",
+        "BYZANTINE",
+        "ZUHD"
+      ]
+    },
+    {
+      "id": 188,
+      "words": [
+        "KARBALA",
+        "TAYYAR",
+        "MUTASHABIH",
+        "ADL",
+        "ZAMIN",
+        "WAQF",
+        "THABIT",
+        "HUDHAIFA",
+        "FITRAH",
+        "BARI"
+      ]
+    },
+    {
+      "id": 189,
+      "words": [
+        "MAJBUL",
+        "KITAB",
+        "HAFIZ",
+        "ISTIBSAR",
+        "TAMHIS",
+        "QANAAT",
+        "MAAD",
+        "SIDQ",
+        "WARA",
+        "AZIZ"
+      ]
+    },
+    {
+      "id": 190,
+      "words": [
+        "KARAM",
+        "IKHTIYAR",
+        "TAWBAH",
+        "SHUKR",
+        "GHADAB",
+        "IRADAH",
+        "JUUD",
+        "NASIHAH",
+        "MIQDAD",
+        "HILM"
+      ]
+    },
+    {
+      "id": 191,
+      "words": [
+        "MUSHID",
+        "ZAYNAB",
+        "AHD",
+        "TAQARRUB",
+        "SALAWAT",
+        "SAJJAHD",
+        "TAWASSAL",
+        "DAMASCUS",
+        "OTTOMAN",
+        "QUBBAH"
+      ]
+    },
+    {
+      "id": 192,
+      "words": [
+        "TAWAKKUL",
+        "SUBHAN",
+        "MUTAHIR",
+        "KASHF",
+        "BURHAN",
+        "JAMIAH",
+        "TAWASSAL",
+        "MUHARRAM",
+        "SAKINAH",
+        "TAHNIYAH"
+      ]
+    },
+    {
+      "id": 193,
+      "words": [
+        "HUDHAIFA",
+        "RIDA",
+        "MUJIR",
+        "AMMAR",
+        "BARA",
+        "ZAMIN",
+        "ABDULLAH",
+        "TAHNIYAH",
+        "AKRAM",
+        "ABUZAR"
+      ]
+    },
+    {
+      "id": 194,
+      "words": [
+        "QADAR",
+        "SALMAN",
+        "AMMAR",
+        "RAJAH",
+        "MUSIBAH",
+        "TAQDEER",
+        "NABUWWAH",
+        "AMRU",
+        "BADAA",
+        "RABB"
+      ]
+    },
+    {
+      "id": 195,
+      "words": [
+        "ISTIBSAR",
+        "BASMALAH",
+        "ABDULLAH",
+        "ADHINA",
+        "KHALIQ",
+        "SAMI",
+        "MASHUR",
+        "RASHID",
+        "AZIZ",
+        "MUTAWATIR"
+      ]
+    },
+    {
+      "id": 196,
+      "words": [
+        "QADR",
+        "KHAWF",
+        "NAAR",
+        "IBTILA",
+        "TANDHIR",
+        "HIJRAH",
+        "HUDAYBIYAH",
+        "RASHID",
+        "AMRU",
+        "QANAAT"
+      ]
+    },
+    {
+      "id": 197,
+      "words": [
+        "RAKBAH",
+        "HANI",
+        "TAHAWUL",
+        "MUTASHABIH",
+        "SALAH",
+        "ASBAB",
+        "WUJUD",
+        "ARAD",
+        "IRADAH",
+        "MUTAWAF"
+      ]
+    },
+    {
+      "id": 198,
+      "words": [
+        "MUTAAH",
+        "JUMUAH",
+        "HUDUD",
+        "ARAFAT",
+        "HIRA",
+        "TAJWID",
+        "TAFSIR",
+        "WAKALAH",
+        "RAHN",
+        "QIBLAH"
+      ]
+    },
+    {
+      "id": 199,
+      "words": [
+        "MAWDU",
+        "SAFAR",
+        "HIBAT",
+        "MAYSIR",
+        "ISTIBSAR",
+        "SAHIH",
+        "HURR",
+        "KABIR",
+        "FATTAH",
+        "HADITH"
+      ]
+    },
+    {
+      "id": 200,
+      "words": [
+        "MUTAWATIR",
+        "SALAM",
+        "MAGHFIRAH",
+        "ZAHIR",
+        "HASAD",
+        "RIBA",
+        "TAFKKUR",
+        "QIRAAT",
+        "TAMHIS",
+        "BARI"
+      ]
+    },
+    {
+      "id": 201,
+      "words": [
+        "KAABAH",
+        "ISMATE",
+        "KHAWF",
+        "MUHAYMIN",
+        "MAAD",
+        "SUQ",
+        "TAFKKUR",
+        "NAFS",
+        "QADAR",
+        "RAFI"
+      ]
+    },
+    {
+      "id": 202,
+      "words": [
+        "TAJWID",
+        "RAHN",
+        "QIRAAH",
+        "TAKBIR",
+        "MUTAAH",
+        "SALAH",
+        "TUSI",
+        "SAHAR",
+        "AZIZ",
+        "MAWQUF"
+      ]
+    },
+    {
+      "id": 203,
+      "words": [
+        "SALAT",
+        "IJARAH",
+        "SUJUD",
+        "HARAM",
+        "TAWTHIQ",
+        "HARITH",
+        "QIRAAT",
+        "ABUAYYUB",
+        "MAWQUF",
+        "MIQDAD"
+      ]
+    },
+    {
+      "id": 204,
+      "words": [
+        "MUQRI",
+        "HUSAYN",
+        "HUDUD",
+        "BILAL",
+        "WAQF",
+        "QURAN",
+        "IMAMAH",
+        "TABUK",
+        "TARMI",
+        "ABBAS"
+      ]
+    },
+    {
+      "id": 205,
+      "words": [
+        "RIBA",
+        "SHAHADAH",
+        "MUSTAHABB",
+        "MAQAM",
+        "HAJJ",
+        "MUQAYYAD",
+        "RIWAYAH",
+        "ADAB",
+        "KARBALA",
+        "GHARAR"
+      ]
+    },
+    {
+      "id": 206,
+      "words": [
+        "RAKBAH",
+        "JAWSHAN",
+        "NAYAM",
+        "AZIZ",
+        "MURTAZA",
+        "RABB",
+        "IDADDAH",
+        "WADHA",
+        "KHULI",
+        "RIDA"
+      ]
+    },
+    {
+      "id": 207,
+      "words": [
+        "HUSAYN",
+        "WARA",
+        "TADAKHUL",
+        "QIBLAH",
+        "KHANDAQ",
+        "MUZDALIFAH",
+        "HIJRAH",
+        "NAQI",
+        "KHUBAH",
+        "HUDAYBIYAH"
+      ]
+    },
+    {
+      "id": 208,
+      "words": [
+        "AZIZ",
+        "HASAN",
+        "DARI",
+        "TAWBAH",
+        "TAQARRUB",
+        "ARBAEEN",
+        "TADLIS",
+        "MAQAM",
+        "SALAWAT",
+        "TASBIH"
+      ]
+    },
+    {
+      "id": 209,
+      "words": [
+        "MARJA",
+        "AMM",
+        "DARA",
+        "BALKANS",
+        "HILM",
+        "MIKAIL",
+        "JAHILIYYAH",
+        "KHILAFAH",
+        "SALAH",
+        "HIRS"
+      ]
+    },
+    {
+      "id": 210,
+      "words": [
+        "TAHAQQUQ",
+        "MAHDI",
+        "SAMARRA",
+        "ADAB",
+        "BILAL",
+        "SAYYIDA",
+        "MUJIR",
+        "HAYAT",
+        "SINA",
+        "MUNASHA"
+      ]
+    },
+    {
+      "id": 211,
+      "words": [
+        "ABDULLAH",
+        "MASJID",
+        "TAQIYAH",
+        "AMMAR",
+        "MAAD",
+        "THAWR",
+        "TARAWIH",
+        "FITRAH",
+        "TASHKIK",
+        "JANAZAH"
+      ]
+    },
+    {
+      "id": 212,
+      "words": [
+        "HURR",
+        "SINA",
+        "BAB",
+        "MUALLAL",
+        "QUDRAT",
+        "MAJLISHI",
+        "MAJBUL",
+        "SHAHADAH",
+        "ZARIH",
+        "MUNQATI"
+      ]
+    },
+    {
+      "id": 213,
+      "words": [
+        "MUFASSIR",
+        "SUJUD",
+        "HALIM",
+        "SALAT",
+        "ZAHIR",
+        "TAJWID",
+        "SAYYIDA",
+        "HAJJ",
+        "RUQAYAH",
+        "RAJAH"
+      ]
+    },
+    {
+      "id": 214,
+      "words": [
+        "NASIHAH",
+        "THIQA",
+        "OTTOMAN",
+        "CAIRO",
+        "MASLIS",
+        "NILE",
+        "TAWAZU",
+        "MAJLISHI",
+        "ATHAR",
+        "HURR"
+      ]
+    },
+    {
+      "id": 215,
+      "words": [
+        "SHAHADAH",
+        "MIRAJ",
+        "CHINA",
+        "EUFRATES",
+        "MAHR",
+        "BASRA",
+        "TAQWA",
+        "MATN",
+        "TARAWIH",
+        "KAFI"
+      ]
+    },
+    {
+      "id": 216,
+      "words": [
+        "HARITH",
+        "TASHKIK",
+        "RUQAYAH",
+        "SAASAH",
+        "HARAM",
+        "NAFS",
+        "ARAD",
+        "WAHHAB",
+        "MUSTAJIR",
+        "RASHID"
+      ]
+    },
+    {
+      "id": 217,
+      "words": [
+        "WAQF",
+        "LAHAWLA",
+        "HIZB",
+        "GHAYT",
+        "MIQDAD",
+        "HARITH",
+        "MUSTAJIR",
+        "SAHAR",
+        "JAMI",
+        "RAWDAH"
+      ]
+    },
+    {
+      "id": 218,
+      "words": [
+        "ZAWAL",
+        "ILLAH",
+        "TAHARAH",
+        "BILAL",
+        "NAFS",
+        "SAHAR",
+        "HARITH",
+        "MAAD",
+        "HUDHAIFA",
+        "WARASAT"
+      ]
+    },
+    {
+      "id": 219,
+      "words": [
+        "AHL",
+        "JAWSHAN",
+        "MUTAHIR",
+        "CORDOBA",
+        "JAMIAH",
+        "BASRA",
+        "KUMEYL",
+        "MUNTAZAR",
+        "TAWWABIN",
+        "SAQIFAH"
+      ]
+    },
+    {
+      "id": 220,
+      "words": [
+        "MUQRI",
+        "AMM",
+        "SAKINAH",
+        "HUDAYBIYAH",
+        "TABUK",
+        "JAFAR",
+        "HANI",
+        "ZAYNAB",
+        "ABBAS",
+        "SINAN"
+      ]
+    },
+    {
+      "id": 221,
+      "words": [
+        "ADHINA",
+        "MUSTAHABB",
+        "SADUQ",
+        "MAYSAM",
+        "IHARM",
+        "ISRAFIL",
+        "MAQTU",
+        "JAMAAH",
+        "TAKAFUL",
+        "BILAL"
+      ]
+    },
+    {
+      "id": 222,
+      "words": [
+        "NAJASHI",
+        "ZAYNAB",
+        "BUKHARI",
+        "SAYEE",
+        "SIFAT",
+        "SADAQAH",
+        "NAJAF",
+        "SAYYIDA",
+        "TAFSIR",
+        "MUTAHIR"
+      ]
+    },
+    {
+      "id": 223,
+      "words": [
+        "MASLIS",
+        "MUNQATI",
+        "TADARRU",
+        "ATHAR",
+        "TADAKHUL",
+        "MAJLISHI",
+        "BADAA",
+        "RAFI",
+        "HIRS",
+        "NAJASHI"
+      ]
+    },
+    {
+      "id": 224,
+      "words": [
+        "TAQIYAH",
+        "RIDA",
+        "MURTAZA",
+        "NAFS",
+        "SIFAT",
+        "AMM",
+        "ZAYD",
+        "SINAN",
+        "UBAYD",
+        "TAWHID"
+      ]
+    },
+    {
+      "id": 225,
+      "words": [
+        "GHAFFAR",
+        "QAJAR",
+        "QASIM",
+        "JAHILIYYAH",
+        "WARA",
+        "DAMASCUS",
+        "SHIMR",
+        "RAHIM",
+        "NAMEEMAH",
+        "MUHASABA"
+      ]
+    },
+    {
+      "id": 226,
+      "words": [
+        "QASIM",
+        "SHIMR",
+        "MUTAAH",
+        "JAMARAT",
+        "KAFARA",
+        "RAKBAH",
+        "AHAD",
+        "WASIYAH",
+        "FITRAH",
+        "MAJBUL"
+      ]
+    },
+    {
+      "id": 227,
+      "words": [
+        "MUHKAM",
+        "AMRU",
+        "OWAIS",
+        "SHAKUR",
+        "IJTIHAD",
+        "HASANAT",
+        "BALAA",
+        "HIFZ",
+        "JIHAD",
+        "TAMA"
+      ]
+    },
+    {
+      "id": 228,
+      "words": [
+        "QUDDUS",
+        "TAUBAH",
+        "MAHDI",
+        "HAFIZ",
+        "NATHAR",
+        "MUNASHA",
+        "RAJAA",
+        "HASAN",
+        "MUSTAHABB",
+        "GHUSL"
+      ]
+    },
+    {
+      "id": 229,
+      "words": [
+        "ABUZAR",
+        "JABIR",
+        "SAKINAH",
+        "BASIR",
+        "HALIM",
+        "RUQAYAH",
+        "ASHURA",
+        "NAJASHI",
+        "ADL",
+        "MUSLIM"
+      ]
+    },
+    {
+      "id": 230,
+      "words": [
+        "MANSUKH",
+        "JANAZAH",
+        "MAWQUF",
+        "MUALLAL",
+        "DAIF",
+        "TAJWID",
+        "ZAKAT",
+        "BARA",
+        "JABIR",
+        "KAFARA"
+      ]
+    },
+    {
+      "id": 231,
+      "words": [
+        "MAQAM",
+        "BAB",
+        "MUTAHIR",
+        "QAJAR",
+        "WITR",
+        "QIRAAT",
+        "MAGHRIB",
+        "SAYEE",
+        "TIGRIS",
+        "TAWIL"
+      ]
+    },
+    {
+      "id": 232,
+      "words": [
+        "MAYSAM",
+        "IRADAH",
+        "MUTAAH",
+        "WARASAT",
+        "TABIYAH",
+        "HIDANAH",
+        "SUHAYB",
+        "ABBAS",
+        "QARD",
+        "NAFAQAH"
+      ]
+    },
+    {
+      "id": 233,
+      "words": [
+        "ABBASID",
+        "SHAHADAH",
+        "MUJIR",
+        "SHAM",
+        "HAFIZ",
+        "NABUWWAH",
+        "SAFAVID",
+        "RAWDAH",
+        "MUKHTAR",
+        "NUFUS"
+      ]
+    },
+    {
+      "id": 234,
+      "words": [
+        "MUTAKABBIR",
+        "ABID",
+        "KHAS",
+        "QAHAAR",
+        "AMMAR",
+        "GHUSL",
+        "TAKAFUL",
+        "TASABUH",
+        "FARAJ",
+        "WAQF"
+      ]
+    },
+    {
+      "id": 235,
+      "words": [
+        "WAJIB",
+        "SIFAT",
+        "KHAZIN",
+        "MUTASHABIH",
+        "BATIN",
+        "ARBAEEN",
+        "TARAWIH",
+        "RAHMAN",
+        "KHALIQ",
+        "TAQSIR"
+      ]
+    },
+    {
+      "id": 236,
+      "words": [
+        "ISRAFIL",
+        "HIRA",
+        "MUFASSIR",
+        "HUBUT",
+        "BURHAN",
+        "MAKKI",
+        "KHAWF",
+        "MAQYAD",
+        "MAAD",
+        "QADAR"
+      ]
+    },
+    {
+      "id": 237,
+      "words": [
+        "KUFI",
+        "BASMALAH",
+        "MUSLIM",
+        "EUFRATES",
+        "SABA",
+        "MAKRUH",
+        "MAJBUL",
+        "NAFAQAH",
+        "SHAHADAH",
+        "QUDS"
+      ]
+    },
+    {
+      "id": 238,
+      "words": [
+        "MUDHIL",
+        "AKRAM",
+        "IFTITAH",
+        "ADHINA",
+        "DUA",
+        "SUUD",
+        "BADAA",
+        "FITNAH",
+        "KASHF",
+        "MIZAN"
+      ]
+    },
+    {
+      "id": 239,
+      "words": [
+        "QUDDUS",
+        "TAFKKUR",
+        "MUNJAT",
+        "HUDHAIFA",
+        "HAMDALAH",
+        "HASAD",
+        "RASHID",
+        "MUDHIL",
+        "FATTAH",
+        "DARI"
+      ]
+    },
+    {
+      "id": 240,
+      "words": [
+        "MUALLAL",
+        "NAYAM",
+        "NUDBAT",
+        "NAFAQAH",
+        "ARBAEEN",
+        "GARIB",
+        "HUKM",
+        "DARI",
+        "HAMDALAH",
+        "SHAHID"
+      ]
+    },
+    {
+      "id": 241,
+      "words": [
+        "MAYSAM",
+        "HUDHAYFAH",
+        "WAHHAB",
+        "BYZANTINE",
+        "GHAFUR",
+        "CHINA",
+        "SAHARA",
+        "TAKAFUL",
+        "MINA",
+        "IQAMAH"
+      ]
+    },
+    {
+      "id": 242,
+      "words": [
+        "ZAMIN",
+        "RIWAYAH",
+        "MUKHTAR",
+        "SINAN",
+        "ARAD",
+        "SINA",
+        "MUFASSIR",
+        "HUDUD",
+        "MAHIYAH",
+        "JAMIAH"
+      ]
+    },
+    {
+      "id": 243,
+      "words": [
+        "ISRA",
+        "JUUD",
+        "IBTILA",
+        "RAJAA",
+        "HILM",
+        "RIDA",
+        "HIRS",
+        "UDHIYYA",
+        "ZAMIN",
+        "MUTAWAF"
+      ]
+    },
+    {
+      "id": 244,
+      "words": [
+        "AZIM",
+        "DALIL",
+        "GHAYT",
+        "ZAMIN",
+        "TAMA",
+        "IJTIHAD",
+        "SUUD",
+        "SALAM",
+        "NASIHAH",
+        "KASHF"
+      ]
+    },
+    {
+      "id": 245,
+      "words": [
+        "SAJJAHD",
+        "AHL",
+        "SAHAR",
+        "NISA",
+        "BASIT",
+        "BADAA",
+        "MAYASHA",
+        "FARAJ",
+        "BAGHDAD",
+        "ALI"
+      ]
+    },
+    {
+      "id": 246,
+      "words": [
+        "MASHUR",
+        "SUUD",
+        "MAQYAD",
+        "SINA",
+        "MUKHTAR",
+        "SAFAR",
+        "SHAM",
+        "TAHAWUL",
+        "KULAYNI",
+        "WUJUD"
+      ]
+    },
+    {
+      "id": 247,
+      "words": [
+        "JAMI",
+        "RIYA",
+        "BATIN",
+        "MUNJAT",
+        "MANSUKH",
+        "GHADAB",
+        "QAJAR",
+        "TAWASSAL",
+        "KARAM",
+        "SAFAVID"
+      ]
+    },
+    {
+      "id": 248,
+      "words": [
+        "CAIRO",
+        "TAMHIS",
+        "FITNAH",
+        "HIRS",
+        "MUGHAL",
+        "MIQDAD",
+        "TADAKHUL",
+        "KHANDAQ",
+        "SHAHID",
+        "QANAAT"
+      ]
+    },
+    {
+      "id": 249,
+      "words": [
+        "ASKARI",
+        "TAKAFUL",
+        "TAYYIN",
+        "KHUMS",
+        "MUHIT",
+        "BAQIR",
+        "QADA",
+        "RIDA",
+        "ALI",
+        "TAFWID"
+      ]
+    },
+    {
+      "id": 250,
+      "words": [
+        "MASHUR",
+        "QUBBAH",
+        "ARBAEEN",
+        "EID",
+        "UMAR",
+        "JAMARAT",
+        "QUM",
+        "ABBAS",
+        "TALBIYAH",
+        "AZIZ"
+      ]
+    },
+    {
+      "id": 251,
+      "words": [
+        "QUNUT",
+        "HIRA",
+        "ZAHRA",
+        "JAMAAH",
+        "TAZALLU",
+        "HUDHAYFAH",
+        "THABIT",
+        "JANAZAH",
+        "MIQDAD",
+        "WIRD"
+      ]
+    },
+    {
+      "id": 252,
+      "words": [
+        "SAASAH",
+        "BANU",
+        "BAQIR",
+        "BARI",
+        "TAHDHIB",
+        "SAHIH",
+        "ZUBAYR",
+        "MUNJAT",
+        "TASBIH",
+        "MUTAWATIR"
+      ]
+    },
+    {
+      "id": 253,
+      "words": [
+        "HADI",
+        "ADL",
+        "SHAKUR",
+        "MALIK",
+        "HUDAYBIYAH",
+        "SABR",
+        "AZIZ",
+        "EID",
+        "PERSIA",
+        "AMANAH"
+      ]
+    },
+    {
+      "id": 254,
+      "words": [
+        "HARITH",
+        "KHALID",
+        "KHAZIN",
+        "ADHINA",
+        "RUQAYAH",
+        "KUFI",
+        "MAQAM",
+        "GHAYT",
+        "HUDAYBIYAH",
+        "TARAWIH"
+      ]
+    },
+    {
+      "id": 255,
+      "words": [
+        "MAAD",
+        "BAB",
+        "MASJID",
+        "ADHAN",
+        "HALQ",
+        "ZAYNAB",
+        "MAKKAH",
+        "RAHMAN",
+        "JAHILIYYAH",
+        "HAFIZ"
+      ]
+    },
+    {
+      "id": 256,
+      "words": [
+        "GHUFLAT",
+        "SASAA",
+        "AMR",
+        "JUAL",
+        "SAWM",
+        "NAHY",
+        "TADARRU",
+        "AMANAH",
+        "JUNADAH",
+        "HUDHAYFAH"
+      ]
+    },
+    {
+      "id": 257,
+      "words": [
+        "MUTASHABIH",
+        "MAHDI",
+        "AMM",
+        "SUNNAH",
+        "RIDA",
+        "ADHINA",
+        "KULAYNI",
+        "MIQDAD",
+        "BILAL",
+        "BUKHARI"
+      ]
+    },
+    {
+      "id": 258,
+      "words": [
+        "QADA",
+        "NADWAH",
+        "TAHLEEL",
+        "KARBALA",
+        "FITRAH",
+        "UDHIYYA",
+        "TAQDEER",
+        "SAMARRA",
+        "MUSIBAH",
+        "ARBAEEN"
+      ]
+    },
+    {
+      "id": 259,
+      "words": [
+        "TUSI",
+        "ARAD",
+        "NAFS",
+        "TAWTHIQ",
+        "MUHIT",
+        "MATN",
+        "QUNUT",
+        "MAJBUL",
+        "GARIB",
+        "QUDS"
+      ]
+    },
+    {
+      "id": 260,
+      "words": [
+        "HAYAT",
+        "HILM",
+        "SUBHAN",
+        "MALIK",
+        "ZUHD",
+        "ABBASID",
+        "SYRIA",
+        "RAHIM",
+        "TAJARRUD",
+        "TAHMID"
+      ]
+    },
+    {
+      "id": 261,
+      "words": [
+        "MUGHAL",
+        "NILE",
+        "ZAWAL",
+        "MAYASHA",
+        "FARABI",
+        "MUQAYYAD",
+        "GHARAH",
+        "HAMDALAH",
+        "MAKKAH",
+        "MANSUKH"
+      ]
+    },
+    {
+      "id": 262,
+      "words": [
+        "KHUBAH",
+        "MATN",
+        "HALQ",
+        "ZAMIN",
+        "MUSTAJIR",
+        "UDHIYYA",
+        "HASAN",
+        "HARAM",
+        "ISTIBSAR",
+        "THIQA"
+      ]
+    },
+    {
+      "id": 263,
+      "words": [
+        "MASHHAD",
+        "NAHY",
+        "RIYADAH",
+        "JUUD",
+        "JIHAD",
+        "TURBAH",
+        "FARAJ",
+        "DUA",
+        "TAWASSAL",
+        "MAKKI"
+      ]
+    },
+    {
+      "id": 264,
+      "words": [
+        "KARBALA",
+        "UBAYD",
+        "KHABAB",
+        "BARA",
+        "HASHIM",
+        "BALAA",
+        "AZIZ",
+        "HUKM",
+        "HURR",
+        "MIQDAD"
+      ]
+    },
+    {
+      "id": 265,
+      "words": [
+        "TASBIH",
+        "BASMALAH",
+        "MUTAWAF",
+        "MUTAHIR",
+        "ZAYNAB",
+        "ZAMIN",
+        "ADAB",
+        "MUHKAM",
+        "TAHLEEL",
+        "TAJWID"
+      ]
+    },
+    {
+      "id": 266,
+      "words": [
+        "SHURAYH",
+        "BASIT",
+        "FARABI",
+        "TAQIYAH",
+        "AMRU",
+        "ADHINA",
+        "MIQDAD",
+        "KASHF",
+        "SUUD",
+        "ABUZAR"
+      ]
+    },
+    {
+      "id": 267,
+      "words": [
+        "JIHAD",
+        "NAHY",
+        "SALAWAT",
+        "SAWM",
+        "BASMALAH",
+        "TAFKKUR",
+        "NAMEEMAH",
+        "SUJUD",
+        "ZUHD",
+        "NAYAM"
+      ]
+    },
+    {
+      "id": 268,
+      "words": [
+        "HARAM",
+        "HAKAM",
+        "JAMARAT",
+        "QAHAAR",
+        "KHUBAH",
+        "SHIRKAH",
+        "HAJJ",
+        "BAY",
+        "HIBAT",
+        "UDHIYYA"
+      ]
+    },
+    {
+      "id": 269,
+      "words": [
+        "MAYSAM",
+        "ASWAD",
+        "MUNAJAH",
+        "MAHR",
+        "ADHINA",
+        "MUTAAH",
+        "TARAWIH",
+        "MUNJAT",
+        "MIRAJ",
+        "NADWAH"
+      ]
+    },
+    {
+      "id": 270,
+      "words": [
+        "NAJAF",
+        "AMRU",
+        "TAQWA",
+        "MASHHAD",
+        "HUDHAYFAH",
+        "UTHMAN",
+        "QUDS",
+        "MUHASABA",
+        "TAQARRUB",
+        "TAWASUL"
+      ]
+    },
+    {
+      "id": 271,
+      "words": [
+        "GHUFLAT",
+        "RIBA",
+        "SABR",
+        "HIDANAH",
+        "SHADH",
+        "ISTIBSAR",
+        "SHAM",
+        "GHUSL",
+        "NUFUS",
+        "MUNKAR"
+      ]
+    },
+    {
+      "id": 272,
+      "words": [
+        "ASKARI",
+        "NAYAM",
+        "HASAN",
+        "MAYSIR",
+        "TAZKIYAH",
+        "KISSA",
+        "NUDBAT",
+        "SAHAR",
+        "JUAL",
+        "IKHLAS"
+      ]
+    },
+    {
+      "id": 273,
+      "words": [
+        "MUSTAHABB",
+        "CORDOBA",
+        "TAUBAH",
+        "GHAYBAH",
+        "BASIT",
+        "JAHILIYYAH",
+        "KHUMS",
+        "MUGHAL",
+        "SHAKUR",
+        "IBTILA"
+      ]
+    },
+    {
+      "id": 274,
+      "words": [
+        "SAWM",
+        "TARTIL",
+        "TADABBUR",
+        "MAWDU",
+        "SHUKR",
+        "HADD",
+        "ISNAD",
+        "HAYAT",
+        "FARABI",
+        "KHAWF"
+      ]
+    },
+    {
+      "id": 275,
+      "words": [
+        "QURAYSH",
+        "ZUBAYR",
+        "TAHLEEL",
+        "ABDULLAH",
+        "ABUZAR",
+        "MUTAWAF",
+        "TAQI",
+        "MASUD",
+        "KADHIM",
+        "MUNTAZAR"
+      ]
+    },
+    {
+      "id": 276,
+      "words": [
+        "MANSUKH",
+        "IQAMAH",
+        "SAMARRA",
+        "QIBLAH",
+        "TAKBIR",
+        "MAKKI",
+        "MASHHAD",
+        "BASMALAH",
+        "ZAMIN",
+        "KAABAH"
+      ]
+    },
+    {
+      "id": 277,
+      "words": [
+        "HALQ",
+        "MINA",
+        "SAHARA",
+        "CAIRO",
+        "HIJRAH",
+        "HIZB",
+        "SADAQAH",
+        "RUKUBI",
+        "MUTAWATIR",
+        "MUSAWWIR"
+      ]
+    },
+    {
+      "id": 278,
+      "words": [
+        "TUSI",
+        "MAJLISHI",
+        "MUNKAR",
+        "SAYYIDA",
+        "TURBAH",
+        "NAJAF",
+        "GARIB",
+        "MURSAL",
+        "AZIZ",
+        "JAMIAH"
+      ]
+    },
+    {
+      "id": 279,
+      "words": [
+        "BALKANS",
+        "ADHAB",
+        "TANDHIR",
+        "MADANI",
+        "MUTAWAF",
+        "TAHNIYAH",
+        "ANATOLIA",
+        "UMM",
+        "JIHAD",
+        "TAWIL"
+      ]
+    },
+    {
+      "id": 280,
+      "words": [
+        "SALAH",
+        "HUDHAYFAH",
+        "AMMAR",
+        "ZUBAYR",
+        "KHABAB",
+        "HIZB",
+        "ADAB",
+        "TAHMID",
+        "ARBAEEN",
+        "JIHAD"
+      ]
+    },
+    {
+      "id": 281,
+      "words": [
+        "QIBLAH",
+        "QUBBAH",
+        "QUM",
+        "FITRAH",
+        "SUQ",
+        "QADR",
+        "NAJAF",
+        "KHUBAH",
+        "ADAB",
+        "NAAR"
+      ]
+    },
+    {
+      "id": 282,
+      "words": [
+        "GHUSL",
+        "RUKUBI",
+        "ISTIGHFAR",
+        "ZAHIR",
+        "HAJJ",
+        "MUQRI",
+        "SIFAT",
+        "SINA",
+        "TABIYAH",
+        "RAHN"
+      ]
+    },
+    {
+      "id": 283,
+      "words": [
+        "SAFAVID",
+        "MAKKAH",
+        "SHUJAA",
+        "NUFUS",
+        "MUHASABA",
+        "ISTIBSAR",
+        "TAMAR",
+        "TARMI",
+        "SINDH",
+        "TAWTHIQ"
+      ]
+    },
+    {
+      "id": 284,
+      "words": [
+        "ATASH",
+        "SALMAN",
+        "SUHAYB",
+        "MIHRAB",
+        "MA",
+        "TAWBAH",
+        "ZUHD",
+        "JIBRIL",
+        "DHU",
+        "TAWAF"
+      ]
+    },
+    {
+      "id": 285,
+      "words": [
+        "KHANDAQ",
+        "ADAB",
+        "HIFZ",
+        "SAYYIDA",
+        "KHULI",
+        "ASBAB",
+        "SHIMR",
+        "SHAM",
+        "RUQAYAH",
+        "UMAYYAD"
+      ]
+    },
+    {
+      "id": 286,
+      "words": [
+        "HASAN",
+        "ISTIBSAR",
+        "KHANDAQ",
+        "MAJBUL",
+        "MAGHRIB",
+        "GHAFFAR",
+        "MASHHAD",
+        "MATN",
+        "ADL",
+        "BAB"
+      ]
+    },
+    {
+      "id": 287,
+      "words": [
+        "SAKINAH",
+        "TAWASSAL",
+        "IRADAH",
+        "SABR",
+        "TAHMID",
+        "RIYADAH",
+        "FITNAH",
+        "IKHLAS",
+        "HASANAT",
+        "TARMI"
+      ]
+    },
+    {
+      "id": 288,
+      "words": [
+        "LAHAWLA",
+        "MUNQATI",
+        "ARAD",
+        "SHURAYH",
+        "NAYAM",
+        "TAHAQQUQ",
+        "ISNAD",
+        "MAQTU",
+        "TAWAKKUL",
+        "TAYYAR"
+      ]
+    },
+    {
+      "id": 289,
+      "words": [
+        "TAKBIR",
+        "TANZIL",
+        "MUBALAHAH",
+        "SYRIA",
+        "QAJAR",
+        "ZAHRA",
+        "TAYYIB",
+        "MUHAYMIN",
+        "MUTAWATIR",
+        "ASBAB"
+      ]
+    },
+    {
+      "id": 290,
+      "words": [
+        "THUBUT",
+        "TANDHUR",
+        "SAJJAD",
+        "GHARAH",
+        "HADITH",
+        "SADIQ",
+        "ILLAH",
+        "SADR",
+        "FARABI",
+        "TAWTHIQ"
+      ]
+    },
+    {
+      "id": 291,
+      "words": [
+        "THUBUT",
+        "TAHAWUL",
+        "QASD",
+        "TAYYIN",
+        "MAQAM",
+        "MASHIYAH",
+        "MASHHAD",
+        "BAB",
+        "TAHDHIB",
+        "NAFS"
+      ]
+    },
+    {
+      "id": 292,
+      "words": [
+        "ADHINA",
+        "TANDHUR",
+        "ARAD",
+        "KHALID",
+        "SUQ",
+        "THAWR",
+        "TAMAR",
+        "IRADAH",
+        "SHAM",
+        "HUDHAIFA"
+      ]
+    },
+    {
+      "id": 293,
+      "words": [
+        "SUQ",
+        "JUMUAH",
+        "HASAN",
+        "AMMAR",
+        "SAQIFAH",
+        "HUDHAIFA",
+        "ZAHRA",
+        "BAQIR",
+        "SADAQAH",
+        "ADHINA"
+      ]
+    },
+    {
+      "id": 294,
+      "words": [
+        "JAMI",
+        "MUALLAL",
+        "HUDUD",
+        "THAWR",
+        "TARTIL",
+        "MAWQUF",
+        "ADHAN",
+        "ASBAB",
+        "MAJLISHI",
+        "TILAWAH"
+      ]
+    },
+    {
+      "id": 295,
+      "words": [
+        "TAQI",
+        "MAGHRIB",
+        "HUDHAYFAH",
+        "BARA",
+        "RAKBAH",
+        "ABUZAR",
+        "ZAYNAB",
+        "BYZANTINE",
+        "SYRIA",
+        "HUDAYBIYAH"
+      ]
+    },
+    {
+      "id": 296,
+      "words": [
+        "HUKM",
+        "AKRAM",
+        "RAJAA",
+        "THABIT",
+        "JAWHAN",
+        "HANI",
+        "MAJLISHI",
+        "MAWDU",
+        "RAKBAH",
+        "TAQSIR"
+      ]
+    },
+    {
+      "id": 297,
+      "words": [
+        "ZAHIR",
+        "MUNTAZAR",
+        "WAQF",
+        "TAMA",
+        "ABU",
+        "MIQDAD",
+        "MUHSIN",
+        "HIRS",
+        "AMM",
+        "DARA"
+      ]
+    },
+    {
+      "id": 298,
+      "words": [
+        "TAQI",
+        "HAJJ",
+        "TAQDEER",
+        "MUQRI",
+        "JABBAR",
+        "GARIB",
+        "JAFAR",
+        "KADHIM",
+        "DAIF",
+        "MASHIYAH"
+      ]
+    },
+    {
+      "id": 299,
+      "words": [
+        "MASHUR",
+        "UHUD",
+        "TANDHUR",
+        "EUFRATES",
+        "BASMALAH",
+        "JAWSHAN",
+        "SINA",
+        "MUTAWATIR",
+        "QASD",
+        "ARAD"
+      ]
+    },
+    {
+      "id": 300,
+      "words": [
+        "FATIMID",
+        "QAJAR",
+        "ANDALUS",
+        "WIRD",
+        "TAWAKKUL",
+        "DAIF",
+        "SHAKUR",
+        "MATN",
+        "FITRAH",
+        "MUNKAR"
+      ]
+    },
+    {
+      "id": 301,
+      "words": [
+        "KAABAH",
+        "GARIB",
+        "NAJAF",
+        "EID",
+        "QADAR",
+        "ADAB",
+        "JIBRIL",
+        "MUTAWATIR",
+        "MUSTAJIR",
+        "RIDA"
+      ]
+    },
+    {
+      "id": 302,
+      "words": [
+        "ISNAD",
+        "HIDANAH",
+        "KULAYNI",
+        "KHILAFAH",
+        "TAZLIA",
+        "NAFS",
+        "NAAR",
+        "WARASAT",
+        "BUKHARI",
+        "SHIA"
+      ]
+    },
+    {
+      "id": 303,
+      "words": [
+        "DAIF",
+        "KHAZIN",
+        "SAMARRA",
+        "BUKHUL",
+        "ZAYNAB",
+        "MUTAAH",
+        "TAMA",
+        "MURSAL",
+        "IDADDAH",
+        "WUDHU"
+      ]
+    },
+    {
+      "id": 304,
+      "words": [
+        "HAJJ",
+        "TAMAR",
+        "MUHSIN",
+        "AHL",
+        "SALAH",
+        "KADHIM",
+        "KARBALA",
+        "DARI",
+        "MA",
+        "ARBAEEN"
+      ]
+    },
+    {
+      "id": 305,
+      "words": [
+        "HIZB",
+        "RAZZAQ",
+        "JAMARAT",
+        "TAZKIYAH",
+        "IFTITAH",
+        "NAYAM",
+        "HADI",
+        "BARI",
+        "QABIDH",
+        "ARAFAT"
+      ]
+    },
+    {
+      "id": 306,
+      "words": [
+        "GHIBAH",
+        "SABA",
+        "TILAWAH",
+        "TADARRU",
+        "MUIZZ",
+        "FITNAH",
+        "TAWAKKUL",
+        "MUSAWWIR",
+        "TAWIL",
+        "SUBHAN"
+      ]
+    },
+    {
+      "id": 307,
+      "words": [
+        "TAMA",
+        "SIFAT",
+        "HASAN",
+        "WAQF",
+        "TILAWAH",
+        "MUHSIN",
+        "HIRS",
+        "DARA",
+        "TAWBAH",
+        "SHURA"
+      ]
+    },
+    {
+      "id": 308,
+      "words": [
+        "OWAIS",
+        "BARA",
+        "TAWBAH",
+        "SALAM",
+        "TAMA",
+        "TAYYAR",
+        "TAFKKUR",
+        "MURAQABA",
+        "KARAM",
+        "ADL"
+      ]
+    },
+    {
+      "id": 309,
+      "words": [
+        "ABDULLAH",
+        "IMAMAH",
+        "DARI",
+        "TAHMID",
+        "GHAFFAR",
+        "SUBHAN",
+        "JAMIAH",
+        "IFTITAH",
+        "SHURAYH",
+        "BARI"
+      ]
+    },
+    {
+      "id": 310,
+      "words": [
+        "WAJIB",
+        "SAWM",
+        "ANDALUS",
+        "KHULI",
+        "SAKINAH",
+        "MA",
+        "MUTAWATIR",
+        "GARIB",
+        "PERSIA",
+        "HIJRAH"
+      ]
+    },
+    {
+      "id": 311,
+      "words": [
+        "MIZAN",
+        "UMAYYAD",
+        "QADAR",
+        "WAKALAH",
+        "RIBA",
+        "NILE",
+        "MAGHFIRAH",
+        "MUNJAT",
+        "OTTOMAN",
+        "MUNAJAH"
+      ]
+    },
+    {
+      "id": 312,
+      "words": [
+        "MUTLAQ",
+        "ADHAN",
+        "HURR",
+        "MUHASABA",
+        "SADR",
+        "QIBLAH",
+        "SHUJAA",
+        "MAJBUL",
+        "MURAQABA",
+        "FAQIH"
+      ]
+    },
+    {
+      "id": 313,
+      "words": [
+        "TAWWABIN",
+        "MUHIT",
+        "HUDUD",
+        "ADL",
+        "WARA",
+        "ZAJAR",
+        "NASKH",
+        "WUJUD",
+        "DARA",
+        "ARBAEEN"
+      ]
+    },
+    {
+      "id": 314,
+      "words": [
+        "WIRD",
+        "BASIT",
+        "BADAA",
+        "NAYAM",
+        "SAHAR",
+        "SAYYIDA",
+        "MUMIN",
+        "WAJIB",
+        "QIRAAT",
+        "MUTAHIR"
+      ]
+    },
+    {
+      "id": 315,
+      "words": [
+        "KULAYNI",
+        "KHAZIN",
+        "ALIM",
+        "DAIF",
+        "CHINA",
+        "SAYYIDA",
+        "TIGRIS",
+        "SALAM",
+        "KABIR",
+        "SHIRKAH"
+      ]
+    },
+    {
+      "id": 316,
+      "words": [
+        "MUSTAJIR",
+        "MUTAWAF",
+        "PERSIA",
+        "MAQAM",
+        "KHAYBAR",
+        "IRADAH",
+        "JAFAR",
+        "HAJJ",
+        "HUNAYN",
+        "SINA"
+      ]
+    },
+    {
+      "id": 317,
+      "words": [
+        "SHIMR",
+        "ABUZAR",
+        "JABIR",
+        "ZAYNAB",
+        "BILAL",
+        "MA",
+        "RUQAYAH",
+        "MAWQUF",
+        "TARMI",
+        "SINAN"
+      ]
+    },
+    {
+      "id": 318,
+      "words": [
+        "TAZALLU",
+        "BATIN",
+        "MARJA",
+        "MUTAWAF",
+        "ZARIH",
+        "MADANI",
+        "IMAMAH",
+        "QUDDUS",
+        "HARAM",
+        "NUDBAT"
+      ]
+    },
+    {
+      "id": 319,
+      "words": [
+        "ALI",
+        "QADA",
+        "MUTAHIR",
+        "BARA",
+        "MUNTAZAR",
+        "MIQDAD",
+        "KADHIM",
+        "TAHARAH",
+        "MUSTAJIR",
+        "MASUD"
+      ]
+    },
+    {
+      "id": 320,
+      "words": [
+        "SAMI",
+        "ISTIGHFAR",
+        "IFTITAH",
+        "TAWAKKUL",
+        "MAHDI",
+        "MADANI",
+        "MUTASHABIH",
+        "DUA",
+        "BASMALAH",
+        "AMM"
+      ]
+    },
+    {
+      "id": 321,
+      "words": [
+        "TAYYIB",
+        "TAZALLU",
+        "GHADIR",
+        "TABIYAH",
+        "SAMIA",
+        "BILAL",
+        "GHARAH",
+        "MAHIYAH",
+        "TASABUH",
+        "MUNJAT"
+      ]
+    },
+    {
+      "id": 322,
+      "words": [
+        "THAQALAYN",
+        "JUMUAH",
+        "WALAD",
+        "ABID",
+        "UDHIYYA",
+        "YAZID",
+        "IKTIKAF",
+        "BYZANTINE",
+        "TARMI",
+        "ANATOLIA"
+      ]
+    },
+    {
+      "id": 323,
+      "words": [
+        "MASHHAD",
+        "TAJARRUD",
+        "QUBBAH",
+        "MUSAWWIR",
+        "NAFS",
+        "DALIL",
+        "KHULI",
+        "SUNNAH",
+        "RAKBAH",
+        "KHAZIN"
+      ]
+    },
+    {
+      "id": 324,
+      "words": [
+        "SHAHADAH",
+        "MUTASHABIH",
+        "MANSUKH",
+        "TILAWAH",
+        "RIDA",
+        "NISA",
+        "HAJJ",
+        "RIBA",
+        "JAMI",
+        "SHAM"
+      ]
+    },
+    {
+      "id": 325,
+      "words": [
+        "MAFATIH",
+        "TAHAWUL",
+        "ZAWAL",
+        "HAMDALAH",
+        "NASIKH",
+        "QASD",
+        "ZAKAT",
+        "MAYASHA",
+        "QUDS",
+        "JAWSHAN"
+      ]
+    },
+    {
+      "id": 326,
+      "words": [
+        "MUGHAL",
+        "NISA",
+        "TAHMID",
+        "SAJJAHD",
+        "SINAN",
+        "ABUZAR",
+        "UMAR",
+        "ALI",
+        "ABDUL",
+        "TASABUH"
+      ]
+    },
+    {
+      "id": 327,
+      "words": [
+        "MUSLIM",
+        "ARBAEEN",
+        "ATASH",
+        "MAJBUL",
+        "RAWDAH",
+        "QIRAAT",
+        "MUHARRAM",
+        "QUBBAH",
+        "GHAYT",
+        "HAJJ"
+      ]
+    },
+    {
+      "id": 328,
+      "words": [
+        "MUNQATI",
+        "GHARAH",
+        "KHALIQ",
+        "BUKHARI",
+        "MUSHID",
+        "QASD",
+        "SALAM",
+        "MIHRAB",
+        "KHABIR",
+        "SHADH"
+      ]
+    },
+    {
+      "id": 329,
+      "words": [
+        "BARA",
+        "HIDANAH",
+        "QUM",
+        "DAIF",
+        "UMM",
+        "ABUZAR",
+        "THABIT",
+        "GHUSL",
+        "MUSLIM",
+        "KADHIM"
+      ]
+    },
+    {
+      "id": 330,
+      "words": [
+        "SAFAR",
+        "MUGHAL",
+        "WAJIB",
+        "HARAM",
+        "GHAYT",
+        "TAMAR",
+        "BADR",
+        "SAWM",
+        "KARBALA",
+        "UMAYYAD"
+      ]
+    },
+    {
+      "id": 331,
+      "words": [
+        "HIKMAH",
+        "ANDALUS",
+        "FITNAH",
+        "TAZLIA",
+        "WUJUD",
+        "NAAR",
+        "MA",
+        "RAHMAH",
+        "BURHAN",
+        "BALKANS"
+      ]
+    },
+    {
+      "id": 332,
+      "words": [
+        "NATHAR",
+        "MUHAYMIN",
+        "NIKAH",
+        "MAKRUH",
+        "SUQ",
+        "SHIA",
+        "RIBA",
+        "GHUSL",
+        "TARAWIH",
+        "RAHMAN"
+      ]
+    },
+    {
+      "id": 333,
+      "words": [
+        "SALAWAT",
+        "JAMAAH",
+        "ZAYNAB",
+        "MUJIR",
+        "QAHAAR",
+        "JAWSHAN",
+        "NADWAH",
+        "GHAFUR",
+        "ARBAEEN",
+        "IJTIHAD"
+      ]
+    },
+    {
+      "id": 334,
+      "words": [
+        "QADR",
+        "IBTILA",
+        "TAUBAH",
+        "HIKMAH",
+        "KHAYBAR",
+        "TIGRIS",
+        "FITNAH",
+        "HUDAYBIYAH",
+        "RIDA",
+        "WASIYAH"
+      ]
+    },
+    {
+      "id": 335,
+      "words": [
+        "NAQI",
+        "TADAKHUL",
+        "IJTIHAD",
+        "TAHAWUL",
+        "MURTAZA",
+        "BAQIR",
+        "KIBR",
+        "ALIM",
+        "GHARAH",
+        "FITRAH"
+      ]
+    },
+    {
+      "id": 336,
+      "words": [
+        "HASAN",
+        "HUR",
+        "ILLAH",
+        "MUTLAQ",
+        "UMAR",
+        "ZAHRA",
+        "KHUBAH",
+        "ADHINA",
+        "MAHIYAH",
+        "THABIT"
+      ]
+    },
+    {
+      "id": 337,
+      "words": [
+        "TAYYAR",
+        "THABIT",
+        "MUKHTAR",
+        "JAMAAH",
+        "TAQWA",
+        "TAMA",
+        "SAYEE",
+        "RUQAYAH",
+        "TARMI",
+        "ADHAN"
+      ]
+    },
+    {
+      "id": 338,
+      "words": [
+        "ZAHIR",
+        "GHIBAH",
+        "RAHMAN",
+        "QUDDUS",
+        "UHUD",
+        "BARI",
+        "JAMI",
+        "KARAM",
+        "ANATOLIA",
+        "SALAH"
+      ]
+    },
+    {
+      "id": 339,
+      "words": [
+        "MIQDAD",
+        "SAASAH",
+        "KHALID",
+        "TAHLIL",
+        "MAFATIH",
+        "IFTITAH",
+        "KUMEYL",
+        "ADHINA",
+        "KHABAB",
+        "AHD"
+      ]
+    },
+    {
+      "id": 340,
+      "words": [
+        "MAHDI",
+        "TAHAJJUD",
+        "MASHUR",
+        "THAQALAYN",
+        "JAMARAT",
+        "TABSHIR",
+        "RIJAL",
+        "RAJAA",
+        "MAQTU",
+        "IKHTIYAR"
+      ]
+    },
+    {
+      "id": 341,
+      "words": [
+        "MAAD",
+        "WAJIB",
+        "MARJA",
+        "MUHIT",
+        "AQL",
+        "SHURAYH",
+        "SHAHADAH",
+        "SASAA",
+        "KHAYBAR",
+        "TALAQ"
+      ]
+    },
+    {
+      "id": 342,
+      "words": [
+        "SAFAVID",
+        "QASIM",
+        "UBAYD",
+        "MUGHAL",
+        "HIRA",
+        "ZAYNAB",
+        "MUSLIM",
+        "MAGHRIB",
+        "OTTOMAN",
+        "FITRAH"
+      ]
+    },
+    {
+      "id": 343,
+      "words": [
+        "MUZDALIFAH",
+        "BAY",
+        "AMRU",
+        "MAYSAM",
+        "TAUBAH",
+        "THAWR",
+        "ZAKAT",
+        "SHUKR",
+        "ARAFAT",
+        "JUAL"
+      ]
+    },
+    {
+      "id": 344,
+      "words": [
+        "ABUAYYUB",
+        "TAWTHIQ",
+        "SAJJAD",
+        "MUTLAQ",
+        "MUSLIM",
+        "TUSI",
+        "THAQALAYN",
+        "KASHHI",
+        "NAJASHI",
+        "KHABAB"
+      ]
+    },
+    {
+      "id": 345,
+      "words": [
+        "GHUFLAT",
+        "TAHAJJUD",
+        "IKTIKAF",
+        "TAQWA",
+        "JUUD",
+        "HAJJ",
+        "MADANI",
+        "TAYYIB",
+        "SABR",
+        "ABDUL"
+      ]
+    },
+    {
+      "id": 346,
+      "words": [
+        "TAQI",
+        "ABID",
+        "MUSTAHABB",
+        "SALMAN",
+        "QUBBAH",
+        "TAWAZU",
+        "ZUHD",
+        "BAY",
+        "SHURA",
+        "TAHLEEL"
+      ]
+    },
+    {
+      "id": 347,
+      "words": [
+        "IKHLAS",
+        "HUDHAYFAH",
+        "MUQRI",
+        "HIRS",
+        "TAMYIZ",
+        "TAQDEER",
+        "JANNAH",
+        "BARA",
+        "GHIBAH",
+        "HUDUD"
+      ]
+    },
+    {
+      "id": 348,
+      "words": [
+        "ABBASID",
+        "WAJIB",
+        "QAJAR",
+        "HUSAYN",
+        "GHAYT",
+        "CORDOBA",
+        "EGYPT",
+        "HARAM",
+        "QURAYSH",
+        "BAQIR"
+      ]
+    },
+    {
+      "id": 349,
+      "words": [
+        "WARASAT",
+        "KHALIQ",
+        "TAWAKKUL",
+        "GHUSL",
+        "FATTAH",
+        "MALIK",
+        "SINDH",
+        "FARAJ",
+        "NATHAR",
+        "EGYPT"
+      ]
+    },
+    {
+      "id": 350,
+      "words": [
+        "SAWM",
+        "KASHHI",
+        "QURAN",
+        "WARASAT",
+        "TAHARAH",
+        "MUSTAHABB",
+        "MASLIS",
+        "TAQLID",
+        "HARAM",
+        "TAHLEEL"
+      ]
+    },
+    {
+      "id": 351,
+      "words": [
+        "MIZAN",
+        "ARAFAT",
+        "SHURAYH",
+        "SIRAT",
+        "MUSLIM",
+        "HUDHAYFAH",
+        "TAMYIZ",
+        "KASHHI",
+        "SAHAR",
+        "TAHMID"
+      ]
+    },
+    {
+      "id": 352,
+      "words": [
+        "BURHAN",
+        "UDHIYYA",
+        "WASIYAH",
+        "ARAFAT",
+        "TAYYIN",
+        "TAHAWUL",
+        "HIBAT",
+        "NIKAH",
+        "JANAZAH",
+        "HAJJ"
+      ]
+    },
+    {
+      "id": 353,
+      "words": [
+        "KHAYBAR",
+        "WAHI",
+        "UMAYYAD",
+        "SAWM",
+        "JANNAH",
+        "HIJRAH",
+        "RAHMAH",
+        "WUDHU",
+        "TAYYIN",
+        "IRADAH"
+      ]
+    },
+    {
+      "id": 354,
+      "words": [
+        "TAHDHIB",
+        "KIBR",
+        "NISA",
+        "SHUJAA",
+        "ADL",
+        "QADAR",
+        "UBAYD",
+        "KARAM",
+        "TANDHIR",
+        "BAY"
+      ]
+    },
+    {
+      "id": 355,
+      "words": [
+        "ZUBAYR",
+        "TAQLID",
+        "MAYSIR",
+        "LATIF",
+        "TAYYIB",
+        "MAKRUH",
+        "HUDHAIFA",
+        "MIQDAD",
+        "WUDHU",
+        "JABBAR"
+      ]
+    },
+    {
+      "id": 356,
+      "words": [
+        "QUDRAT",
+        "IDADDAH",
+        "HAJJ",
+        "SUUD",
+        "IJARAH",
+        "WAJIB",
+        "JAMI",
+        "MUFASSIR",
+        "YAMIN",
+        "HUDUD"
+      ]
+    },
+    {
+      "id": 357,
+      "words": [
+        "RIWAYAH",
+        "MAYASHA",
+        "TAWAKKUL",
+        "ZAHIR",
+        "TAZLIA",
+        "BATIN",
+        "TAHLIL",
+        "FARAJ",
+        "TAHDHIB",
+        "NAAR"
+      ]
+    },
+    {
+      "id": 358,
+      "words": [
+        "RAZZAQ",
+        "TAQDEER",
+        "ISMATE",
+        "TAYYAR",
+        "RAHN",
+        "AZIZ",
+        "SHAFAH",
+        "UTHMAN",
+        "GHUSL",
+        "YAMIN"
+      ]
+    },
+    {
+      "id": 359,
+      "words": [
+        "TADLIS",
+        "IHARM",
+        "SHADH",
+        "MUSAWWIR",
+        "HASAD",
+        "TAFKKUR",
+        "JANAZAH",
+        "HIRS",
+        "IKTIKAF",
+        "HADITH"
+      ]
+    },
+    {
+      "id": 360,
+      "words": [
+        "KISSA",
+        "AHD",
+        "TAWHID",
+        "MURTAZA",
+        "SHAHID",
+        "NAFS",
+        "MAFATIH",
+        "BALAA",
+        "MUBALAHAH",
+        "RAHMAH"
+      ]
+    },
+    {
+      "id": 361,
+      "words": [
+        "MAYSIR",
+        "SHAHID",
+        "HURR",
+        "ARBAEEN",
+        "MUSTAFA",
+        "ATHAR",
+        "ISTIBSAR",
+        "MUTAAH",
+        "HADITH",
+        "SHADH"
+      ]
+    },
+    {
+      "id": 362,
+      "words": [
+        "RAWDAH",
+        "MUNQATI",
+        "TAQLID",
+        "DAIF",
+        "SAJJAD",
+        "QURAN",
+        "TAQWA",
+        "NABUWWAH",
+        "HILM",
+        "MUTAHIR"
+      ]
+    },
+    {
+      "id": 363,
+      "words": [
+        "BASIT",
+        "MUDHIL",
+        "MUTAWATIR",
+        "NAJAF",
+        "MUHKAM",
+        "WAQF",
+        "QUNUT",
+        "TAQARRUB",
+        "TAHLEEL",
+        "MUSTAJIR"
+      ]
+    },
+    {
+      "id": 364,
+      "words": [
+        "HUSAYN",
+        "HIZB",
+        "RUKUBI",
+        "SAQIFAH",
+        "TAWBAH",
+        "RABB",
+        "SHAKUR",
+        "ABID",
+        "QUNUT",
+        "KARAM"
+      ]
+    },
+    {
+      "id": 365,
+      "words": [
+        "FATTAH",
+        "TILAWAH",
+        "JAWSHAN",
+        "KHILAFAH",
+        "SAMIA",
+        "ZUHD",
+        "HAMDALAH",
+        "NAYAM",
+        "SHUJAA",
+        "SIFAT"
+      ]
+    },
+    {
+      "id": 366,
+      "words": [
+        "AMRU",
+        "ABID",
+        "FATIMA",
+        "ZAHRA",
+        "TADAKHUL",
+        "SALMAN",
+        "SIDQ",
+        "BARA",
+        "ADHINA",
+        "RASHID"
+      ]
+    },
+    {
+      "id": 367,
+      "words": [
+        "FATIMA",
+        "AMR",
+        "BADR",
+        "HASAD",
+        "ZAYNAB",
+        "ZAKAT",
+        "ABID",
+        "RAHN",
+        "WARA",
+        "CAIRO"
+      ]
+    },
+    {
+      "id": 368,
+      "words": [
+        "JUMUAH",
+        "WAJIB",
+        "QUM",
+        "ZUHD",
+        "MUQRI",
+        "TILAWAH",
+        "NASIKH",
+        "TAWBAH",
+        "IKTIKAF",
+        "MUHASABA"
+      ]
+    },
+    {
+      "id": 369,
+      "words": [
+        "NAHY",
+        "SHIMR",
+        "DARI",
+        "SIDQ",
+        "ZAYNAB",
+        "QURAYSH",
+        "ABID",
+        "SAKINAH",
+        "ATHAR",
+        "KAFI"
+      ]
+    },
+    {
+      "id": 370,
+      "words": [
+        "ATASH",
+        "MUHASABA",
+        "AZIM",
+        "MUSLIM",
+        "BASIT",
+        "MAJBUL",
+        "NAFS",
+        "NAMEEMAH",
+        "AZIZ",
+        "AMM"
+      ]
+    },
+    {
+      "id": 371,
+      "words": [
+        "FARAJ",
+        "SULHA",
+        "BAY",
+        "WUDHU",
+        "TAHLIL",
+        "NIKAH",
+        "QARD",
+        "ZAKAT",
+        "TAMAR",
+        "ZAYNAB"
+      ]
+    },
+    {
+      "id": 372,
+      "words": [
+        "NILE",
+        "TAHAQQUQ",
+        "ABUZAR",
+        "MIQDAD",
+        "SHAHID",
+        "KASHF",
+        "SADR",
+        "KHANDAQ",
+        "KHABAB",
+        "BAQIR"
+      ]
+    },
+    {
+      "id": 373,
+      "words": [
+        "ABUZAR",
+        "IHARM",
+        "THABIT",
+        "SAJJAHD",
+        "UDHIYYA",
+        "SUBHAN",
+        "IFTITAH",
+        "KAFARA",
+        "KIBR",
+        "KHALID"
+      ]
+    },
+    {
+      "id": 374,
+      "words": [
+        "FITRAH",
+        "ZUBAYR",
+        "TALBIYAH",
+        "TAZKIYAH",
+        "FARAJ",
+        "SHURAYH",
+        "BARA",
+        "AMANAH",
+        "SABA",
+        "SABR"
+      ]
+    },
+    {
+      "id": 375,
+      "words": [
+        "AMM",
+        "TUSI",
+        "BATIN",
+        "RAZZAQ",
+        "GARIB",
+        "SUJUD",
+        "MARKAZ",
+        "MUMIN",
+        "AHAD",
+        "MUHIT"
+      ]
+    },
+    {
+      "id": 376,
+      "words": [
+        "WADHA",
+        "MAFATIH",
+        "TAHMID",
+        "TAWAKKUL",
+        "ATASH",
+        "TAQI",
+        "TAJWID",
+        "THAQALAYN",
+        "QURAYSH",
+        "SHAM"
+      ]
+    },
+    {
+      "id": 377,
+      "words": [
+        "WARA",
+        "TABUK",
+        "NADWAH",
+        "ADL",
+        "SUQ",
+        "WAKALAH",
+        "ARAFAT",
+        "YAMIN",
+        "HUNAYN",
+        "SIDQ"
+      ]
+    },
+    {
+      "id": 378,
+      "words": [
+        "MAQAM",
+        "ALIM",
+        "MUSTAJIR",
+        "HUDHAIFA",
+        "ZAYNAB",
+        "ADHINA",
+        "LAHAWLA",
+        "RAZZAQ",
+        "MAFATIH",
+        "KUMEYL"
+      ]
+    },
+    {
+      "id": 379,
+      "words": [
+        "BILAL",
+        "CAIRO",
+        "MUSTAFA",
+        "CORDOBA",
+        "YAZID",
+        "ATASH",
+        "PERSIA",
+        "SAKINAH",
+        "NISA",
+        "UMAR"
+      ]
+    },
+    {
+      "id": 380,
+      "words": [
+        "RAHMAN",
+        "BARI",
+        "MUMIN",
+        "MUHSIN",
+        "RABB",
+        "JAFAR",
+        "MURTAZA",
+        "ZAHRA",
+        "SHAKUR",
+        "MUHKAM"
+      ]
+    },
+    {
+      "id": 381,
+      "words": [
+        "SHURA",
+        "AZIZ",
+        "HURR",
+        "QUBBAH",
+        "MUSALSAL",
+        "AHAD",
+        "TUSI",
+        "MUTAWAF",
+        "MUNASHA",
+        "MAJLISHI"
+      ]
+    },
+    {
+      "id": 382,
+      "words": [
+        "ARBAEEN",
+        "TAQDEER",
+        "QABIDH",
+        "HIKMAH",
+        "JUNADAH",
+        "SHIA",
+        "RAHMAN",
+        "QADR",
+        "AMMAR",
+        "UMAR"
+      ]
+    },
+    {
+      "id": 383,
+      "words": [
+        "ASWAD",
+        "MAAD",
+        "SADUQ",
+        "IMAMAH",
+        "OWAIS",
+        "SAHIH",
+        "BASIR",
+        "HUDHAIFA",
+        "TAYYIN",
+        "NAFS"
+      ]
+    },
+    {
+      "id": 384,
+      "words": [
+        "MIQDAD",
+        "AMRU",
+        "SHAM",
+        "TAZLIA",
+        "KUFI",
+        "EUFRATES",
+        "SALMAN",
+        "MUKHTAR",
+        "IBTILA",
+        "TARMI"
+      ]
+    },
+    {
+      "id": 385,
+      "words": [
+        "RAHMAH",
+        "TAMA",
+        "RUQAYAH",
+        "HILM",
+        "BUKHUL",
+        "DHU",
+        "RAKBAH",
+        "MUHARRAM",
+        "GHADAB",
+        "TAQWA"
+      ]
+    },
+    {
+      "id": 386,
+      "words": [
+        "ZAYNAB",
+        "KHABAB",
+        "TAKAFUL",
+        "SAWM",
+        "MASHHAD",
+        "JUAL",
+        "MA",
+        "ASWAD",
+        "SALAM",
+        "TAHNIYAH"
+      ]
+    },
+    {
+      "id": 387,
+      "words": [
+        "NAJAF",
+        "MAHDI",
+        "HUDHAYFAH",
+        "ABDUL",
+        "BARA",
+        "SAYYIDA",
+        "ASWAD",
+        "FATIMA",
+        "RAWDAH",
+        "MUBALAHAH"
+      ]
+    },
+    {
+      "id": 388,
+      "words": [
+        "WITR",
+        "HAYAT",
+        "MIRAJ",
+        "TASHKIK",
+        "IDADDAH",
+        "IKHLAS",
+        "TAWAZU",
+        "KIBR",
+        "JAMAAH",
+        "MAKRUH"
+      ]
+    },
+    {
+      "id": 389,
+      "words": [
+        "QIBLAH",
+        "NAYAM",
+        "NASIHAH",
+        "TAZKIYAH",
+        "TAWASUL",
+        "WAQF",
+        "NAMEEMAH",
+        "HILM",
+        "NAFILAH",
+        "BUKHUL"
+      ]
+    },
+    {
+      "id": 390,
+      "words": [
+        "QUBBAH",
+        "SHIRKAH",
+        "EGYPT",
+        "NAJAF",
+        "UMAYYAD",
+        "HIJRAH",
+        "MAHR",
+        "SAFAVID",
+        "MUTAAH",
+        "MUSTAHABB"
+      ]
+    },
+    {
+      "id": 391,
+      "words": [
+        "HALQ",
+        "MAHIYAH",
+        "KABIR",
+        "QAJAR",
+        "TIGRIS",
+        "MUSAWWIR",
+        "MUZDALIFAH",
+        "HADD",
+        "TAWHID",
+        "MAJLISHI"
+      ]
+    },
+    {
+      "id": 392,
+      "words": [
+        "FITNAH",
+        "SUBHAN",
+        "TARAWIH",
+        "SABA",
+        "TANDHIR",
+        "ABUAYYUB",
+        "TAUBAH",
+        "TAHAJJUD",
+        "SALAWAT",
+        "OWAIS"
+      ]
+    },
+    {
+      "id": 393,
+      "words": [
+        "ZAWAL",
+        "AQL",
+        "DAMASCUS",
+        "SULHA",
+        "BUKHARI",
+        "KAFI",
+        "NIKAH",
+        "HIJRAH",
+        "TANDHUR",
+        "MUNQATI"
+      ]
+    },
+    {
+      "id": 394,
+      "words": [
+        "GHARAH",
+        "ILLAH",
+        "ARAD",
+        "FATIMID",
+        "RIYA",
+        "NAMEEMAH",
+        "JAMAAH",
+        "QAJAR",
+        "PERSIA",
+        "ISRA"
+      ]
+    },
+    {
+      "id": 395,
+      "words": [
+        "BANU",
+        "ABU",
+        "MIKAIL",
+        "UDHIYYA",
+        "MAHDI",
+        "TAQI",
+        "HIRA",
+        "FATIMA",
+        "RAHMAH",
+        "BAQIR"
+      ]
+    },
+    {
+      "id": 396,
+      "words": [
+        "WAHI",
+        "ADL",
+        "SHAM",
+        "NISA",
+        "MARKAZ",
+        "TAWIL",
+        "MAKKI",
+        "NAMEEMAH",
+        "WARA",
+        "HAYAT"
+      ]
+    },
+    {
+      "id": 397,
+      "words": [
+        "HIFZ",
+        "QIRAAT",
+        "NADWAH",
+        "TILAWAH",
+        "KHABIR",
+        "ABID",
+        "SHAHID",
+        "EID",
+        "IKHTIYAR",
+        "MUNASHA"
+      ]
+    },
+    {
+      "id": 398,
+      "words": [
+        "ISTIBSAR",
+        "SAKINAH",
+        "MUSLIM",
+        "BALAA",
+        "MUSIBAH",
+        "ZUBAYR",
+        "QADA",
+        "HARITH",
+        "AKRAM",
+        "KHULI"
+      ]
+    },
+    {
+      "id": 399,
+      "words": [
+        "HAJJ",
+        "MUSHID",
+        "SUUD",
+        "TAZALLU",
+        "DALIL",
+        "TAWWABIN",
+        "TAHMID",
+        "WAJIB",
+        "ARAD",
+        "TAYYIN"
+      ]
+    },
+    {
+      "id": 400,
+      "words": [
+        "MAWDU",
+        "YAZID",
+        "MUHARRAM",
+        "MIQDAD",
+        "FARAJ",
+        "ASKARI",
+        "MATN",
+        "MUTAWATIR",
+        "HANI",
+        "SABA"
+      ]
+    },
+    {
+      "id": 401,
+      "words": [
+        "MUFASSIR",
+        "UBAYD",
+        "RABB",
+        "SALAM",
+        "MA",
+        "TAKBIR",
+        "MUTASHABIH",
+        "NASKH",
+        "MUSAWWIR",
+        "QUNUT"
+      ]
+    },
+    {
+      "id": 402,
+      "words": [
+        "FITNAH",
+        "MAQTU",
+        "KAFARA",
+        "DAIF",
+        "MAYSAM",
+        "SASAA",
+        "ISTIBSAR",
+        "SAYEE",
+        "TALBIYAH",
+        "SABR"
+      ]
+    },
+    {
+      "id": 403,
+      "words": [
+        "MAGHRIB",
+        "ZAYNAB",
+        "EUFRATES",
+        "UMAR",
+        "KHUBAH",
+        "HIRA",
+        "MUHARRAM",
+        "ISRAFIL",
+        "RAKBAH",
+        "WADHA"
+      ]
+    },
+    {
+      "id": 404,
+      "words": [
+        "WAKALAH",
+        "MUGHAL",
+        "CORDOBA",
+        "AKRAM",
+        "MURSAL",
+        "MUSTAHABB",
+        "AMRU",
+        "HUDHAYFAH",
+        "MAJLISHI",
+        "JAHILIYYAH"
+      ]
+    },
+    {
+      "id": 405,
+      "words": [
+        "NASIHAH",
+        "SALMAN",
+        "MADANI",
+        "AMM",
+        "DARI",
+        "JAMI",
+        "ZAYNAB",
+        "NAJAF",
+        "TAFKKUR",
+        "MAYSAM"
+      ]
+    },
+    {
+      "id": 406,
+      "words": [
+        "ABUZAR",
+        "GHARAR",
+        "TAHDHIB",
+        "RIBA",
+        "TAZLIA",
+        "WARASAT",
+        "AMRBAYN",
+        "ALI",
+        "FITNAH",
+        "JANNAH"
+      ]
+    },
+    {
+      "id": 407,
+      "words": [
+        "ABUZAR",
+        "GHARAR",
+        "HAJJ",
+        "SALAT",
+        "MASHHAD",
+        "ISTIBSAR",
+        "ISNAD",
+        "MIQDAD",
+        "KAFALAH",
+        "WASIYAH"
+      ]
+    },
+    {
+      "id": 408,
+      "words": [
+        "NABUWWAH",
+        "BAQIR",
+        "SHAKUR",
+        "QASD",
+        "SHURA",
+        "TAZALLU",
+        "TAYYIN",
+        "TAWAKKUL",
+        "THAQALAYN",
+        "TAQLID"
+      ]
+    },
+    {
+      "id": 409,
+      "words": [
+        "AMR",
+        "TATHEER",
+        "UMAR",
+        "ARBAEEN",
+        "RAJAH",
+        "SINAN",
+        "GHAFUR",
+        "KARAM",
+        "BADAA",
+        "SABR"
+      ]
+    },
+    {
+      "id": 410,
+      "words": [
+        "QAJAR",
+        "MAKKAH",
+        "MIRAJ",
+        "TARAWIH",
+        "MUHKAM",
+        "DAMASCUS",
+        "ZAJAR",
+        "ZUHD",
+        "SUJUD",
+        "THAWR"
+      ]
+    },
+    {
+      "id": 411,
+      "words": [
+        "SALAWAT",
+        "KARBALA",
+        "TAHAWUL",
+        "TAZALLU",
+        "QUM",
+        "ZAWAL",
+        "AHL",
+        "UBAYD",
+        "PERSIA",
+        "UHUD"
+      ]
+    },
+    {
+      "id": 412,
+      "words": [
+        "TAHLIL",
+        "RUKUBI",
+        "QAJAR",
+        "BASMALAH",
+        "QIRAAT",
+        "TAWBAH",
+        "TANZIL",
+        "AMM",
+        "ISTIGHFAR",
+        "SINDH"
+      ]
+    },
+    {
+      "id": 413,
+      "words": [
+        "ZUBAYR",
+        "BASMALAH",
+        "ABUZAR",
+        "AKRAM",
+        "MUTAHIR",
+        "MASHHAD",
+        "KUFI",
+        "MAKKAH",
+        "MASUD",
+        "HUDHAYFAH"
+      ]
+    },
+    {
+      "id": 414,
+      "words": [
+        "AMANAH",
+        "KHILAFAH",
+        "RAHIM",
+        "KHALIQ",
+        "AHAD",
+        "BASIR",
+        "WARA",
+        "TAWBAH",
+        "DAIF",
+        "SAMI"
+      ]
+    },
+    {
+      "id": 415,
+      "words": [
+        "FAQIH",
+        "ADHAB",
+        "AQL",
+        "NAAR",
+        "MAQYAD",
+        "OTTOMAN",
+        "THIQA",
+        "HUNAYN",
+        "HIJRAH",
+        "RIJAL"
+      ]
+    },
+    {
+      "id": 416,
+      "words": [
+        "AMMAR",
+        "ATASH",
+        "MAQTU",
+        "RUQAYAH",
+        "SHAHID",
+        "BUKHARI",
+        "ARBAEEN",
+        "GARIB",
+        "WALAD",
+        "MUNASHA"
+      ]
+    },
+    {
+      "id": 417,
+      "words": [
+        "BURHAN",
+        "MAAD",
+        "ABUZAR",
+        "TAWAF",
+        "MASJID",
+        "HUKM",
+        "BANU",
+        "QADAR",
+        "SADAQAH",
+        "AMRBAYN"
+      ]
+    },
+    {
+      "id": 418,
+      "words": [
+        "QADA",
+        "TURBAH",
+        "TANZIL",
+        "KADHIM",
+        "SASANID",
+        "JABR",
+        "HUDUD",
+        "TAQDEER",
+        "EGYPT",
+        "KHANDAQ"
+      ]
+    },
+    {
+      "id": 419,
+      "words": [
+        "MUSALSAL",
+        "HANI",
+        "HASAN",
+        "FITNAH",
+        "HASANAT",
+        "KASHHI",
+        "BANU",
+        "MIRAJ",
+        "MAWQUF",
+        "HIRA"
+      ]
+    },
+    {
+      "id": 420,
+      "words": [
+        "NATHAR",
+        "TASBIH",
+        "KAABAH",
+        "MURSAL",
+        "MUSTAHABB",
+        "TALBIYAH",
+        "KHUBAH",
+        "JAWSHAN",
+        "KASHHI",
+        "SALAWAT"
+      ]
+    },
+    {
+      "id": 421,
+      "words": [
+        "MUNJAT",
+        "TASBIH",
+        "QASIM",
+        "KHABAB",
+        "HAJJ",
+        "TAZALLU",
+        "WALAD",
+        "JUAL",
+        "ADHINA",
+        "ASHURA"
+      ]
+    },
+    {
+      "id": 422,
+      "words": [
+        "BASIT",
+        "MUTLAQ",
+        "MUNAJAH",
+        "WAHI",
+        "NAJAF",
+        "JAMIAH",
+        "KARBALA",
+        "SUBHAN",
+        "SHAKUR",
+        "TAWAKKUL"
+      ]
+    },
+    {
+      "id": 423,
+      "words": [
+        "HUDHAYFAH",
+        "SHURAYH",
+        "ZAJAR",
+        "MASJID",
+        "JAMARAT",
+        "QURBAN",
+        "IQAMAH",
+        "TAHAJJUD",
+        "EID",
+        "ADHAN"
+      ]
+    },
+    {
+      "id": 424,
+      "words": [
+        "RAJAA",
+        "GHAFFAR",
+        "RAJAH",
+        "HARAM",
+        "MUSAWWIR",
+        "HIBAT",
+        "QADA",
+        "IJARAH",
+        "BASIR",
+        "AZIM"
+      ]
+    },
+    {
+      "id": 425,
+      "words": [
+        "DARA",
+        "QAHAAR",
+        "SYRIA",
+        "UHUD",
+        "HUDUD",
+        "SUJUD",
+        "MAAD",
+        "ANATOLIA",
+        "AZIZ",
+        "TAHNIYAH"
+      ]
+    },
+    {
+      "id": 426,
+      "words": [
+        "JAMIAH",
+        "HALQ",
+        "MUJIR",
+        "QURAYSH",
+        "SALMAN",
+        "ASBAB",
+        "TAFSIR",
+        "GHAYT",
+        "HUSAYN",
+        "MINA"
+      ]
+    },
+    {
+      "id": 427,
+      "words": [
+        "BAY",
+        "SUBHAN",
+        "SAFAVID",
+        "KASHF",
+        "KUFI",
+        "NATHAR",
+        "HIZB",
+        "MUSTAHABB",
+        "KUMEYL",
+        "BURHAN"
+      ]
+    },
+    {
+      "id": 428,
+      "words": [
+        "AHAD",
+        "ADHAN",
+        "WALAD",
+        "SASAA",
+        "ATHAR",
+        "HUR",
+        "KAFARA",
+        "MANSUKH",
+        "MAYSAM",
+        "TAWAF"
+      ]
+    },
+    {
+      "id": 429,
+      "words": [
+        "SAMIA",
+        "HUBUT",
+        "HUDHAIFA",
+        "BILAL",
+        "QANAAT",
+        "TAQDEER",
+        "BALAA",
+        "ABDULLAH",
+        "MABDA",
+        "TAMHIS"
+      ]
+    },
+    {
+      "id": 430,
+      "words": [
+        "NADWAH",
+        "SUQ",
+        "AZIM",
+        "ALIM",
+        "SADAQAH",
+        "KAABAH",
+        "BARI",
+        "TAYYIN",
+        "TALAQ",
+        "SINA"
+      ]
+    },
+    {
+      "id": 431,
+      "words": [
+        "ISTIBSAR",
+        "MARJA",
+        "TARMI",
+        "SADUQ",
+        "UTHMAN",
+        "MUHAYMIN",
+        "MUHARRAM",
+        "MA",
+        "BUKHARI",
+        "MIQDAD"
+      ]
+    },
+    {
+      "id": 432,
+      "words": [
+        "CORDOBA",
+        "HALQ",
+        "MUHIT",
+        "TILAWAH",
+        "HUNAYN",
+        "MUNQATI",
+        "KAFI",
+        "MUTLAQ",
+        "WAHI",
+        "MUTASHABIH"
+      ]
+    },
+    {
+      "id": 433,
+      "words": [
+        "MABDA",
+        "QADA",
+        "QASIM",
+        "MUHARRAM",
+        "AZIZ",
+        "KAFI",
+        "ABBAS",
+        "SULHA",
+        "KASHHI",
+        "MAAD"
+      ]
+    },
+    {
+      "id": 434,
+      "words": [
+        "IJTIHAD",
+        "UMAYYAD",
+        "SHAKUR",
+        "BADAA",
+        "CORDOBA",
+        "SAJJAHD",
+        "TAWASUL",
+        "ANATOLIA",
+        "HIJRAH",
+        "KUFI"
+      ]
+    },
+    {
+      "id": 435,
+      "words": [
+        "MA",
+        "WADHA",
+        "MABDA",
+        "ABBAS",
+        "YAZID",
+        "RAJAA",
+        "QASIM",
+        "JAWHAN",
+        "TAUBAH",
+        "IKHTIYAR"
+      ]
+    },
+    {
+      "id": 436,
+      "words": [
+        "MUHASABA",
+        "SIDQ",
+        "MUNQATI",
+        "TADLIS",
+        "MUNTAZAR",
+        "WARA",
+        "NASIHAH",
+        "HASAN",
+        "SAQIFAH",
+        "MAQAM"
+      ]
+    },
+    {
+      "id": 437,
+      "words": [
+        "IFTITAH",
+        "ARAFAT",
+        "GHARAR",
+        "SAASAH",
+        "ADHINA",
+        "AMRU",
+        "SALMAN",
+        "HAMDALAH",
+        "NIKAH",
+        "SHURAYH"
+      ]
+    },
+    {
+      "id": 438,
+      "words": [
+        "BANU",
+        "KHULI",
+        "NAFS",
+        "ATASH",
+        "TARMI",
+        "ABBAS",
+        "FARABI",
+        "HASHIM",
+        "WALAD",
+        "ARAD"
+      ]
+    },
+    {
+      "id": 439,
+      "words": [
+        "HIJRAH",
+        "WIRD",
+        "HADD",
+        "TABIYAH",
+        "ANATOLIA",
+        "MAYSIR",
+        "BADR",
+        "TAHARAH",
+        "SHIRKAH",
+        "LAHAWLA"
+      ]
+    },
+    {
+      "id": 440,
+      "words": [
+        "ZAKAT",
+        "JIHAD",
+        "GHUFLAT",
+        "SABR",
+        "TAWAF",
+        "HIFZ",
+        "UDHIYYA",
+        "SASAA",
+        "KHABAB",
+        "RASHID"
+      ]
+    },
+    {
+      "id": 441,
+      "words": [
+        "RUQAYAH",
+        "SABA",
+        "HIZB",
+        "MASHHAD",
+        "TAHAJJUD",
+        "MASUD",
+        "BARA",
+        "KHALID",
+        "TAWASUL",
+        "WIRD"
+      ]
+    },
+    {
+      "id": 442,
+      "words": [
+        "TARMI",
+        "TAMAR",
+        "AMRU",
+        "KUMEYL",
+        "SAFAR",
+        "MUNTAZAR",
+        "ABUZAR",
+        "MURTAZA",
+        "WADHA",
+        "WALAD"
+      ]
+    },
+    {
+      "id": 443,
+      "words": [
+        "CHINA",
+        "TAWAKKUL",
+        "SHAHID",
+        "SAFAVID",
+        "TALBIYAH",
+        "RAHMAH",
+        "SHAFAH",
+        "TAQDEER",
+        "MUZDALIFAH",
+        "EUFRATES"
+      ]
+    },
+    {
+      "id": 444,
+      "words": [
+        "TAHAWUL",
+        "SHIMR",
+        "KAABAH",
+        "ABU",
+        "TANDHUR",
+        "TAWAF",
+        "ABUZAR",
+        "MAHIYAH",
+        "HANI",
+        "MUJIR"
+      ]
+    },
+    {
+      "id": 445,
+      "words": [
+        "ZAHRA",
+        "MUNASHA",
+        "ZAWAL",
+        "MAAD",
+        "HUR",
+        "MAJLISHI",
+        "THIQA",
+        "BURHAN",
+        "QASIM",
+        "SHIMR"
+      ]
+    },
+    {
+      "id": 446,
+      "words": [
+        "IFTITAH",
+        "UBAYD",
+        "QUM",
+        "QUDS",
+        "MUTAHIR",
+        "SIFAT",
+        "SAFAR",
+        "AMM",
+        "TAWAKKUL",
+        "MADANI"
+      ]
+    },
+    {
+      "id": 447,
+      "words": [
+        "TAYYIN",
+        "MASHIYAH",
+        "IRADAH",
+        "MARKAZ",
+        "UHUD",
+        "PERSIA",
+        "SUUD",
+        "TAUBAH",
+        "TAHAWUL",
+        "CAIRO"
+      ]
+    },
+    {
+      "id": 448,
+      "words": [
+        "FARAJ",
+        "TAHDHIB",
+        "MUSIBAH",
+        "QARD",
+        "TAKBIR",
+        "WASIYAH",
+        "LAHAWLA",
+        "TASBIH",
+        "TAWAKKUL",
+        "TAWASUL"
+      ]
+    },
+    {
+      "id": 449,
+      "words": [
+        "SUHAYB",
+        "SABR",
+        "SAYYIDA",
+        "MURAQABA",
+        "KULAYNI",
+        "GHUFLAT",
+        "HUDHAYFAH",
+        "MAJLISHI",
+        "MAQTU",
+        "MIQDAD"
+      ]
+    },
+    {
+      "id": 450,
+      "words": [
+        "HAJJ",
+        "MURAQABA",
+        "SAWM",
+        "TABIYAH",
+        "IJARAH",
+        "GHAYT",
+        "MAQYAD",
+        "MAKHARIJ",
+        "IBTIDA",
+        "MUTAWAF"
+      ]
+    },
+    {
+      "id": 451,
+      "words": [
+        "ATHAR",
+        "HAKAM",
+        "MUSLIM",
+        "TATHEER",
+        "KALAM",
+        "IJTIHAD",
+        "QAHAAR",
+        "WUDHU",
+        "YAMIN",
+        "MUMIN"
+      ]
+    },
+    {
+      "id": 452,
+      "words": [
+        "ASHURA",
+        "AZIZ",
+        "WAQF",
+        "MUHSIN",
+        "NUFUS",
+        "SHUJAA",
+        "MUHASABA",
+        "KARAM",
+        "TAMAR",
+        "MAWDU"
+      ]
+    },
+    {
+      "id": 453,
+      "words": [
+        "EUFRATES",
+        "MAQAM",
+        "HUDAYBIYAH",
+        "DARA",
+        "KHAYBAR",
+        "TILAWAH",
+        "SALAM",
+        "TAJWID",
+        "MUSTAJIR",
+        "PERSIA"
+      ]
+    },
+    {
+      "id": 454,
+      "words": [
+        "IJARAH",
+        "AZIZ",
+        "BALKANS",
+        "MUSTAHABB",
+        "ISTIBSAR",
+        "ASWAD",
+        "HADITH",
+        "TAHARAH",
+        "ABUZAR",
+        "RASHID"
+      ]
+    },
+    {
+      "id": 455,
+      "words": [
+        "SAJJAHD",
+        "ABID",
+        "QADA",
+        "TAWTHIQ",
+        "QUNUT",
+        "SADIQ",
+        "TADLIS",
+        "MIZAN",
+        "SHURA",
+        "QANAAT"
+      ]
+    },
+    {
+      "id": 456,
+      "words": [
+        "KULAYNI",
+        "RIYA",
+        "MURAQABA",
+        "KHAWF",
+        "KAFARA",
+        "NAMEEMAH",
+        "IKTIKAF",
+        "MATN",
+        "KAABAH",
+        "MINA"
+      ]
+    },
+    {
+      "id": 457,
+      "words": [
+        "FITNAH",
+        "JIBRIL",
+        "SHUJAA",
+        "TAYYIN",
+        "QADAR",
+        "SHAHID",
+        "AMANAH",
+        "QUDRAT",
+        "IQAMAH",
+        "ZAJAR"
+      ]
+    },
+    {
+      "id": 458,
+      "words": [
+        "RABB",
+        "KIBR",
+        "RAHMAH",
+        "TAWBAH",
+        "LAHAWLA",
+        "BASIT",
+        "SABA",
+        "GHADAB",
+        "MAYSIR",
+        "WASIYAH"
+      ]
+    },
+    {
+      "id": 459,
+      "words": [
+        "HALIM",
+        "RABB",
+        "ZAWAL",
+        "SHAHADAH",
+        "HALQ",
+        "MASJID",
+        "TASHKIK",
+        "QURAYSH",
+        "RAHN",
+        "HADD"
+      ]
+    },
+    {
+      "id": 460,
+      "words": [
+        "TAKBIR",
+        "WALAD",
+        "WIRD",
+        "RIWAYAH",
+        "MUHARRAM",
+        "BUKHUL",
+        "MUQAYYAD",
+        "MURAQABA",
+        "TAWASSAL",
+        "KARAM"
+      ]
+    },
+    {
+      "id": 461,
+      "words": [
+        "FATIMA",
+        "BARA",
+        "NAAR",
+        "SHURA",
+        "TAMHIS",
+        "ADHINA",
+        "ISRA",
+        "SUHAYB",
+        "AKRAM",
+        "TANDHIR"
+      ]
+    },
+    {
+      "id": 462,
+      "words": [
+        "JAWHAN",
+        "KUFI",
+        "MUTAAH",
+        "CORDOBA",
+        "BASRA",
+        "QARD",
+        "QAJAR",
+        "ABBASID",
+        "EGYPT",
+        "ABBAS"
+      ]
+    },
+    {
+      "id": 463,
+      "words": [
+        "FATIMID",
+        "TAJWID",
+        "ZAKAT",
+        "MAAD",
+        "TAZALLU",
+        "SAJJAHD",
+        "HUDAYBIYAH",
+        "FITRAH",
+        "IBTILA",
+        "TAZLIA"
+      ]
+    },
+    {
+      "id": 464,
+      "words": [
+        "MUSTAHABB",
+        "FARAJ",
+        "WAKALAH",
+        "SALAT",
+        "IDADDAH",
+        "IJARAH",
+        "KHUMS",
+        "DUA",
+        "KITAB",
+        "JAWSHAN"
+      ]
+    },
+    {
+      "id": 465,
+      "words": [
+        "TAJWID",
+        "RIYADAH",
+        "NASKH",
+        "TAFKKUR",
+        "NATHAR",
+        "MUSIBAH",
+        "HIJRAH",
+        "JIHAD",
+        "TIGRIS",
+        "WAJIB"
+      ]
+    },
+    {
+      "id": 466,
+      "words": [
+        "TAMA",
+        "NASIKH",
+        "JAMI",
+        "TAZKIYAH",
+        "MAQTU",
+        "TANZIL",
+        "SADUQ",
+        "TAWIL",
+        "AMM",
+        "SALAH"
+      ]
+    },
+    {
+      "id": 467,
+      "words": [
+        "SADR",
+        "NUFUS",
+        "MUSHID",
+        "UMAYYAD",
+        "NIKAH",
+        "TAWWABIN",
+        "EGYPT",
+        "MUKHTAR",
+        "MARKAZ",
+        "SAHARA"
+      ]
+    },
+    {
+      "id": 468,
+      "words": [
+        "MABDA",
+        "THUBUT",
+        "RIYA",
+        "HUBUT",
+        "IHARM",
+        "HIRS",
+        "MASJID",
+        "TAHAQQUQ",
+        "JABIR",
+        "ILLAH"
+      ]
+    },
+    {
+      "id": 469,
+      "words": [
+        "KHALIQ",
+        "ABID",
+        "IMAMAH",
+        "SALAM",
+        "HAJJ",
+        "QADA",
+        "MUNASHA",
+        "JAMIAH",
+        "ZARIH",
+        "QUBBAH"
+      ]
+    },
+    {
+      "id": 470,
+      "words": [
+        "BAY",
+        "ARAD",
+        "MUTAKABBIR",
+        "HALIM",
+        "SAMI",
+        "HARAM",
+        "TAZALLU",
+        "MUNAJAH",
+        "QUNUT",
+        "IFTITAH"
+      ]
+    },
+    {
+      "id": 471,
+      "words": [
+        "IRADAH",
+        "KARAM",
+        "HUSAYN",
+        "FATIMA",
+        "SHAHID",
+        "ZAJAR",
+        "MUTLAQ",
+        "SINA",
+        "FITNAH",
+        "ABDUL"
+      ]
+    },
+    {
+      "id": 472,
+      "words": [
+        "JANNAH",
+        "ZARIH",
+        "ADHAB",
+        "TAWASUL",
+        "HARAM",
+        "TALAQ",
+        "SHUKR",
+        "RUQAYAH",
+        "DUA",
+        "HIBAT"
+      ]
+    },
+    {
+      "id": 473,
+      "words": [
+        "SYRIA",
+        "IKTIKAF",
+        "JIBRIL",
+        "SADAQAH",
+        "UDHIYYA",
+        "UHUD",
+        "ANDALUS",
+        "TAWAF",
+        "SAMARRA",
+        "QURBAN"
+      ]
+    },
+    {
+      "id": 474,
+      "words": [
+        "MASHIYAH",
+        "MAWDU",
+        "TAHDHIB",
+        "BALAA",
+        "BAY",
+        "NAAR",
+        "IJARAH",
+        "MUSALSAL",
+        "TAQDEER",
+        "AMRBAYN"
+      ]
+    },
+    {
+      "id": 475,
+      "words": [
+        "MALIK",
+        "MUIZZ",
+        "IMAMAH",
+        "ZAHRA",
+        "KHABIR",
+        "RABB",
+        "SALMAN",
+        "SASAA",
+        "MASUD",
+        "MUNAJAH"
+      ]
+    },
+    {
+      "id": 476,
+      "words": [
+        "MAJLISHI",
+        "GHUFLAT",
+        "TAFKKUR",
+        "SAFAR",
+        "MUSLIM",
+        "ZAJAR",
+        "ATASH",
+        "WAHHAB",
+        "AZIZ",
+        "BADAA"
+      ]
+    },
+    {
+      "id": 477,
+      "words": [
+        "MUNJAT",
+        "SABA",
+        "THIQA",
+        "BATIN",
+        "SIDQ",
+        "MAQTU",
+        "UHUD",
+        "HUDUD",
+        "GHADAB",
+        "NAJASHI"
+      ]
+    },
+    {
+      "id": 478,
+      "words": [
+        "ADHAB",
+        "QADAR",
+        "JUNADAH",
+        "RAHMAH",
+        "MAYSAM",
+        "NAAR",
+        "TAWAKKUL",
+        "GARIB",
+        "SAASAH",
+        "ATHAR"
+      ]
+    },
+    {
+      "id": 479,
+      "words": [
+        "MADANI",
+        "BAGHDAD",
+        "GHADIR",
+        "ABUZAR",
+        "TARTIL",
+        "HUDHAYFAH",
+        "ANATOLIA",
+        "DUA",
+        "BASMALAH",
+        "WAQF"
+      ]
+    },
+    {
+      "id": 480,
+      "words": [
+        "JUAL",
+        "MAJBUL",
+        "SHADH",
+        "HALIM",
+        "SALAM",
+        "MAHR",
+        "BATIN",
+        "MUHSIN",
+        "MUTAKABBIR",
+        "TALAQ"
+      ]
+    },
+    {
+      "id": 481,
+      "words": [
+        "GHADIR",
+        "MUTLAQ",
+        "HUDUD",
+        "IKTIKAF",
+        "ZUHD",
+        "RIYADAH",
+        "QURAYSH",
+        "MUNTAZAR",
+        "TAFKKUR",
+        "ARAFAT"
+      ]
+    },
+    {
+      "id": 482,
+      "words": [
+        "ARBAEEN",
+        "TAZLIA",
+        "HALIM",
+        "NAAR",
+        "MUSHID",
+        "KHABIR",
+        "SAYEE",
+        "TAHNIYAH",
+        "MUHIT",
+        "QURBAN"
+      ]
+    },
+    {
+      "id": 483,
+      "words": [
+        "MUSTAHABB",
+        "KALAM",
+        "KHILAFAH",
+        "TALAQ",
+        "NIKAH",
+        "KITAB",
+        "BALAA",
+        "MUSAWWIR",
+        "NABUWWAH",
+        "SAMI"
+      ]
+    },
+    {
+      "id": 484,
+      "words": [
+        "MAWDU",
+        "MUNQATI",
+        "BAY",
+        "GHUFLAT",
+        "JAMIAH",
+        "RAHMAH",
+        "GHUSL",
+        "MUJIR",
+        "NAMEEMAH",
+        "MAQAM"
+      ]
+    },
+    {
+      "id": 485,
+      "words": [
+        "GHUFLAT",
+        "WARA",
+        "SIDQ",
+        "MUTAWATIR",
+        "QURAN",
+        "SAHIH",
+        "IJTIHAD",
+        "MUNQATI",
+        "ADL",
+        "WILAYAH"
+      ]
+    },
+    {
+      "id": 486,
+      "words": [
+        "BALAA",
+        "SYRIA",
+        "JAFAR",
+        "ABDULLAH",
+        "SUJUD",
+        "BILAL",
+        "ABBASID",
+        "MIZAN",
+        "JABR",
+        "JIHAD"
+      ]
+    },
+    {
+      "id": 487,
+      "words": [
+        "BAGHDAD",
+        "MUNAJAH",
+        "FATIMA",
+        "MAFATIH",
+        "SHAHID",
+        "BYZANTINE",
+        "SADIQ",
+        "ZAHIR",
+        "ISTIGHFAR",
+        "MUFASSIR"
+      ]
+    },
+    {
+      "id": 488,
+      "words": [
+        "ARAD",
+        "RUQAYAH",
+        "ALI",
+        "MUTASHABIH",
+        "TAQIYAH",
+        "QUBBAH",
+        "ZAWAL",
+        "GHAYBAH",
+        "ZARIH",
+        "MUFASSIR"
+      ]
+    },
+    {
+      "id": 489,
+      "words": [
+        "BAQIR",
+        "RUQAYAH",
+        "BANU",
+        "RIDA",
+        "JAMIAH",
+        "NUFUS",
+        "MIZAN",
+        "ZARIH",
+        "SHUKR",
+        "SADIQ"
+      ]
+    },
+    {
+      "id": 490,
+      "words": [
+        "ABUAYYUB",
+        "OWAIS",
+        "AMRU",
+        "SHIMR",
+        "SHURAYH",
+        "ABDULLAH",
+        "WADHA",
+        "SHAM",
+        "SIDQ",
+        "TAWAZU"
+      ]
+    },
+    {
+      "id": 491,
+      "words": [
+        "SUQ",
+        "HILM",
+        "WARASAT",
+        "IDADDAH",
+        "NAHY",
+        "QAJAR",
+        "RIBA",
+        "DAMASCUS",
+        "TAWBAH",
+        "MUGHAL"
+      ]
+    },
+    {
+      "id": 492,
+      "words": [
+        "SINAN",
+        "WAQF",
+        "MUFASSIR",
+        "ZAKAT",
+        "SIDQ",
+        "NAHY",
+        "MAKKI",
+        "ASHURA",
+        "MUHARRAM",
+        "UMAR"
+      ]
+    },
+    {
+      "id": 493,
+      "words": [
+        "SASAA",
+        "TADARRU",
+        "OWAIS",
+        "HARITH",
+        "ARBAEEN",
+        "ABUAYYUB",
+        "MUHARRAM",
+        "GHIBAH",
+        "HASAD",
+        "SAFAR"
+      ]
+    },
+    {
+      "id": 494,
+      "words": [
+        "TAQARRUB",
+        "TAWAKKUL",
+        "NASIHAH",
+        "SHUKR",
+        "MAFATIH",
+        "TAZKIYAH",
+        "MAWDU",
+        "NIKAH",
+        "HURR",
+        "AZIZ"
+      ]
+    },
+    {
+      "id": 495,
+      "words": [
+        "MA",
+        "MUJIR",
+        "QUBBAH",
+        "HUDAYBIYAH",
+        "UMAR",
+        "SABR",
+        "SAYYIDA",
+        "KIBR",
+        "KADHIB",
+        "MAKKAH"
+      ]
+    },
+    {
+      "id": 496,
+      "words": [
+        "SULHA",
+        "WAHI",
+        "SAMIA",
+        "SAASAH",
+        "GHUSL",
+        "IDADDAH",
+        "MASUD",
+        "GHARAR",
+        "MASHIYAH",
+        "HUDHAIFA"
+      ]
+    },
+    {
+      "id": 497,
+      "words": [
+        "GHUFLAT",
+        "MASHIYAH",
+        "WAJIB",
+        "RIYADAH",
+        "SHAFAH",
+        "RAZZAQ",
+        "TAHNIYAH",
+        "HASAD",
+        "IRADAH",
+        "KHABIR"
+      ]
+    },
+    {
+      "id": 498,
+      "words": [
+        "GARIB",
+        "MUNASHA",
+        "MINA",
+        "MASHIYAH",
+        "KAFARA",
+        "HASAN",
+        "JANNAH",
+        "TABSHIR",
+        "MASHUR",
+        "IKTIKAF"
+      ]
+    },
+    {
+      "id": 499,
+      "words": [
+        "HUDHAYFAH",
+        "RIBA",
+        "LAHAWLA",
+        "RAKBAH",
+        "QADA",
+        "RAHN",
+        "TAFWID",
+        "TAHLIL",
+        "QASIM",
+        "GHADIR"
+      ]
+    },
+    {
+      "id": 500,
+      "words": [
+        "MAGHRIB",
+        "ISRAFIL",
+        "ADHAN",
+        "ATHAR",
+        "JIBRIL",
+        "HIDANAH",
+        "WARASAT",
+        "BALKANS",
+        "ABBASID",
+        "SUQ"
+      ]
+    }
+  ]
+}
