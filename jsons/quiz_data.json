@@ -371,12 +371,12 @@
         },
         {
           "questionNumber": 10,
-          "question": "Father of Imam Sadiq?",
+          "question": "The father of Imam as-Sadiq (a.s)?",
           "option1": "Abdullah",
-          "option2": "Muhammad",
-          "option3": "Ali",
-          "option4": "Jafar",
-          "correctAnswerIndex": 2
+          "option2": "Muhammad (a.s)",
+          "option3": "Ali (a.s)",
+          "option4": "Jafar (a.s)",
+          "correctAnswerIndex": 1
         }
       ]
     }
