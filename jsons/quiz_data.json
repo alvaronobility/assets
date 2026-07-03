@@ -214,10 +214,10 @@
         {
           "questionNumber": 3,
           "question": "Martyr of Karbala?",
-          "option1": "Imam Ali",
-          "option2": "Imam Husayn",
-          "option3": "Imam Hasan",
-          "option4": "Imam Sajjad",
+          "option1": "Imam Ali (a.s)",
+          "option2": "Imam Husayn (a.s)",
+          "option3": "Imam Hasan (a.s)",
+          "option4": "Imam Sajjad (a.s)",
           "correctAnswerIndex": 1
         },
         {
