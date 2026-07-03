@@ -335,11 +335,11 @@
         },
         {
           "questionNumber": 6,
-          "question": "Seal of Prophets?",
-          "option1": "Prophet Isa",
-          "option2": "Prophet Musa",
-          "option3": "Prophet Muhammad",
-          "option4": "Prophet Ibrahim",
+          "question": "The seal of the Prophets?",
+          "option1": "Prophet Isa (a.s)",
+          "option2": "Prophet Musa (a.s)",
+          "option3": "Prophet Muhammad (s.a.w.a)",
+          "option4": "Prophet Ibrahim (a.s)",
           "correctAnswerIndex": 2
         },
         {
