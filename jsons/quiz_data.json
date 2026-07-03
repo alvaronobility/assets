@@ -222,9 +222,9 @@
         },
         {
           "questionNumber": 4,
-          "question": "Minor occultation lasted about 70 years?",
-          "option1": "Ghaybah Sughra",
-          "option2": "Ghaybah Kubra",
+          "question": "What is the name given to the minor occultation that lasted for about 70 years?",
+          "option1": "Ghaybah al-Sughra",
+          "option2": "Ghaybah al-Kubra",
           "option3": "Raj'ah",
           "option4": "Zuhur",
           "correctAnswerIndex": 0
