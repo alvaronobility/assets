@@ -195,7 +195,7 @@
       "questions": [
         {
           "questionNumber": 1,
-          "question": "How many Imams are there after Ali bin Abi Talib (a.s)?",
+          "question": "How many Imams are there after Imam Ali bin Abi Talib (a.s)?",
           "option1": "12",
           "option2": "7",
           "option3": "5",
@@ -208,7 +208,7 @@
           "option1": "Jabr",
           "option2": "Irja",
           "option3": "Tashbih",
-          "option4": "Bada",
+          "option4": "Bada'",
           "correctAnswerIndex": 3
         },
         {
