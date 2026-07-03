@@ -403,12 +403,12 @@
         },
         {
           "questionNumber": 3,
-          "question": "Son of Fatimah who died in miscarriage?",
+          "question": "The son of Fatimah who died in miscarriage?",
           "option1": "Hasan",
           "option2": "Husayn",
           "option3": "Muhsin",
           "option4": "Abdullah",
-          "correctAnswerIndex": 3
+          "correctAnswerIndex": 2
         },
         {
           "questionNumber": 4,
