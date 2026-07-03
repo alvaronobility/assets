@@ -5,93 +5,93 @@
       "questions": [
         {
           "questionNumber": 1,
-          "question": "What is the Qurʾān?",
-          "option1": "A copied text from ancient scriptures",
-          "option2": "A collection of ancient poetry by Arab tribes",
-          "option3": "The final and complete revelation from Allah, revealed to Prophet Muḥammad ﷺ through the angel Jibrīl",
-          "option4": "A historical record of previous revealed Books",
-          "correctAnswerIndex": 2
+          "question": "Which root of religion (Usul al-Din) affirms God's Oneness?",
+          "option1": "Adl",
+          "option2": "Tawhid",
+          "option3": "Imamate",
+          "option4": "Ma'ad",
+          "correctAnswerIndex": 1
         },
         {
           "questionNumber": 2,
-          "question": "In what language was the Qurʾān revealed?",
-          "option1": "Greek",
-          "option2": "Arabic",
-          "option3": "Aramaic",
-          "option4": "Hebrew",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 3,
-          "question": "Who was the Prophet that received the Qurʾān?",
-          "option1": "Prophet Mūsā (a.s)",
-          "option2": "Prophet Muḥammad (s.a.w.a)",
-          "option3": "Imām Alī (a.s)",
-          "option4": "Prophet Jibrīl (a.s)",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 4,
-          "question": "Over how many years was the Qurʾān revealed?",
-          "option1": "Approximately 23 years",
-          "option2": "Approximately 40 years",
-          "option3": "Approximately 10 years",
-          "option4": "Approximately 63 years",
+          "question": "How many Usul al-Din are there in Twelver Shia Islam?",
+          "option1": "5",
+          "option2": "6",
+          "option3": "3",
+          "option4": "7",
           "correctAnswerIndex": 0
         },
         {
-          "questionNumber": 5,
-          "question": "What is the first verse revealed of the Qurʾān?",
-          "option1": "Wa-l-ʿaṣr (By time) (Q103:1)",
-          "option2": "Qul huwa llāhu aḥad (Say: He is Allah, One) (Q112:1)",
-          "option3": "Al-ḥamdu lillāhi rabbi l-ʿālamīn (All praise is due to Allah, Lord of the worlds) (Q1:2)",
-          "option4": "Iqraʾ bismi rabbika allaḏī khalaq (Read in the name of your Lord who created) (Q96:1)",
+          "questionNumber": 3,
+          "question": "Which is a root, not a branch?",
+          "option1": "Salah",
+          "option2": "Zakat",
+          "option3": "Hajj",
+          "option4": "Nubuwwah",
           "correctAnswerIndex": 3
         },
         {
+          "questionNumber": 4,
+          "question": "Shia belief in Divine Justice is called?",
+          "option1": "Jabr",
+          "option2": "Adl",
+          "option3": "Qadr",
+          "option4": "Tafwid",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 5,
+          "question": "First Imam in Shia Islam?",
+          "option1": "Abu Bakr",
+          "option2": "Umar",
+          "option3": "Ali",
+          "option4": "Uthman",
+          "correctAnswerIndex": 2
+        },
+        {
           "questionNumber": 6,
-          "question": "What is the last verse revealed in the Qurʾān according to many scholars?",
-          "option1": "Wa-ttaqū yawman turjaʿūna fīhi ilā llāh (And be conscious of a Day when you will be returned to Allah) (Q2:281)",
-          "option2": "Al-yawma akmaltu lakum dīnakum (This day I have perfected for you your religion) (Q5:3)",
-          "option3": "Idhā jāa naṣru llāhi wa-l-fatḥ (When the help of Allah comes and victory) (Q110:1)",
-          "option4": "Qul aʿūdhu bi-rabbi n-nās (Say: I seek refuge in the Lord of mankind) (Q114:1)",
+          "question": "Infallibility of Imams is called?",
+          "option1": "Ismah",
+          "option2": "Taqiyyah",
+          "option3": "Tawbah",
+          "option4": "Kufr",
           "correctAnswerIndex": 0
         },
         {
           "questionNumber": 7,
-          "question": "Which surah is the longest in the Qurʾān?",
-          "option1": "Sūrat Yūsuf (a.s)",
-          "option2": "Sūrat al-Nisāʾ",
-          "option3": "Sūrat al-Baqarah",
-          "option4": "Sūrat Āl ʿImrān",
+          "question": "Return of some dead before Qiyamah?",
+          "option1": "Jannah",
+          "option2": "Jahannam",
+          "option3": "Raj'ah",
+          "option4": "Barzakh",
           "correctAnswerIndex": 2
         },
         {
           "questionNumber": 8,
-          "question": "How many surahs (chapters) are in the Qurʾān?",
-          "option1": "111",
-          "option2": "112",
-          "option3": "113",
-          "option4": "114",
-          "correctAnswerIndex": 3
+          "question": "Which school believes in Bada?",
+          "option1": "Salafi",
+          "option2": "Zaydi",
+          "option3": "Jafari",
+          "option4": "Ismaili",
+          "correctAnswerIndex": 2
         },
         {
           "questionNumber": 9,
-          "question": "Which surah is the shortest in the Qurʾān?",
-          "option1": "Sūrat al-ʿAṣr",
-          "option2": "Sūrat al-Naṣr",
-          "option3": "Sūrat al-Ikhlāṣ",
-          "option4": "Sūrat al-Kawthar",
-          "correctAnswerIndex": 3
+          "question": "Which Imam is in occultation?",
+          "option1": "Imam Husayn",
+          "option2": "Imam Mahdi",
+          "option3": "Imam Sadiq",
+          "option4": "Imam Rida",
+          "correctAnswerIndex": 1
         },
         {
           "questionNumber": 10,
-          "question": "What is the name of the first surah in the Qurʾān?",
-          "option1": "Sūrat al-Nās",
-          "option2": "Sūrat al-Baqarah",
-          "option3": "Sūrat al-Fātiḥah",
-          "option4": "Sūrat al-Ikhlāṣ",
-          "correctAnswerIndex": 2
+          "question": "Imam appointed by divine designation?",
+          "option1": "Nass",
+          "option2": "Shura",
+          "option3": "Election",
+          "option4": "Ijma",
+          "correctAnswerIndex": 0
         }
       ]
     }
