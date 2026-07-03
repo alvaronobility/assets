@@ -284,6 +284,101 @@
           "correctAnswerIndex": 1
         }
       ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "The place where the Prophet (s.a.w.a) declared Ali (a.s) as his successor and the Mawla of all Muslims?",
+          "option1": "Ghadir Khumm",
+          "option2": "Mubahalah",
+          "option3": "Hudaybiyyah",
+          "option4": "Badr",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "question": "Who divided knowledge into divine, acquired, and given?",
+          "option1": "Imam Sadiq (a.s)",
+          "option2": "Imam Baqir (a.s)",
+          "option3": "Ali ibn Abi Talib (a.s)",
+          "option4": "Imam Rida (a.s)",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "question": "Prayer for divine curse on liars?",
+          "option1": "Taqiyyah",
+          "option2": "Khums",
+          "option3": "Jihad",
+          "option4": "Mubahalah",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 4,
+          "question": "Fourteen Infallibles (Masumeen) count?",
+          "option1": "7",
+          "option2": "14",
+          "option3": "5",
+          "option4": "3",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 5,
+          "question": "Concealing faith under danger?",
+          "option1": "Taqiyyah",
+          "option2": "Tawbah",
+          "option3": "Tawakkul",
+          "option4": "Tahasun",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 6,
+          "question": "Seal of Prophets?",
+          "option1": "Prophet Isa",
+          "option2": "Prophet Musa",
+          "option3": "Prophet Muhammad",
+          "option4": "Prophet Ibrahim",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 7,
+          "question": "Imam Hasan is which Imam?",
+          "option1": "3rd",
+          "option2": "2nd",
+          "option3": "1st",
+          "option4": "4th",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 8,
+          "question": "12th Imam's name?",
+          "option1": "Hasan Askari",
+          "option2": "Ali Naqi",
+          "option3": "Muhammad Taqi",
+          "option4": "Mahdi",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 9,
+          "question": "Place of 11th Imam's grave?",
+          "option1": "Samarra",
+          "option2": "Medina",
+          "option3": "Mecca",
+          "option4": "Kufa",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 10,
+          "question": "Father of Imam Sadiq?",
+          "option1": "Abdullah",
+          "option2": "Muhammad",
+          "option3": "Ali",
+          "option4": "Jafar",
+          "correctAnswerIndex": 2
+        }
+      ]
     }
   ]
 }
