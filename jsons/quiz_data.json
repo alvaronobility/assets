@@ -353,16 +353,16 @@
         },
         {
           "questionNumber": 8,
-          "question": "12th Imam's name?",
-          "option1": "Hasan Askari",
-          "option2": "Ali Naqi",
-          "option3": "Muhammad Taqi",
-          "option4": "Mahdi",
+          "question": "The 12th Imam's name?",
+          "option1": "Hasan Askari (a.s)",
+          "option2": "Ali Naqi (a.s)",
+          "option3": "Muhammad Taqi (a.s)",
+          "option4": "Mahdi (a.s)",
           "correctAnswerIndex": 3
         },
         {
           "questionNumber": 9,
-          "question": "Place of 11th Imam's grave?",
+          "question": "The place of the 11th Imam's grave?",
           "option1": "Samarra",
           "option2": "Medina",
           "option3": "Mecca",
