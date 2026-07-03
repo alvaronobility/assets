@@ -94,6 +94,101 @@
           "correctAnswerIndex": 0
         }
       ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Special God-given knowledge of Imam?",
+          "option1": "Inheritance",
+          "option2": "Ilm al-Imam",
+          "option3": "Hikmah",
+          "option4": "Fiqh",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "question": "Leader of women in Jannah in Shia belief?",
+          "option1": "Aisha",
+          "option2": "Khadijah",
+          "option3": "Fatimah",
+          "option4": "Maryam",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 3,
+          "question": "Seeking intercession from Imams is called?",
+          "option1": "Tawassul",
+          "option2": "Shirk",
+          "option3": "Bid'ah",
+          "option4": "Tahreef",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 4,
+          "question": "Sources of Jafari fiqh?",
+          "option1": "Qur'an only",
+          "option2": "Sunnah only",
+          "option3": "Qur'an + Sunnah + Imams",
+          "option4": "Qur'an + Sunnah + Qiyas",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 5,
+          "question": "Prophet's successor (wasi) according to Shias?",
+          "option1": "Abu Bakr",
+          "option2": "Ali (a.s)",
+          "option3": "Umar",
+          "option4": "None",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 6,
+          "question": "Shia belief on resurrection (Ma'ad)?",
+          "option1": "Only physical",
+          "option2": "Only spiritual",
+          "option3": "Physical + spiritual",
+          "option4": "Reincarnation",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 7,
+          "question": "Tawhid includes?",
+          "option1": "Essence, attributes, actions",
+          "option2": "Essence only",
+          "option3": "Worship only",
+          "option4": "Names only",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 8,
+          "question": "Position between free will and compulsion?",
+          "option1": "Jabr",
+          "option2": "Tafwid",
+          "option3": "Amr bayn al-amrayn",
+          "option4": "Qadariyyah",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 9,
+          "question": "Imam Mahdi today is?",
+          "option1": "Dead",
+          "option2": "Never born",
+          "option3": "Alive in occultation",
+          "option4": "In paradise",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 10,
+          "question": "Day Mahdi will reappear?",
+          "option1": "Monday",
+          "option2": "Friday",
+          "option3": "Ashura",
+          "option4": "Eid",
+          "correctAnswerIndex": 1
+        }
+      ]
     }
   ]
 }
