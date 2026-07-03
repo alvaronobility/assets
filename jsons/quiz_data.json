@@ -189,6 +189,101 @@
           "correctAnswerIndex": 1
         }
       ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "How many Imams are there after Ali bin Abi Talib (a.s)?",
+          "option1": "12",
+          "option2": "7",
+          "option3": "5",
+          "option4": "11",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "question": "Change in divine decree before execution?",
+          "option1": "Jabr",
+          "option2": "Irja",
+          "option3": "Tashbih",
+          "option4": "Bada",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 3,
+          "question": "Martyr of Karbala?",
+          "option1": "Imam Ali",
+          "option2": "Imam Husayn",
+          "option3": "Imam Hasan",
+          "option4": "Imam Sajjad",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 4,
+          "question": "Minor occultation lasted about 70 years?",
+          "option1": "Ghaybah Sughra",
+          "option2": "Ghaybah Kubra",
+          "option3": "Raj'ah",
+          "option4": "Zuhur",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 5,
+          "question": "Loving Ahl al-Bayt is called?",
+          "option1": "Fasting",
+          "option2": "Prayer",
+          "option3": "Tawalla",
+          "option4": "Hajj",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 6,
+          "question": "Who are the hujjah (proof) of Allah on earth after Prophet?",
+          "option1": "Angels",
+          "option2": "Imams",
+          "option3": "Mufassireen",
+          "option4": "Sufis",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 7,
+          "question": "Where Imam Husayn martyred?",
+          "option1": "Siffin",
+          "option2": "Jamal",
+          "option3": "Nahrawan",
+          "option4": "Karbala",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 8,
+          "question": "Roots of religion are?",
+          "option1": "Usul al-Din",
+          "option2": "Furu al-Din",
+          "option3": "Sunnah",
+          "option4": "Mustahab",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 9,
+          "question": "Ismah means?",
+          "option1": "Simplicity",
+          "option2": "Wealth",
+          "option3": "Infallibility",
+          "option4": "Political power",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 10,
+          "question": "Verse of Wilayah (giving ring while praying) refers to?",
+          "option1": "Qur'an 1:1",
+          "option2": "Qur'an 5:55",
+          "option3": "Qur'an 2:255",
+          "option4": "Qur'an 112",
+          "correctAnswerIndex": 1
+        }
+      ]
     }
   ]
 }
