@@ -379,6 +379,101 @@
           "correctAnswerIndex": 1
         }
       ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Who was the grandfather of Prophet Muhammad (s.a.w.a) and Ali (a.s)?",
+          "option1": "Abu Talib (a.s)",
+          "option2": "Abdul Muttalib (a.s)",
+          "option3": "Hashim (a.s)",
+          "option4": "Qusayy (a.s)",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "question": "First wife of Prophet and mother of Fatimah?",
+          "option1": "Khadijah",
+          "option2": "Fatimah",
+          "option3": "Zaynab",
+          "option4": "Umm Kulthum",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "question": "Son of Fatimah who died in miscarriage?",
+          "option1": "Hasan",
+          "option2": "Husayn",
+          "option3": "Muhsin",
+          "option4": "Abdullah",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 4,
+          "question": "Age of Fatimah at marriage?",
+          "option1": "31",
+          "option2": "35",
+          "option3": "25",
+          "option4": "40",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 5,
+          "question": "Land Fatimah claimed as inheritance?",
+          "option1": "Fadak",
+          "option2": "Khaybar",
+          "option3": "Badr",
+          "option4": "Uhud",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 6,
+          "question": "Period Fatimah lived after Prophet?",
+          "option1": "95 days",
+          "option2": "40 days",
+          "option3": "6 months",
+          "option4": "1 year",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 7,
+          "question": "Which Hadith says 'Hasan and Husayn are leaders of youth of Jannah'?",
+          "option1": "Bukhari",
+          "option2": "Muslim",
+          "option3": "Tirmidhi",
+          "option4": "All major Sunni books",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 8,
+          "question": "Daughter of Ali who spoke in Kufa after Karbala?",
+          "option1": "Hasan",
+          "option2": "Husayn",
+          "option3": "Zaynab",
+          "option4": "Umm Kulthum",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 9,
+          "question": "Title of 4th Imam?",
+          "option1": "Sajjad",
+          "option2": "Zayn al-Abidin",
+          "option3": "Baquir",
+          "option4": "Sadiq",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 10,
+          "question": "Book of 4th Imam on rights?",
+          "option1": "Risaalat al-Huquq",
+          "option2": "Nahjul Balagha",
+          "option3": "Sahifa Sajjadiyya",
+          "option4": "Al-Kafi",
+          "correctAnswerIndex": 0
+        }
+      ]
     }
   ]
 }
