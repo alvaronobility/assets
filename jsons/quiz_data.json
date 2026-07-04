@@ -1044,6 +1044,101 @@
           "correctAnswerIndex": 2
         }
       ]
+    },
+    {
+      "level": 12,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Who is called ‘Siddiqah al-Kubra’ in Shia?",
+          "option1": "Fatimah",
+          "option2": "Maryam",
+          "option3": "Asiya",
+          "option4": "Khadijah",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "question": "Which figure declared war on Imam Ali?",
+          "option1": "Abu Bakr",
+          "option2": "Umar",
+          "option3": "Uthman",
+          "option4": "Muawiyah",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 3,
+          "question": "Battle where Aisha opposed Ali?",
+          "option1": "Jamal",
+          "option2": "Siffin",
+          "option3": "Nahrawan",
+          "option4": "Karbala",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 4,
+          "question": "Son of Ali who was flag-bearer in Karbala?",
+          "option1": "Hasan",
+          "option2": "Husayn",
+          "option3": "Abbas",
+          "option4": "Muhammad",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 5,
+          "question": "Governor of Egypt appointed by Ali?",
+          "option1": "Muhammad ibn Hanafiyyah",
+          "option2": "Muhammad ibn Abi Bakr",
+          "option3": "Muslim ibn Aqil",
+          "option4": "Ammar ibn Yasir",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 6,
+          "question": "Which wife of Prophet defended Ali?",
+          "option1": "Aisha",
+          "option2": "Hafsa",
+          "option3": "Umm Salama",
+          "option4": "Khadijah",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 7,
+          "question": "Companion exiled to desert for opposing Uthman?",
+          "option1": "Abu Dharr",
+          "option2": "Salman",
+          "option3": "Miqdad",
+          "option4": "Ammar",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 8,
+          "question": "Companion who lived to see occultation of 12th Imam?",
+          "option1": "Abu Huraira",
+          "option2": "Ibn Abbas",
+          "option3": "Salman al-Farsi",
+          "option4": "Bilal",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 9,
+          "question": "Companion who met 5th Imam and told secrets?",
+          "option1": "Jabir ibn Abdullah",
+          "option2": "Jabir ibn Yazid al-Ju'fi",
+          "option3": "Jabir ibn Hayyan",
+          "option4": "Jabir al-Ansari",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 10,
+          "question": "Mother of Abbas in Karbala?",
+          "option1": "Umm al-Banin",
+          "option2": "Layla bint Mas'ud",
+          "option3": "Umm Habib",
+          "option4": "Umm Kulthum",
+          "correctAnswerIndex": 0
+        }
+      ]
     }
   ]
 }
