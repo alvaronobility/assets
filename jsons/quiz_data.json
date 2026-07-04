@@ -905,11 +905,11 @@
         },
         {
           "questionNumber": 6,
-          "question": "Source of emulation in fiqh?",
-          "option1": "Ayatollah",
+          "question": "Which one of the following is not a source of fiqh?",
+          "option1": "Sunnah of the Prophet",
           "option2": "Marja' al-Taqlid",
-          "option3": "Hujjat al-Islam",
-          "option4": "Mujtahid",
+          "option3": "Qur'an",
+          "option4": "Imams of Ahl-al-Bayt",
           "correctAnswerIndex": 1
         },
         {
