@@ -724,9 +724,9 @@
         },
         {
           "questionNumber": 7,
-          "question": "Author of Tahdhib and Istibsar?",
-          "option1": "Murtada",
-          "option2": "Kashani",
+          "question": "Who was the author of both Tahdhib and Istibsar?",
+          "option1": "Ibn Babuwayh",
+          "option2": "Kulayni",
           "option3": "Majlisi",
           "option4": "Tusi",
           "correctAnswerIndex": 3
