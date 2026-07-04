@@ -923,12 +923,12 @@
         },
         {
           "questionNumber": 8,
-          "question": "Which school says Qur'an is created?",
+          "question": "Which school says Qur'an is created in the sense of being makhluq?",
           "option1": "Mutazila",
           "option2": "Ash'ari",
           "option3": "Imamiyyah",
           "option4": "Maturidi",
-          "correctAnswerIndex": 2
+          "correctAnswerIndex": 0
         },
         {
           "questionNumber": 9,
