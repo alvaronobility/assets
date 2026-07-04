@@ -629,12 +629,12 @@
         },
         {
           "questionNumber": 7,
-          "question": "Abbasid caliph who poisoned Imam Rida?",
+          "question": "Who was the Abbasid caliph that poisoned Imam al-Rida?",
           "option1": "Ma'mun",
           "option2": "Harun",
           "option3": "Mutasim",
           "option4": "Wathiq",
-          "correctAnswerIndex": 3
+          "correctAnswerIndex": 0
         },
         {
           "questionNumber": 8,
