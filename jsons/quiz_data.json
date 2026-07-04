@@ -1000,10 +1000,10 @@
         },
         {
           "questionNumber": 6,
-          "question": "Compiler of Nahjul Balagha?",
-          "option1": "Ali ibn Musa",
-          "option2": "Hasan al-Askari",
-          "option3": "Sharif Razi",
+          "question": "Who was the compiler of Nahjul Balagha?",
+          "option1": "Ali ibn Musa (a.s)",
+          "option2": "Hasan al-Askari (a.s)",
+          "option3": "Sharif al-Razi",
           "option4": "Murtada Alam al-Huda",
           "correctAnswerIndex": 2
         },
