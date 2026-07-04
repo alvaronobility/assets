@@ -828,11 +828,11 @@
         },
         {
           "questionNumber": 8,
-          "question": "Anniversary of Ghadir Khumm?",
-          "option1": "Eid Fitr",
-          "option2": "Eid Ghadeer",
-          "option3": "Eid Adha",
-          "option4": "Eid Mubahalah",
+          "question": "The anniversary of the event of Ghadir Khumm?",
+          "option1": "Eid al-Fitr",
+          "option2": "Eid al-Ghadeer",
+          "option3": "Eid al-Adha",
+          "option4": "Eid al-Mubahalah",
           "correctAnswerIndex": 1
         },
         {
