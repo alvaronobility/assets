@@ -516,11 +516,11 @@
         },
         {
           "questionNumber": 5,
-          "question": "The child martyr on Day of Ashura?",
-          "option1": "Ali Akbar",
-          "option2": "Qasim",
+          "question": "The most prominent child martyr on the Day of Ashura?",
+          "option1": "Ali al-Akbar",
+          "option2": "Qasim ibn Hasan",
           "option3": "Abdullah ibn Hasan",
-          "option4": "Ali Asghar",
+          "option4": "Ali al-Asghar",
           "correctAnswerIndex": 2
         },
         {
