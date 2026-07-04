@@ -1051,11 +1051,11 @@
         {
           "questionNumber": 1,
           "question": "Who is called ‘Siddiqah al-Kubra’ in Shia?",
-          "option1": "Fatimah",
-          "option2": "Maryam",
-          "option3": "Asiya",
-          "option4": "Khadijah",
-          "correctAnswerIndex": 1
+          "option1": "Fatimah al-Zahra (s.a)",
+          "option2": "Maryam bint Imran (s.a)",
+          "option3": "Asiya (s.a)",
+          "option4": "Khadijah (s.a)",
+          "correctAnswerIndex": 0
         },
         {
           "questionNumber": 2,
