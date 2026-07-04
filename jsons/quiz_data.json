@@ -1139,6 +1139,101 @@
           "correctAnswerIndex": 0
         }
       ]
+    },
+    {
+      "level": 13,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Imam Ali al-Rida (a.s) succeeded his father, Imam Musa al-Kazim, as which chronological leader of the Ahl al-Bayt?",
+          "option1": "8th",
+          "option2": "9th",
+          "option3": "10th",
+          "option4": "11th",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "question": "Imam who lived mostly in Samarra?",
+          "option1": "Ali Naqi",
+          "option2": "Hasan Askari",
+          "option3": "Muhammad Taqi",
+          "option4": "Musa Kazim",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "question": "Which dynasty poisoned most Imams?",
+          "option1": "Hashemite",
+          "option2": "Umayyad",
+          "option3": "Abbasid",
+          "option4": "Fatimid",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 4,
+          "question": "Place of 7th Imam’s imprisonment by Harun?",
+          "option1": "Baghdad",
+          "option2": "Fustat",
+          "option3": "Damascus",
+          "option4": "Cairo",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 5,
+          "question": "Which caliph officially cursed Imam Ali on pulpits?",
+          "option1": "Umar",
+          "option2": "Abu Bakr",
+          "option3": "Uthman",
+          "option4": "Muawiyah",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 6,
+          "question": "Imam Hasan’s caliphate duration?",
+          "option1": "4 years",
+          "option2": "70 days",
+          "option3": "34 years",
+          "option4": "10 months",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 7,
+          "question": "Imam who made peace with Muawiyah?",
+          "option1": "Hasan",
+          "option2": "Husayn",
+          "option3": "Hasan al-Muthanna",
+          "option4": "Ali",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 8,
+          "question": "Where is Imam Hasan buried?",
+          "option1": "Kufa",
+          "option2": "Basra",
+          "option3": "Medina",
+          "option4": "Mecca",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 9,
+          "question": "Son of Imam Sajjad who rebelled against Umayyads?",
+          "option1": "Ja'far",
+          "option2": "Muhammad",
+          "option3": "Yahya",
+          "option4": "Zayd",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 10,
+          "question": "Which Shia sect believes in 7 Imams?",
+          "option1": "Zaydiyyah",
+          "option2": "Ismailiyyah",
+          "option3": "Waqifiyyah",
+          "option4": "Fathiyyah",
+          "correctAnswerIndex": 1
+        }
+      ]
     }
   ]
 }
