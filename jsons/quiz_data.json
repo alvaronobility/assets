@@ -888,10 +888,10 @@
         {
           "questionNumber": 4,
           "question": "Number of Prophets in Shia belief?",
-          "option1": "5",
+          "option1": "25",
           "option2": "12",
-          "option3": "14",
-          "option4": "124000",
+          "option3": "313",
+          "option4": "124,000",
           "correctAnswerIndex": 3
         },
         {
