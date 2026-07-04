@@ -664,6 +664,101 @@
           "correctAnswerIndex": 0
         }
       ]
+    },
+    {
+      "level": 8,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Where are the 10th and 11th Imams buried?",
+          "option1": "Samarra",
+          "option2": "Qom",
+          "option3": "Karbala",
+          "option4": "Najaf",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 2,
+          "question": "Name of 10th Imam?",
+          "option1": "Ahmad",
+          "option2": "Muhammad",
+          "option3": "Hasan",
+          "option4": "Ali",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 3,
+          "question": "11th Imam's name?",
+          "option1": "Ali",
+          "option2": "Hasan",
+          "option3": "Husayn",
+          "option4": "Muhammad",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 4,
+          "question": "Year of major occultation beginning?",
+          "option1": "260 AH",
+          "option2": "255 AH",
+          "option3": "280 AH",
+          "option4": "329 AH",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 5,
+          "question": "Author of Al-Kafi?",
+          "option1": "Baladhuri",
+          "option2": "Ibn Babawayh",
+          "option3": "Kulayni",
+          "option4": "Tusi",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 6,
+          "question": "Author of Man la yahduruhu al-faqih?",
+          "option1": "Mufid",
+          "option2": "Saduq",
+          "option3": "Tusi",
+          "option4": "Tabatabai",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 7,
+          "question": "Author of Tahdhib and Istibsar?",
+          "option1": "Murtada",
+          "option2": "Kashani",
+          "option3": "Majlisi",
+          "option4": "Tusi",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 8,
+          "question": "Encyclopedia of hadith by Majlisi?",
+          "option1": "Bihar al-Anwar",
+          "option2": "Wasa'il al-Shia",
+          "option3": "Mustadrak",
+          "option4": "Jawahir",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 9,
+          "question": "Center of Shia hadith in early period?",
+          "option1": "Kufa",
+          "option2": "Basra",
+          "option3": "Qom",
+          "option4": "Ray",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 10,
+          "question": "Those who exaggerate about Imams as divine?",
+          "option1": "Ghulat",
+          "option2": "Muqassirah",
+          "option3": "Nawasib",
+          "option4": "Khawarij",
+          "correctAnswerIndex": 1
+        }
+      ]
     }
   ]
 }
