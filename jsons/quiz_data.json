@@ -869,11 +869,11 @@
         },
         {
           "questionNumber": 2,
-          "question": "Muhsinn was son of?",
-          "option1": "Ali",
-          "option2": "Fatimah",
-          "option3": "Hasan",
-          "option4": "Husayn",
+          "question": "Muhsin (a.s) was the son of?",
+          "option1": "Muhammad (s.a.w.a)",
+          "option2": "Fatimah the daughter of the Prophet (s.a)",
+          "option3": "Hasan ibn Ali (a.s)",
+          "option4": "Husayn ibn Ali (a.s)",
           "correctAnswerIndex": 1
         },
         {
