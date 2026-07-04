@@ -983,8 +983,8 @@
         {
           "questionNumber": 4,
           "question": "Who authored al-Wafi and its summary al-Shafi?",
-          "option1": "Mulla Sadra",
-          "option2": "Fayd Kashani",
+          "option1": "Mulla al-Sadra",
+          "option2": "Fayd al-Kashani",
           "option3": "Majlisi",
           "option4": "Sabzawari",
           "correctAnswerIndex": 1
