@@ -742,12 +742,12 @@
         },
         {
           "questionNumber": 9,
-          "question": "Center of Shia hadith in early period?",
-          "option1": "Kufa",
-          "option2": "Basra",
-          "option3": "Qom",
-          "option4": "Ray",
-          "correctAnswerIndex": 2
+          "question": "Successive centers of Shia hadith in early period?",
+          "option1": "Kufa -> Qum -> Baghdad",
+          "option2": "Basra -> Bukhara -> Sham",
+          "option3": "Qum -> Kufa -> Ray",
+          "option4": "Madina -> Kufa -> Ray",
+          "correctAnswerIndex": 0
         },
         {
           "questionNumber": 10,
