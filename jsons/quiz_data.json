@@ -897,9 +897,9 @@
         {
           "questionNumber": 5,
           "question": "Angels can be?",
-          "option1": "Imam",
-          "option2": "Prophet",
-          "option3": "Wali",
+          "option1": "Imams",
+          "option2": "Prophets",
+          "option3": "Awliya",
           "option4": "Infallible only",
           "correctAnswerIndex": 2
         },
