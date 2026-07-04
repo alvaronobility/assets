@@ -941,10 +941,10 @@
         },
         {
           "questionNumber": 10,
-          "question": "First Muslim after Khadija in Shia view?",
-          "option1": "Ali",
-          "option2": "Muhammad",
-          "option3": "Jafar",
+          "question": "First Muslim after Muhammad (s.a.w.a) in Shia view?",
+          "option1": "Ali ibn Abi Talib (a.s)",
+          "option2": "Khadija (s.a)",
+          "option3": "Jafar ibn Abi Talib",
           "option4": "Abu Bakr",
           "correctAnswerIndex": 0
         }
