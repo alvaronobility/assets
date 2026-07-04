@@ -569,6 +569,101 @@
           "correctAnswerIndex": 0
         }
       ]
+    },
+    {
+      "level": 7,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Who revived the Shia fiqh after the tragedy of Karbala?",
+          "option1": "Jafar al-Sadiq (a.s)",
+          "option2": "Muhammad al-Baqir (a.s)",
+          "option3": "Ali al-Rida (a.s)",
+          "option4": "Musa al-Kazim (a.s)",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 2,
+          "question": "Most authentic Shia hadith book?",
+          "option1": "Usul al-Kafi",
+          "option2": "Man la yahduruhu al-faqih",
+          "option3": "Tahdhib",
+          "option4": "Istibsar",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "question": "Teacher of many Sunni Imams?",
+          "option1": "Abu Hanifa",
+          "option2": "Malik",
+          "option3": "Shafi",
+          "option4": "Jafar Sadiq",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 4,
+          "question": "Son of Jafar Sadiq who died before him?",
+          "option1": "Muhammad",
+          "option2": "Ibrahim",
+          "option3": "Ismail",
+          "option4": "Abdullah",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 5,
+          "question": "Ali Rida is which Imam?",
+          "option1": "7th",
+          "option2": "8th",
+          "option3": "9th",
+          "option4": "10th",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 6,
+          "question": "Where is Imam Rida buried?",
+          "option1": "Mashhad",
+          "option2": "Qom",
+          "option3": "Najaf",
+          "option4": "Samarra",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 7,
+          "question": "Abbasid caliph who poisoned Imam Rida?",
+          "option1": "Ma'mun",
+          "option2": "Harun",
+          "option3": "Mutasim",
+          "option4": "Wathiq",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 8,
+          "question": "7th Imam's title?",
+          "option1": "Jawad",
+          "option2": "Hadi",
+          "option3": "Kazim",
+          "option4": "Askari",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 9,
+          "question": "Burial place of 7th and 9th Imams?",
+          "option1": "Baghdad",
+          "option2": "Kazimayn",
+          "option3": "Samarra",
+          "option4": "Kufa",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 10,
+          "question": "Title of 10th Imam?",
+          "option1": "Naqi",
+          "option2": "Taqi",
+          "option3": "Askari",
+          "option4": "Mahdi",
+          "correctAnswerIndex": 0
+        }
+      ]
     }
   ]
 }
