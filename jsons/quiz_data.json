@@ -801,11 +801,11 @@
         },
         {
           "questionNumber": 5,
-          "question": "Which is daily prayer?",
-          "option1": "Salah",
-          "option2": "Sawm",
-          "option3": "Hajj",
-          "option4": "Zakat",
+          "question": "Which Furu al-Din are the core acts of personal worship?",
+          "option1": "Salah, Sawm, Hajj",
+          "option2": "Sawm, Zakat, Jihad",
+          "option3": "Hajj, Salah, Tawalla",
+          "option4": "Zakat, Khums, Salah",
           "correctAnswerIndex": 0
         },
         {
