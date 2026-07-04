@@ -949,6 +949,101 @@
           "correctAnswerIndex": 0
         }
       ]
+    },
+    {
+      "level": 11,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Who compiled Al-Kafi?",
+          "option1": "Muslim",
+          "option2": "Bukhari",
+          "option3": "Kulayni",
+          "option4": "Tirmidhi",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "question": "Author of Tahdhib al-Ahkam?",
+          "option1": "Shaykh Tusi",
+          "option2": "Shaykh Mufid",
+          "option3": "Shaykh Saduq",
+          "option4": "Allamah Hilli",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "question": "Which city is called ‘Hawzah Ilmiyyah’ center in Iran?",
+          "option1": "Najaf",
+          "option2": "Karbala",
+          "option3": "Kufa",
+          "option4": "Qum",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 4,
+          "question": "Author of al-Shafi and al-Wafi?",
+          "option1": "Mulla Sadra",
+          "option2": "Fayd Kashani",
+          "option3": "Majlisi",
+          "option4": "Sabzawari",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 5,
+          "question": "Collection of duas by Imam Sajjad?",
+          "option1": "As-Sahifah as-Sajjadiyyah",
+          "option2": "Nahjul Balagha",
+          "option3": "Bihar al-Anwar",
+          "option4": "Tafsir al-Mizan",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 6,
+          "question": "Compiler of Nahjul Balagha?",
+          "option1": "Ali ibn Musa",
+          "option2": "Hasan al-Askari",
+          "option3": "Sharif Razi",
+          "option4": "Murtada Alam al-Huda",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 7,
+          "question": "Author of Wasa'il al-Shia?",
+          "option1": "Muhammad Baqir Majlisi",
+          "option2": "Hurr al-Amili",
+          "option3": "Zayn al-Din al-Amili",
+          "option4": "Muhammad Taqi Majlisi",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 8,
+          "question": "Author of Mukhtalaf al-Shia?",
+          "option1": "Ibn Babawayh",
+          "option2": "Ibn Idris",
+          "option3": "Muhaqqiq al-Hilli",
+          "option4": "Allamah al-Hilli",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 9,
+          "question": "Author of Tafsir al-Mizan?",
+          "option1": "Tabatabai",
+          "option2": "Khomeini",
+          "option3": "Khamenei",
+          "option4": "Golpaygani",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 10,
+          "question": "Mulla Sadra’s main contribution to Shia Aqidah?",
+          "option1": "Islamic conquests",
+          "option2": "Sufism",
+          "option3": "Philosophy and gnosis",
+          "option4": "Astrology",
+          "correctAnswerIndex": 2
+        }
+      ]
     }
   ]
 }
