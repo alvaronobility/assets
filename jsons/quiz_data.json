@@ -1009,11 +1009,11 @@
         },
         {
           "questionNumber": 7,
-          "question": "Author of Wasa'il al-Shia?",
-          "option1": "Muhammad Baqir Majlisi",
+          "question": "Who is the author of Wasa'il al-Shia?",
+          "option1": "Muhammad Baqir al-Majlisi",
           "option2": "Hurr al-Amili",
           "option3": "Zayn al-Din al-Amili",
-          "option4": "Muhammad Taqi Majlisi",
+          "option4": "Muhammad Taqi al-Majlisi",
           "correctAnswerIndex": 1
         },
         {
