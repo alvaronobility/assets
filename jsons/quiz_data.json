@@ -474,6 +474,101 @@
           "correctAnswerIndex": 0
         }
       ]
+    },
+    {
+      "level": 6,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Who was the commander of the oppressive army at Karbala?",
+          "option1": "Muawiyah",
+          "option2": "Yazid",
+          "option3": "Umar ibn Sa'd",
+          "option4": "Shimr",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "question": "Ali (a.s)'s son from Hanafiyyah?",
+          "option1": "Muhammad",
+          "option2": "Hasan (a.s)",
+          "option3": "Husayn (a.s)",
+          "option4": "Abbas",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 3,
+          "question": "What are the two Usul exclusively from Ahl al-Bayt?",
+          "option1": "Tawhid and Adl",
+          "option2": "Nubuwwah and Imamate",
+          "option3": "Adl and Nubuwwah",
+          "option4": "Imamate and Ma'ad",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 4,
+          "question": "Who was the Prophet's cousin sent to Kufa?",
+          "option1": "Mukhtar",
+          "option2": "Muslim ibn Aqil",
+          "option3": "Hani ibn Urwa",
+          "option4": "Habib ibn Muzahir",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 5,
+          "question": "The child martyr on Day of Ashura?",
+          "option1": "Ali Akbar",
+          "option2": "Qasim",
+          "option3": "Abdullah ibn Hasan",
+          "option4": "Ali Asghar",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 6,
+          "question": "Yazidi commander who switched to Husayn's side?",
+          "option1": "Hurr",
+          "option2": "Zuhayr",
+          "option3": "Shimr",
+          "option4": "Ibn Ziyad",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 7,
+          "question": "Standard bearer of Husayn?",
+          "option1": "Abbas",
+          "option2": "Habib",
+          "option3": "John",
+          "option4": "Wahb",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 8,
+          "question": "Number of Husayn's companions at Karbala?",
+          "option1": "50",
+          "option2": "72",
+          "option3": "90",
+          "option4": "110",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 9,
+          "question": "Who ordered killing of Husayn?",
+          "option1": "Abu Bakr",
+          "option2": "Umar",
+          "option3": "Umar ibn Sa'd",
+          "option4": "Ubaydullah",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 10,
+          "question": "40th day after Karbala?",
+          "option1": "Arba'een",
+          "option2": "Ashura",
+          "option3": "Eid Ghadeer",
+          "option4": "Mubahalah",
+          "correctAnswerIndex": 0
+        }
+      ]
     }
   ]
 }
