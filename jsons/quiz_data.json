@@ -584,10 +584,10 @@
         },
         {
           "questionNumber": 2,
-          "question": "Most authentic Shia hadith book?",
+          "question": "Which one of the following is regarded as the most authentic Shia hadith book?",
           "option1": "Usul al-Kafi",
           "option2": "Man la yahduruhu al-faqih",
-          "option3": "Tahdhib",
+          "option3": "Tahdhib al-Ahkam",
           "option4": "Istibsar",
           "correctAnswerIndex": 0
         },
