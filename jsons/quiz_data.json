@@ -854,6 +854,101 @@
           "correctAnswerIndex": 2
         }
       ]
+    },
+    {
+      "level": 10,
+      "questions": [
+        {
+          "questionNumber": 1,
+          "question": "Who wrote Sahifa Sajjadiyya?",
+          "option1": "Imam al-Sadiq (a.s)",
+          "option2": "Imam al-Baqir (a.s)",
+          "option3": "Imam Zayn al-Abidin (a.s)",
+          "option4": "Imam Ali (a.s)",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 2,
+          "question": "Muhsinn was son of?",
+          "option1": "Ali",
+          "option2": "Fatimah",
+          "option3": "Hasan",
+          "option4": "Husayn",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 3,
+          "question": "Verse 33:33 (Tathir) refers to?",
+          "option1": "Inheritance of Prophets",
+          "option2": "Mubahalah",
+          "option3": "Badr",
+          "option4": "Uhud",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 4,
+          "question": "Number of Prophets in Shia belief?",
+          "option1": "5",
+          "option2": "12",
+          "option3": "14",
+          "option4": "124000",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 5,
+          "question": "Angels can be?",
+          "option1": "Imam",
+          "option2": "Prophet",
+          "option3": "Wali",
+          "option4": "Infallible only",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 6,
+          "question": "Source of emulation in fiqh?",
+          "option1": "Ayatollah",
+          "option2": "Marja' al-Taqlid",
+          "option3": "Hujjat al-Islam",
+          "option4": "Mujtahid",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 7,
+          "question": "Shia approach to names and attributes of God?",
+          "option1": "Moderate",
+          "option2": "Extreme",
+          "option3": "Literal",
+          "option4": "Mystical",
+          "correctAnswerIndex": 0
+        },
+        {
+          "questionNumber": 8,
+          "question": "Which school says Qur'an is created?",
+          "option1": "Mutazila",
+          "option2": "Ash'ari",
+          "option3": "Imamiyyah",
+          "option4": "Maturidi",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 9,
+          "question": "Surah revealed for Ahl al-Bayt?",
+          "option1": "Surah Ikhlas",
+          "option2": "Surah al-Insan",
+          "option3": "Surah Yasin",
+          "option4": "Surah Fatiha",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 10,
+          "question": "First Muslim after Khadija in Shia view?",
+          "option1": "Ali",
+          "option2": "Muhammad",
+          "option3": "Jafar",
+          "option4": "Abu Bakr",
+          "correctAnswerIndex": 0
+        }
+      ]
     }
   ]
 }
