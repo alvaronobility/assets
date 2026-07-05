@@ -100,92 +100,92 @@
       "questions": [
         {
           "questionNumber": 1,
-          "question": "Special God-given knowledge of Imam?",
-          "option1": "Inheritance",
-          "option2": "Ilm al-Imam",
-          "option3": "Hikmah",
-          "option4": "Fiqh",
-          "correctAnswerIndex": 1
+          "question": "Which prophet was sent to the people of ʿĀd?",
+          "option1": "Prophet Ibrāhīm (a.s)",
+          "option2": "Prophet Isḥāq (a.s)",
+          "option3": "Proprist Hūd (a.s)",
+          "option4": "Prophet Ṣāliḥ (a.s)",
+          "correctAnswerIndex": 2
         },
         {
           "questionNumber": 2,
-          "question": "Leader of women in Jannah in Shia belief?",
-          "option1": "Aisha",
-          "option2": "Khadijah",
-          "option3": "Fatimah",
-          "option4": "Maryam",
-          "correctAnswerIndex": 2
+          "question": "Which prophet was sent to the people of Thamūd?",
+          "option1": "Prophet Hūd (a.s)",
+          "option2": "Prophet Nūḥ (a.s)",
+          "option3": "Prophet Shuʿayb (a.s)",
+          "option4": "Prophet Ṣāliḥ (a.s)",
+          "correctAnswerIndex": 3
         },
         {
           "questionNumber": 3,
-          "question": "Seeking intercession from Imams is called?",
-          "option1": "Tawassul",
-          "option2": "Shirk",
-          "option3": "Bid'ah",
-          "option4": "Tahreef",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 4,
-          "question": "Sources of Jafari fiqh?",
-          "option1": "Qur'an only",
-          "option2": "Sunnah only",
-          "option3": "Qur'an + Sunnah + Imams",
-          "option4": "Qur'an + Sunnah + Qiyas",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 5,
-          "question": "Prophet's successor (wasi) according to Shias?",
-          "option1": "Abu Bakr",
-          "option2": "Ali (a.s)",
-          "option3": "Umar",
-          "option4": "None",
+          "question": "What miraculous animal did Prophet Ṣāliḥ (a.s) bring forth from the rocks as a sign for Thamūd?",
+          "option1": "A bird",
+          "option2": "A she-camel",
+          "option3": "A cow",
+          "option4": "A sheep",
           "correctAnswerIndex": 1
         },
         {
-          "questionNumber": 6,
-          "question": "Shia belief on resurrection (Ma'ad)?",
-          "option1": "Only physical",
-          "option2": "Only spiritual",
-          "option3": "Physical + spiritual",
-          "option4": "Reincarnation",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 7,
-          "question": "Tawhid includes?",
-          "option1": "Essence, attributes, actions",
-          "option2": "Essence only",
-          "option3": "Worship only",
-          "option4": "Names only",
+          "questionNumber": 4,
+          "question": "What crime did the people of Thamūd commit that brought divine punishment?",
+          "option1": "They killed the she-camel",
+          "option2": "They worshipped idols",
+          "option3": "They cheated in trade",
+          "option4": "They built high towers",
           "correctAnswerIndex": 0
         },
         {
-          "questionNumber": 8,
-          "question": "Position between free will and compulsion?",
-          "option1": "Jabr",
-          "option2": "Tafwid",
-          "option3": "Amr bayn al-amrayn",
-          "option4": "Qadariyyah",
+          "questionNumber": 5,
+          "question": "Which prophet was thrown into a fire by King Nimrod but Allah made the fire cool for him?",
+          "option1": "Prophet Lūṭ (a.s)",
+          "option2": "Prophet Yaʿqūb (a.s)",
+          "option3": "Prophet Ibrāhīm (a.s)",
+          "option4": "Prophet Ismāʿīl (a.s)",
           "correctAnswerIndex": 2
         },
         {
+          "questionNumber": 6,
+          "question": "Who was the first wife of Prophet Ibrāhīm (a.s) and mother of Prophet Isḥāq (a.s)?",
+          "option1": "Maryam",
+          "option2": "Hājar",
+          "option3": "Rābiʿah",
+          "option4": "Sārah",
+          "correctAnswerIndex": 3
+        },
+        {
+          "questionNumber": 7,
+          "question": "Which son of Prophet Ibrāhīm (a.s) was commanded to be sacrificed in a dream, then ransomed with a ram?",
+          "option1": "Ismāʿīl (a.s)",
+          "option2": "Isḥāq (a.s)",
+          "option3": "Yaʿqūb (a.s)",
+          "option4": "Yūsuf (a.s)",
+          "correctAnswerIndex": 1
+        },
+        {
+          "questionNumber": 8,
+          "question": "Who was the mother of Prophet Ismāʿīl (a.s)?",
+          "option1": "Hājar",
+          "option2": "Sārah",
+          "option3": "Rifqah",
+          "option4": "Laylā",
+          "correctAnswerIndex": 0
+        },
+        {
           "questionNumber": 9,
-          "question": "Imam Mahdi today is?",
-          "option1": "Dead",
-          "option2": "Never born",
-          "option3": "Alive in occultation",
-          "option4": "In paradise",
+          "question": "Which well sprang forth for Hājar and Ismāʿīl (a.s) when she ran between Safa and Marwah?",
+          "option1": "Zamzam",
+          "option2": "Şafā",
+          "option3": "Marwah",
+          "option4": "Arafah",
           "correctAnswerIndex": 2
         },
         {
           "questionNumber": 10,
-          "question": "Day Mahdi will reappear?",
-          "option1": "Monday",
-          "option2": "Friday",
-          "option3": "Ashura",
-          "option4": "Eid",
+          "question": "Which prophet was also known as 'Isrāʾīl' (meaning 'servant of Allah')?",
+          "option1": "Prophet Mūsā (a.s)",
+          "option2": "Prophet Yaʿqūb (a.s)",
+          "option3": "Prophet Yūsuf (a.s)",
+          "option4": "Prophet Ayyūb (a.s)",
           "correctAnswerIndex": 1
         }
       ]
