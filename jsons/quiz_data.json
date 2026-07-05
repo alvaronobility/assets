@@ -1,1237 +1,1243 @@
 {
-  "levels": [
+  "categories": [
     {
-      "level": 1,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Who was the first prophet of Allah?",
-          "option1": "Nūḥ (a.s)",
-          "option2": "Ādam (a.s)",
-          "option3": "Idrīs (a.s)",
-          "option4": "Al-Khiḍr (a.s)",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 2,
-          "question": "From what material did Allah create Ādam (a.s)?",
-          "option1": "From clay",
-          "option2": "From light",
-          "option3": "From fire",
-          "option4": "From water",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 3,
-          "question": "Who was the wife of Ādam (a.s) created by Allah?",
-          "option1": "Ḥawwā (Eve)",
-          "option2": "Lilith",
-          "option3": "Sarah",
-          "option4": "Hagar",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 4,
-          "question": "Which son of Ādam (a.s) was murdered by his brother?",
-          "option1": "Qābīl",
-          "option2": "Shīth",
-          "option3": "Hābīl",
-          "option4": "Yāfith",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 5,
-          "question": "Which prophet was the third son of Ādam (a.s) and his successor?",
-          "option1": "Shīth (a.s)",
-          "option2": "Idrīs (a.s)",
-          "option3": "Nūḥ (a.s)",
-          "option4": "Hūd (a.s)",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 6,
-          "question": "From what material did Allah create Iblīs (Satan) before his disobedience?",
-          "option1": "From fire",
-          "option2": "From clay",
-          "option3": "From light",
-          "option4": "From water",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 7,
-          "question": "Why was Iblīs cursed and expelled from paradise?",
-          "option1": "He stole from paradise",
-          "option2": "He killed Hābīl",
-          "option3": "He refused to prostrate to Ādam",
-          "option4": "He ate from the forbidden tree",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 8,
-          "question": "Which prophet built the ark to save believers from the great flood?",
-          "option1": "Prophet Hūd (a.s)",
-          "option2": "Prophet Nūḥ (a.s)",
-          "option3": "Prophet Ṣāliḥ (a.s)",
-          "option4": "Prophet Shuʿayb (a.s)",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 9,
-          "question": "How many years did Prophet Nūḥ (a.s) invite his people to monotheism according to the Qur'an?",
-          "option1": "40 days and 40 nights",
-          "option2": "950 years",
-          "option3": "300 years",
-          "option4": "100 years",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 10,
-          "question": "Where did the ark of Prophet Nūḥ (a.s) settle after the flood?",
-          "option1": "Mount Judi",
-          "option2": "Mount Sinai",
-          "option3": "Mount Hira",
-          "option4": "Mount Arafat",
-          "correctAnswerIndex": 0
-        }
-      ]
-    },
-    {
-      "level": 2,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Which prophet was sent to the people of ʿĀd?",
-          "option1": "Prophet Ibrāhīm (a.s)",
-          "option2": "Prophet Isḥāq (a.s)",
-          "option3": "Proprist Hūd (a.s)",
-          "option4": "Prophet Ṣāliḥ (a.s)",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 2,
-          "question": "Which prophet was sent to the people of Thamūd?",
-          "option1": "Prophet Hūd (a.s)",
-          "option2": "Prophet Nūḥ (a.s)",
-          "option3": "Prophet Shuʿayb (a.s)",
-          "option4": "Prophet Ṣāliḥ (a.s)",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 3,
-          "question": "What miraculous animal did Prophet Ṣāliḥ (a.s) bring forth from the rocks as a sign for Thamūd?",
-          "option1": "A bird",
-          "option2": "A she-camel",
-          "option3": "A cow",
-          "option4": "A sheep",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 4,
-          "question": "What crime did the people of Thamūd commit that brought divine punishment?",
-          "option1": "They killed the she-camel",
-          "option2": "They worshipped idols",
-          "option3": "They cheated in trade",
-          "option4": "They built high towers",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 5,
-          "question": "Which prophet was thrown into a fire by King Nimrod but Allah made the fire cool for him?",
-          "option1": "Prophet Lūṭ (a.s)",
-          "option2": "Prophet Yaʿqūb (a.s)",
-          "option3": "Prophet Ibrāhīm (a.s)",
-          "option4": "Prophet Ismāʿīl (a.s)",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 6,
-          "question": "Who was the first wife of Prophet Ibrāhīm (a.s) and mother of Prophet Isḥāq (a.s)?",
-          "option1": "Maryam",
-          "option2": "Hājar",
-          "option3": "Rābiʿah",
-          "option4": "Sārah",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 7,
-          "question": "Which son of Prophet Ibrāhīm (a.s) was commanded to be sacrificed in a dream, then ransomed with a ram?",
-          "option1": "Ismāʿīl (a.s)",
-          "option2": "Isḥāq (a.s)",
-          "option3": "Yaʿqūb (a.s)",
-          "option4": "Yūsuf (a.s)",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 8,
-          "question": "Who was the mother of Prophet Ismāʿīl (a.s)?",
-          "option1": "Hājar",
-          "option2": "Sārah",
-          "option3": "Rifqah",
-          "option4": "Laylā",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 9,
-          "question": "Which well sprang forth for Hājar and Ismāʿīl (a.s) when she ran between Safa and Marwah?",
-          "option1": "Zamzam",
-          "option2": "Şafā",
-          "option3": "Marwah",
-          "option4": "Arafah",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 10,
-          "question": "Which prophet was also known as 'Isrāʾīl' (meaning 'servant of Allah')?",
-          "option1": "Prophet Mūsā (a.s)",
-          "option2": "Prophet Yaʿqūb (a.s)",
-          "option3": "Prophet Yūsuf (a.s)",
-          "option4": "Prophet Ayyūb (a.s)",
-          "correctAnswerIndex": 1
-        }
-      ]
-    },
-    {
-      "level": 3,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Which surah tells the full story of Prophet Yūsuf (a.s) from beginning to end?",
-          "option1": "Sūrat Maryam",
-          "option2": "Sūrat Yūsuf",
-          "option3": "Sūrat Nūḥ",
-          "option4": "Sūrat Ibrāhīm",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 2,
-          "question": "Which surah mentions the People of the Cave (Aṣḥāb al-Kahf)?",
-          "option1": "Sūrat al-Kahf",
-          "option2": "Sūrat Ṭā Hā",
-          "option3": "Sūrat Yāsīn",
-          "option4": "Sūrat al-Isrā",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 3,
-          "question": "How many verses (āyāt) are there in Sūrat al-Fātiḥah?",
-          "option1": "2",
-          "option2": "3",
-          "option3": "5",
-          "option4": "7",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 4,
-          "question": "Sūrat al-Baqarah is primarily considered what type of surah?",
-          "option1": "Meccan",
-          "option2": "Medinan",
-          "option3": "Both",
-          "option4": "Neither",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 5,
-          "question": "Which Prophet is mentioned most frequently in the Qurʾān?",
-          "option1": "Dawūd (a.s)",
-          "option2": "Mūsā (a.s)",
-          "option3": "Sulaymān (a.s)",
-          "option4": "ʿĪsā (a.s)",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 6,
-          "question": "Which surah is considered equivalent to one-third of the Qurʾān in virtue?",
-          "option1": "Sūrat al-Ikhlāṣ",
-          "option2": "Sūrat al-Falaq",
-          "option3": "Sūrat al-Nās",
-          "option4": "Sūrat al-Masad",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 7,
-          "question": "Which verse from Sūrat al-Baqarah is called the 'Throne Verse'?",
-          "option1": "Sayyid al-Istighfār",
-          "option2": "Āyat al-Nūr",
-          "option3": "Āyat al-Kursī",
-          "option4": "Āyat al-Mawadda",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 8,
-          "question": "Which surah is also known as Sūrat al-Insān?",
-          "option1": "Sūrat an-Nās",
-          "option2": "Sūrat al-Dahr",
-          "option3": "Sūrat al-Qadr",
-          "option4": "Sūrat al-ʿAlaq",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 9,
-          "question": "Which surah describes the army of elephants attacking the Kaʿbah?",
-          "option1": "Sūrat al-Kawthar",
-          "option2": "Sūrat al-Māʿūn",
-          "option3": "Sūrat Quraysh",
-          "option4": "Sūrat al-Fīl",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 10,
-          "question": "Which surah condemns Abū Lahab and his wife?",
-          "option1": "Sūrat al-Masad",
-          "option2": "Sūrat al-Lahab",
-          "option3": "Sūrat al-Tabbat",
-          "option4": "All",
-          "correctAnswerIndex": 3
-        }
-      ]
-    },
-    {
-      "level": 4,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "The place where the Prophet (s.a.w.a) declared Ali (a.s) as his successor and the Mawla of all Muslims?",
-          "option1": "Ghadir Khumm",
-          "option2": "Mubahalah",
-          "option3": "Hudaybiyyah",
-          "option4": "Badr",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 2,
-          "question": "Who divided knowledge into divine, acquired, and given?",
-          "option1": "Imam Sadiq (a.s)",
-          "option2": "Imam Baqir (a.s)",
-          "option3": "Ali ibn Abi Talib (a.s)",
-          "option4": "Imam Rida (a.s)",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 3,
-          "question": "The prayer for divine curse on liars?",
-          "option1": "Taqiyyah",
-          "option2": "Khums",
-          "option3": "Dua",
-          "option4": "Mubahalah",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 4,
-          "question": "How many Infallibles (Masumeen) are there in the Ahl-al-Bayt?",
-          "option1": "7",
-          "option2": "14",
-          "option3": "5",
-          "option4": "3",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 5,
-          "question": "The concealment of faith under danger?",
-          "option1": "Taqiyyah",
-          "option2": "Tawbah",
-          "option3": "Tawakkul",
-          "option4": "Tahasun",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 6,
-          "question": "The seal of the Prophets?",
-          "option1": "Prophet Isa (a.s)",
-          "option2": "Prophet Musa (a.s)",
-          "option3": "Prophet Muhammad (s.a.w.a)",
-          "option4": "Prophet Ibrahim (a.s)",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 7,
-          "question": "In which ordered position is Imam Hasan bin Ali (a.s)?",
-          "option1": "3rd",
-          "option2": "2nd",
-          "option3": "1st",
-          "option4": "4th",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 8,
-          "question": "The 12th Imam's name?",
-          "option1": "Hasan Askari (a.s)",
-          "option2": "Ali Naqi (a.s)",
-          "option3": "Muhammad Taqi (a.s)",
-          "option4": "Mahdi (a.s)",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 9,
-          "question": "The place of the 11th Imam's grave?",
-          "option1": "Samarra",
-          "option2": "Medina",
-          "option3": "Mecca",
-          "option4": "Kufa",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 10,
-          "question": "The father of Imam as-Sadiq (a.s)?",
-          "option1": "Abdullah",
-          "option2": "Muhammad (a.s)",
-          "option3": "Ali (a.s)",
-          "option4": "Jafar (a.s)",
-          "correctAnswerIndex": 1
-        }
-      ]
-    },
-    {
-      "level": 5,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Who was the grandfather of Prophet Muhammad (s.a.w.a) and Ali (a.s)?",
-          "option1": "Abu Talib (a.s)",
-          "option2": "Abdul Muttalib (a.s)",
-          "option3": "Hashim",
-          "option4": "Qusayy",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 2,
-          "question": "The first wife of Prophet Muhammad (s.a.w.a) and mother of Fatimah (a.s)?",
-          "option1": "Khadijah  (s.a)",
-          "option2": "Halima (r.a)",
-          "option3": "Zaynab",
-          "option4": "Aminah (s.a)",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 3,
-          "question": "The son of Fatimah who died in miscarriage?",
-          "option1": "Hasan (a.s)",
-          "option2": "Husayn (a.s)",
-          "option3": "Muhsin (a.s)",
-          "option4": "Abdullah",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 4,
-          "question": "At what age was Khadijah (s.a) when shen married the Prophet Muhammad (s.a.w.a)?",
-          "option1": "31",
-          "option2": "35",
-          "option3": "25",
-          "option4": "40",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 5,
-          "question": "What was the land that Fatimah (s.a) claimed as inheritance gifted to her by the Prophet (s.a.w.a)?",
-          "option1": "Fadak",
-          "option2": "Khaybar",
-          "option3": "Badr",
-          "option4": "Uhud",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 6,
-          "question": "The period that Fatimah (s.a) lived after the Prophet (s.a.w.a)?",
-          "option1": "95 days",
-          "option2": "40 days",
-          "option3": "6 months",
-          "option4": "1 year",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 7,
-          "question": "Which Sunni book of Hadiths says 'Hasan and Husayn are leaders of youth of Jannah'?",
-          "option1": "Bukhari",
-          "option2": "Muslim",
-          "option3": "Tirmidhi",
-          "option4": "All major Sunni books",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 8,
-          "question": "The daughter of Ali (a.s) who spoke in Sham after the tragedy of Karbala?",
-          "option1": "Sakinah",
-          "option2": "Fatimah (s.a)",
-          "option3": "Zaynab",
-          "option4": "Umm Kulthum",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 9,
-          "question": "The title of the 4th Imam?",
-          "option1": "Sajjad",
-          "option2": "Zayn al-Abidin",
-          "option3": "Baqir",
-          "option4": "Sadiq",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 10,
-          "question": "The book of the 4th Imam on rights?",
-          "option1": "Risaalat al-Huquq",
-          "option2": "Nahjul Balagha",
-          "option3": "Sahifa Sajjadiyya",
-          "option4": "Al-Kafi",
-          "correctAnswerIndex": 0
-        }
-      ]
-    },
-    {
-      "level": 6,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Who was the commander of the oppressive army at Karbala?",
-          "option1": "Muawiyah",
-          "option2": "Yazid ibn Muawiyah",
-          "option3": "Umar ibn Sa'd",
-          "option4": "Shimr ibn Dhil-Jawshan",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 2,
-          "question": "Ali (a.s)'s son from Hanafiyyah?",
-          "option1": "Muhammad",
-          "option2": "Hasan (a.s)",
-          "option3": "Husayn (a.s)",
-          "option4": "Abbas",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 3,
-          "question": "What are the two Usul exclusively from Ahl al-Bayt?",
-          "option1": "Tawhid and Ma'ad",
-          "option2": "Nubuwwah and Imamate",
-          "option3": "Adl and Nubuwwah",
-          "option4": "Adl and Imamate",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 4,
-          "question": "Who was the Prophet's cousin sent to Kufa?",
-          "option1": "Mukhtar",
-          "option2": "Muslim ibn Aqil",
-          "option3": "Hani ibn Urwa",
-          "option4": "Habib ibn Muzahir",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 5,
-          "question": "The most prominent child martyr on the Day of Ashura?",
-          "option1": "Ali al-Akbar",
-          "option2": "Qasim ibn Hasan",
-          "option3": "Abdullah ibn Hasan",
-          "option4": "Ali al-Asghar",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 6,
-          "question": "Yazidi commander who switched to Husayn's side?",
-          "option1": "Hurr",
-          "option2": "Zuhayr",
-          "option3": "Shimr",
-          "option4": "Ibn Ziyad",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 7,
-          "question": "Who was the standard-bearer of Imam Husayn (a.s)?",
-          "option1": "Abbas ibn Ali",
-          "option2": "Habib",
-          "option3": "Ali bin Husayn (a.s)",
-          "option4": "Muslim bin Aqil",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 8,
-          "question": "What was the number of Husayn (a.s)'s companions at Karbala as the most widely accepted?",
-          "option1": "50",
-          "option2": "72",
-          "option3": "90",
-          "option4": "110",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 9,
-          "question": "Who issued the direct order in the battlefield to kill Imam Husayn at Karbala?",
-          "option1": "Abu Bakr",
-          "option2": "Umar ibn Khattab",
-          "option3": "Umar ibn Sa'd",
-          "option4": "Ubaydullah ibn Ziyad",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 10,
-          "question": "What is the 40th day after the tragedy of Karbala called?",
-          "option1": "Arba'een",
-          "option2": "Ashura",
-          "option3": "Eid Ghadeer",
-          "option4": "Mubahalah",
-          "correctAnswerIndex": 0
-        }
-      ]
-    },
-    {
-      "level": 7,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Who revived the Shia fiqh after the tragedy of Karbala?",
-          "option1": "Jafar al-Sadiq (a.s)",
-          "option2": "Muhammad al-Baqir (a.s)",
-          "option3": "Ali al-Rida (a.s)",
-          "option4": "Musa al-Kazim (a.s)",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 2,
-          "question": "Which one of the following is regarded as the most authentic Shia hadith book?",
-          "option1": "Usul al-Kafi",
-          "option2": "Man la yahduruhu al-faqih",
-          "option3": "Tahdhib al-Ahkam",
-          "option4": "Istibsar",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 3,
-          "question": "Teacher of many Sunni Imams?",
-          "option1": "Abu Hanifa",
-          "option2": "Malik",
-          "option3": "Shafi'i",
-          "option4": "Jafar al-Sadiq (a.s)",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 4,
-          "question": "The son of Imam Jafar al-Sadiq (a.s) who died before him?",
-          "option1": "Muhammad",
-          "option2": "Ibrahim",
-          "option3": "Ismail",
-          "option4": "Abdullah",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 5,
-          "question": "In what order of succession was Imam Ali Rida (a.s)?",
-          "option1": "7th",
-          "option2": "8th",
-          "option3": "9th",
-          "option4": "10th",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 6,
-          "question": "Where is Imam al-Rida buried?",
-          "option1": "Mashhad",
-          "option2": "Qom",
-          "option3": "Najaf",
-          "option4": "Samarra",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 7,
-          "question": "Who was the Abbasid caliph that poisoned Imam al-Rida?",
-          "option1": "Ma'mun",
-          "option2": "Harun",
-          "option3": "Mutasim",
-          "option4": "Wathiq",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 8,
-          "question": "The title of the 7th Imam (a.s)?",
-          "option1": "Jawad",
-          "option2": "Hadi",
-          "option3": "Kazim",
-          "option4": "Askari",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 9,
-          "question": "Where is the burial place of the 7th and 9th Imams?",
-          "option1": "Baghdad",
-          "option2": "Kazimayn",
-          "option3": "Samarra",
-          "option4": "Kufa",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 10,
-          "question": "The title of the 10th Imam (a.s)?",
-          "option1": "Naqi",
-          "option2": "Taqi",
-          "option3": "Askari",
-          "option4": "Mahdi",
-          "correctAnswerIndex": 0
-        }
-      ]
-    },
-    {
-      "level": 8,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Where are the 10th and 11th Imams buried?",
-          "option1": "Samarra",
-          "option2": "Qom",
-          "option3": "Karbala",
-          "option4": "Najaf",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 2,
-          "question": "What is the name of the 10th Imam (a.s)?",
-          "option1": "Ahmad",
-          "option2": "Muhammad",
-          "option3": "Hasan",
-          "option4": "Ali",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 3,
-          "question": "What is the name of the 11th Imam (a.s)?",
-          "option1": "Ali",
-          "option2": "Hasan",
-          "option3": "Husayn",
-          "option4": "Muhammad",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 4,
-          "question": "In which year did the major occultation begun?",
-          "option1": "260 AH",
-          "option2": "255 AH",
-          "option3": "280 AH",
-          "option4": "329 AH",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 5,
-          "question": "Who was the author of Al-Kafi?",
-          "option1": "Baladhuri",
-          "option2": "Ibn Babawayh",
-          "option3": "Kulayni",
-          "option4": "Tusi",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 6,
-          "question": "Who was the author of Man la yahduruhu al-faqih?",
-          "option1": "Mufid",
-          "option2": "Saduq",
-          "option3": "Tusi",
-          "option4": "Tabatabai",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 7,
-          "question": "Who was the author of both Tahdhib and Istibsar?",
-          "option1": "Saduq Ibn Babawayh",
-          "option2": "Kulayni",
-          "option3": "Majlisi",
-          "option4": "Tusi",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 8,
-          "question": "What is the encyclopedia of hadith by Majlisi?",
-          "option1": "Bihar al-Anwar",
-          "option2": "Wasa'il al-Shia",
-          "option3": "Mustadrak",
-          "option4": "Jawahir",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 9,
-          "question": "Successive centers of Shia hadith in early period?",
-          "option1": "Kufa -> Qum -> Baghdad",
-          "option2": "Basra -> Bukhara -> Sham",
-          "option3": "Qum -> Kufa -> Ray",
-          "option4": "Madina -> Kufa -> Ray",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 10,
-          "question": "Those who exaggerate about Imams as divine?",
-          "option1": "Ghulat",
-          "option2": "Muqassirah",
-          "option3": "Nawasib",
-          "option4": "Khawarij",
-          "correctAnswerIndex": 0
-        }
-      ]
-    },
-    {
-      "level": 9,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Concealing faith to save life?",
-          "option1": "Taqiyyah",
-          "option2": "Raj'ah",
-          "option3": "Bada",
-          "option4": "Tawalla",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 2,
-          "question": "Loving Ahl al-Bayt is?",
-          "option1": "Tawalla",
-          "option2": "Tabarra",
-          "option3": "Taqiyyah",
-          "option4": "Tawhid",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 3,
-          "question": "Tabarra means?",
-          "option1": "Loving enemies",
-          "option2": "Loving friends",
-          "option3": "Dissociating from enemies",
-          "option4": "Silence",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 4,
-          "question": "How many Furu al-Din are there?",
-          "option1": "15",
-          "option2": "10",
-          "option3": "5",
-          "option4": "7",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 5,
-          "question": "Which Furu al-Din are the core acts of personal worship?",
-          "option1": "Salah, Sawm, Hajj",
-          "option2": "Sawm, Zakat, Jihad",
-          "option3": "Hajj, Salah, Tawalla",
-          "option4": "Zakat, Khums, Salah",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 6,
-          "question": "What is the Khums rate on surplus?",
-          "option1": "2.5%",
-          "option2": "5%",
-          "option3": "10%",
-          "option4": "20%",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 7,
-          "question": "Which is the month of Ashura?",
-          "option1": "Ramadan",
-          "option2": "Shawwal",
-          "option3": "Muharram",
-          "option4": "Dhul Hijjah",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 8,
-          "question": "The anniversary of the event of Ghadir Khumm?",
-          "option1": "Eid al-Fitr",
-          "option2": "Eid al-Ghadeer",
-          "option3": "Eid al-Adha",
-          "option4": "Eid al-Mubahalah",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 9,
-          "question": "The struggle in God's way?",
-          "option1": "Jihad",
-          "option2": "Amr bil ma'ruf",
-          "option3": "Nahi anil munkar",
-          "option4": "Hajj",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 10,
-          "question": "Mourning period for Imam Husayn traditionally?",
-          "option1": "One month",
-          "option2": "Two months",
-          "option3": "40 days",
-          "option4": "70 days",
-          "correctAnswerIndex": 2
-        }
-      ]
-    },
-    {
-      "level": 10,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Who wrote Sahifa Sajjadiyya?",
-          "option1": "Imam al-Sadiq (a.s)",
-          "option2": "Imam al-Baqir (a.s)",
-          "option3": "Imam Zayn al-Abidin (a.s)",
-          "option4": "Imam Ali (a.s)",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 2,
-          "question": "Muhsin (a.s) was the son of?",
-          "option1": "Muhammad (s.a.w.a)",
-          "option2": "Fatimah the daughter of the Prophet (s.a)",
-          "option3": "Hasan ibn Ali (a.s)",
-          "option4": "Husayn ibn Ali (a.s)",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 3,
-          "question": "Verse 33:33 (Tathir) refers to?",
-          "option1": "The total purification of the Ahl-al-Bayt (a.s)",
-          "option2": "Mubahalah",
-          "option3": "Inheritance of the Prophet",
-          "option4": "The event of Ghadeer Khumm",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 4,
-          "question": "What is the number of Prophets in Shia belief?",
-          "option1": "25",
-          "option2": "12",
-          "option3": "313",
-          "option4": "124,000",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 5,
-          "question": "Angels can be?",
-          "option1": "Imams",
-          "option2": "Prophets",
-          "option3": "Awliya",
-          "option4": "Infallible only",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 6,
-          "question": "Which one of the following is not a source of fiqh?",
-          "option1": "Sunnah of the Prophet",
-          "option2": "Marja' al-Taqlid",
-          "option3": "Qur'an",
-          "option4": "Imams of Ahl-al-Bayt",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 7,
-          "question": "Shia approach to names and attributes of God?",
-          "option1": "Moderate",
-          "option2": "Extreme",
-          "option3": "Literal",
-          "option4": "Mystical",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 8,
-          "question": "Which school says Qur'an is created in the sense of being makhluq?",
-          "option1": "Mutazila",
-          "option2": "Ash'ari",
-          "option3": "Imamiyyah",
-          "option4": "Maturidi",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 9,
-          "question": "Which of the following surah was revealed for Ahl al-Bayt?",
-          "option1": "Surah Ikhlas",
-          "option2": "Surah al-Insan",
-          "option3": "Surah Yasin",
-          "option4": "Surah Fatiha",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 10,
-          "question": "First Muslim after Muhammad (s.a.w.a) in Shia view?",
-          "option1": "Ali ibn Abi Talib (a.s)",
-          "option2": "Khadija (s.a)",
-          "option3": "Jafar ibn Abi Talib",
-          "option4": "Abu Bakr",
-          "correctAnswerIndex": 0
-        }
-      ]
-    },
-    {
-      "level": 11,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Who compiled Al-Kafi?",
-          "option1": "Muslim",
-          "option2": "Bukhari",
-          "option3": "Kulayni",
-          "option4": "Tirmidhi",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 2,
-          "question": "Author of Tahdhib al-Ahkam?",
-          "option1": "Shaykh Tusi",
-          "option2": "Shaykh Mufid",
-          "option3": "Shaykh Saduq",
-          "option4": "Allamah Hilli",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 3,
-          "question": "Which city is called ‘Hawzah Ilmiyyah’ center in Iran?",
-          "option1": "Najaf",
-          "option2": "Karbala",
-          "option3": "Kufa",
-          "option4": "Qum",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 4,
-          "question": "Who authored al-Wafi and its summary al-Shafi?",
-          "option1": "Mulla al-Sadra",
-          "option2": "Fayd al-Kashani",
-          "option3": "Majlisi",
-          "option4": "Sabzawari",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 5,
-          "question": "The collection of duas by Imam Sajjad?",
-          "option1": "As-Sahifah as-Sajjadiyyah",
-          "option2": "Nahjul Balagha",
-          "option3": "Bihar al-Anwar",
-          "option4": "Tafsir al-Mizan",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 6,
-          "question": "Who was the compiler of Nahjul Balagha?",
-          "option1": "Ali ibn Musa (a.s)",
-          "option2": "Hasan al-Askari (a.s)",
-          "option3": "Sharif al-Razi",
-          "option4": "Murtada Alam al-Huda",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 7,
-          "question": "Who is the author of Wasa'il al-Shia?",
-          "option1": "Muhammad Baqir al-Majlisi",
-          "option2": "Hurr al-Amili",
-          "option3": "Zayn al-Din al-Amili",
-          "option4": "Muhammad Taqi al-Majlisi",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 8,
-          "question": "Who is the author of Mukhtalaf al-Shia?",
-          "option1": "Ibn Babawayh",
-          "option2": "Ibn Idris",
-          "option3": "Muhaqqiq al-Hilli",
-          "option4": "Allamah al-Hilli",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 9,
-          "question": "Who is the author of Tafsir al-Mizan?",
-          "option1": "Tabatabai",
-          "option2": "Khomeini",
-          "option3": "Khamenei",
-          "option4": "Golpaygani",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 10,
-          "question": "What is Mulla Sadra’s main contribution to Shia Aqidah?",
-          "option1": "Islamic conquests",
-          "option2": "Sufism",
-          "option3": "Philosophy and gnosis (Irfan)",
-          "option4": "Astrology",
-          "correctAnswerIndex": 2
-        }
-      ]
-    },
-    {
-      "level": 12,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Who is called ‘Siddiqah al-Kubra’ in Shia?",
-          "option1": "Fatimah al-Zahra (s.a)",
-          "option2": "Maryam bint Imran (s.a)",
-          "option3": "Asiya (s.a)",
-          "option4": "Khadijah (s.a)",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 2,
-          "question": "Which figure declared war on Imam Ali?",
-          "option1": "Abu Bakr",
-          "option2": "Umar ibn Khattab",
-          "option3": "Uthman ibn Affan",
-          "option4": "Muawiyah ibn Abi Sufyan",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 3,
-          "question": "The battle where Aisha opposed Ali?",
-          "option1": "Jamal",
-          "option2": "Siffin",
-          "option3": "Nahrawan",
-          "option4": "Karbala",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 4,
-          "question": "Son of Ali (a.s) who was the flag-bearer in Karbala?",
-          "option1": "Hasan",
-          "option2": "Husayn",
-          "option3": "Abbas",
-          "option4": "Muhammad",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 5,
-          "question": "Who was the governor of Egypt appointed by Ali (a.s)?",
-          "option1": "Muhammad ibn Hanafiyyah",
-          "option2": "Muhammad ibn Abi Bakr",
-          "option3": "Muslim ibn Aqil",
-          "option4": "Ammar ibn Yasir",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 6,
-          "question": "Which wife of the Prophet (s.a.w.a) defended Imam Ali (a.s)?",
-          "option1": "Aisha",
-          "option2": "Hafsa",
-          "option3": "Lady Umm Salamah (Hind bint Abi Umayya) (r.a)",
-          "option4": "Lady Khadijah (s.a)",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 7,
-          "question": "Companion exiled to desert for opposing Uthman?",
-          "option1": "Abu Dharr (r.a)",
-          "option2": "Salman (r.a)",
-          "option3": "Miqdad (r.a)",
-          "option4": "Ammar (r.a)",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 8,
-          "question": "Which of the following companions of the Prophet lived to see Imam al-Baqir (a.s) and delivered the Prophet's greetings to him?",
-          "option1": "Salman al-Farsi (r.a)",
-          "option2": "Ibn Abbas",
-          "option3": "Jabir ibn Abdullah (r.a)",
-          "option4": "Abu al-Tufayl Amir",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 9,
-          "question": "Which companion of the 5th Imam (Imam al-Baqir) was famously entrusted with thousands of esoteric secrets and was ordered to feign madness to protect them?",
-          "option1": "Jabir ibn Abdullah",
-          "option2": "Jabir ibn Yazid al-Ju'fi",
-          "option3": "Jabir ibn Hayyan",
-          "option4": "Jabir al-Ansari",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 10,
-          "question": "Who was the mother of Hazrat Abbas, who sacrificed four of her sons at Karbala but remained behind in Medina?",
-          "option1": "Umm al-Banin (r.a)",
-          "option2": "Fatima al-Zahra (s.a)",
-          "option3": "Umm Habib",
-          "option4": "Umm Kulthum",
-          "correctAnswerIndex": 0
-        }
-      ]
-    },
-    {
-      "level": 13,
-      "questions": [
-        {
-          "questionNumber": 1,
-          "question": "Imam Ali al-Rida (a.s) succeeded his father, Imam Musa al-Kazim, as which chronological leader of the Ahl al-Bayt?",
-          "option1": "8th",
-          "option2": "9th",
-          "option3": "10th",
-          "option4": "11th",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 2,
-          "question": "Which Imam's primary title is derived from the military city of Samarra, where he lived under strict house arrest for most of his life?",
-          "option1": "Ali Naqi (a.s)",
-          "option2": "Hasan Askari (a.s)",
-          "option3": "Muhammad Taqi (a.s)",
-          "option4": "Musa Kazim (a.s)",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 3,
-          "question": "Which dynasty poisoned most Imams?",
-          "option1": "Hashemite",
-          "option2": "Umayyad",
-          "option3": "Abbasid",
-          "option4": "Fatimid",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 4,
-          "question": "Place of 7th Imam’s imprisonment by Harun?",
-          "option1": "Baghdad",
-          "option2": "Fustat",
-          "option3": "Damascus",
-          "option4": "Cairo",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 5,
-          "question": "Which caliph officially cursed Imam Ali on pulpits?",
-          "option1": "Umar",
-          "option2": "Abu Bakr",
-          "option3": "Uthman",
-          "option4": "Muawiyah",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 6,
-          "question": "Imam Hasan’s caliphate duration?",
-          "option1": "4 years",
-          "option2": "70 days",
-          "option3": "34 years",
-          "option4": "10 months",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 7,
-          "question": "Imam who made peace with Muawiyah?",
-          "option1": "Hasan",
-          "option2": "Husayn",
-          "option3": "Hasan al-Muthanna",
-          "option4": "Ali",
-          "correctAnswerIndex": 0
-        },
-        {
-          "questionNumber": 8,
-          "question": "Where is Imam Hasan buried?",
-          "option1": "Kufa",
-          "option2": "Basra",
-          "option3": "Medina",
-          "option4": "Mecca",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 9,
-          "question": "Son of Imam Sajjad who rebelled against Umayyads?",
-          "option1": "Ja'far",
-          "option2": "Muhammad",
-          "option3": "Yahya",
-          "option4": "Zayd",
-          "correctAnswerIndex": 3
-        },
-        {
-          "questionNumber": 10,
-          "question": "Which Shia sect believes in 7 Imams?",
-          "option1": "Zaydiyyah",
-          "option2": "Ismailiyyah",
-          "option3": "Waqifiyyah",
-          "option4": "Fathiyyah",
-          "correctAnswerIndex": 1
+      "id": 101,
+      "name": "Unknown Category",
+      "levels": [
+        {
+          "level": 1,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Who was the first prophet of Allah?",
+              "option1": "Nūḥ (a.s)",
+              "option2": "Ādam (a.s)",
+              "option3": "Idrīs (a.s)",
+              "option4": "Al-Khiḍr (a.s)",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 2,
+              "question": "From what material did Allah create Ādam (a.s)?",
+              "option1": "From clay",
+              "option2": "From light",
+              "option3": "From fire",
+              "option4": "From water",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 3,
+              "question": "Who was the wife of Ādam (a.s) created by Allah?",
+              "option1": "Ḥawwā (Eve)",
+              "option2": "Lilith",
+              "option3": "Sarah",
+              "option4": "Hagar",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 4,
+              "question": "Which son of Ādam (a.s) was murdered by his brother?",
+              "option1": "Qābīl",
+              "option2": "Shīth",
+              "option3": "Hābīl",
+              "option4": "Yāfith",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 5,
+              "question": "Which prophet was the third son of Ādam (a.s) and his successor?",
+              "option1": "Shīth (a.s)",
+              "option2": "Idrīs (a.s)",
+              "option3": "Nūḥ (a.s)",
+              "option4": "Hūd (a.s)",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 6,
+              "question": "From what material did Allah create Iblīs (Satan) before his disobedience?",
+              "option1": "From fire",
+              "option2": "From clay",
+              "option3": "From light",
+              "option4": "From water",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 7,
+              "question": "Why was Iblīs cursed and expelled from paradise?",
+              "option1": "He stole from paradise",
+              "option2": "He killed Hābīl",
+              "option3": "He refused to prostrate to Ādam",
+              "option4": "He ate from the forbidden tree",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 8,
+              "question": "Which prophet built the ark to save believers from the great flood?",
+              "option1": "Prophet Hūd (a.s)",
+              "option2": "Prophet Nūḥ (a.s)",
+              "option3": "Prophet Ṣāliḥ (a.s)",
+              "option4": "Prophet Shuʿayb (a.s)",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 9,
+              "question": "How many years did Prophet Nūḥ (a.s) invite his people to monotheism according to the Qur'an?",
+              "option1": "40 days and 40 nights",
+              "option2": "950 years",
+              "option3": "300 years",
+              "option4": "100 years",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 10,
+              "question": "Where did the ark of Prophet Nūḥ (a.s) settle after the flood?",
+              "option1": "Mount Judi",
+              "option2": "Mount Sinai",
+              "option3": "Mount Hira",
+              "option4": "Mount Arafat",
+              "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Which prophet was sent to the people of ʿĀd?",
+              "option1": "Prophet Ibrāhīm (a.s)",
+              "option2": "Prophet Isḥāq (a.s)",
+              "option3": "Proprist Hūd (a.s)",
+              "option4": "Prophet Ṣāliḥ (a.s)",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 2,
+              "question": "Which prophet was sent to the people of Thamūd?",
+              "option1": "Prophet Hūd (a.s)",
+              "option2": "Prophet Nūḥ (a.s)",
+              "option3": "Prophet Shuʿayb (a.s)",
+              "option4": "Prophet Ṣāliḥ (a.s)",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 3,
+              "question": "What miraculous animal did Prophet Ṣāliḥ (a.s) bring forth from the rocks as a sign for Thamūd?",
+              "option1": "A bird",
+              "option2": "A she-camel",
+              "option3": "A cow",
+              "option4": "A sheep",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 4,
+              "question": "What crime did the people of Thamūd commit that brought divine punishment?",
+              "option1": "They killed the she-camel",
+              "option2": "They worshipped idols",
+              "option3": "They cheated in trade",
+              "option4": "They built high towers",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 5,
+              "question": "Which prophet was thrown into a fire by King Nimrod but Allah made the fire cool for him?",
+              "option1": "Prophet Lūṭ (a.s)",
+              "option2": "Prophet Yaʿqūb (a.s)",
+              "option3": "Prophet Ibrāhīm (a.s)",
+              "option4": "Prophet Ismāʿīl (a.s)",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 6,
+              "question": "Who was the first wife of Prophet Ibrāhīm (a.s) and mother of Prophet Isḥāq (a.s)?",
+              "option1": "Maryam",
+              "option2": "Hājar",
+              "option3": "Rābiʿah",
+              "option4": "Sārah",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 7,
+              "question": "Which son of Prophet Ibrāhīm (a.s) was commanded to be sacrificed in a dream, then ransomed with a ram?",
+              "option1": "Ismāʿīl (a.s)",
+              "option2": "Isḥāq (a.s)",
+              "option3": "Yaʿqūb (a.s)",
+              "option4": "Yūsuf (a.s)",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 8,
+              "question": "Who was the mother of Prophet Ismāʿīl (a.s)?",
+              "option1": "Hājar",
+              "option2": "Sārah",
+              "option3": "Rifqah",
+              "option4": "Laylā",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 9,
+              "question": "Which well sprang forth for Hājar and Ismāʿīl (a.s) when she ran between Safa and Marwah?",
+              "option1": "Zamzam",
+              "option2": "Şafā",
+              "option3": "Marwah",
+              "option4": "Arafah",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 10,
+              "question": "Which prophet was also known as 'Isrāʾīl' (meaning 'servant of Allah')?",
+              "option1": "Prophet Mūsā (a.s)",
+              "option2": "Prophet Yaʿqūb (a.s)",
+              "option3": "Prophet Yūsuf (a.s)",
+              "option4": "Prophet Ayyūb (a.s)",
+              "correctAnswerIndex": 1
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Which surah tells the full story of Prophet Yūsuf (a.s) from beginning to end?",
+              "option1": "Sūrat Maryam",
+              "option2": "Sūrat Yūsuf",
+              "option3": "Sūrat Nūḥ",
+              "option4": "Sūrat Ibrāhīm",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 2,
+              "question": "Which surah mentions the People of the Cave (Aṣḥāb al-Kahf)?",
+              "option1": "Sūrat al-Kahf",
+              "option2": "Sūrat Ṭā Hā",
+              "option3": "Sūrat Yāsīn",
+              "option4": "Sūrat al-Isrā",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 3,
+              "question": "How many verses (āyāt) are there in Sūrat al-Fātiḥah?",
+              "option1": "2",
+              "option2": "3",
+              "option3": "5",
+              "option4": "7",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 4,
+              "question": "Sūrat al-Baqarah is primarily considered what type of surah?",
+              "option1": "Meccan",
+              "option2": "Medinan",
+              "option3": "Both",
+              "option4": "Neither",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 5,
+              "question": "Which Prophet is mentioned most frequently in the Qurʾān?",
+              "option1": "Dawūd (a.s)",
+              "option2": "Mūsā (a.s)",
+              "option3": "Sulaymān (a.s)",
+              "option4": "ʿĪsā (a.s)",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 6,
+              "question": "Which surah is considered equivalent to one-third of the Qurʾān in virtue?",
+              "option1": "Sūrat al-Ikhlāṣ",
+              "option2": "Sūrat al-Falaq",
+              "option3": "Sūrat al-Nās",
+              "option4": "Sūrat al-Masad",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 7,
+              "question": "Which verse from Sūrat al-Baqarah is called the 'Throne Verse'?",
+              "option1": "Sayyid al-Istighfār",
+              "option2": "Āyat al-Nūr",
+              "option3": "Āyat al-Kursī",
+              "option4": "Āyat al-Mawadda",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 8,
+              "question": "Which surah is also known as Sūrat al-Insān?",
+              "option1": "Sūrat an-Nās",
+              "option2": "Sūrat al-Dahr",
+              "option3": "Sūrat al-Qadr",
+              "option4": "Sūrat al-ʿAlaq",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 9,
+              "question": "Which surah describes the army of elephants attacking the Kaʿbah?",
+              "option1": "Sūrat al-Kawthar",
+              "option2": "Sūrat al-Māʿūn",
+              "option3": "Sūrat Quraysh",
+              "option4": "Sūrat al-Fīl",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 10,
+              "question": "Which surah condemns Abū Lahab and his wife?",
+              "option1": "Sūrat al-Masad",
+              "option2": "Sūrat al-Lahab",
+              "option3": "Sūrat al-Tabbat",
+              "option4": "All",
+              "correctAnswerIndex": 3
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "The place where the Prophet (s.a.w.a) declared Ali (a.s) as his successor and the Mawla of all Muslims?",
+              "option1": "Ghadir Khumm",
+              "option2": "Mubahalah",
+              "option3": "Hudaybiyyah",
+              "option4": "Badr",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 2,
+              "question": "Who divided knowledge into divine, acquired, and given?",
+              "option1": "Imam Sadiq (a.s)",
+              "option2": "Imam Baqir (a.s)",
+              "option3": "Ali ibn Abi Talib (a.s)",
+              "option4": "Imam Rida (a.s)",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 3,
+              "question": "The prayer for divine curse on liars?",
+              "option1": "Taqiyyah",
+              "option2": "Khums",
+              "option3": "Dua",
+              "option4": "Mubahalah",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 4,
+              "question": "How many Infallibles (Masumeen) are there in the Ahl-al-Bayt?",
+              "option1": "7",
+              "option2": "14",
+              "option3": "5",
+              "option4": "3",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 5,
+              "question": "The concealment of faith under danger?",
+              "option1": "Taqiyyah",
+              "option2": "Tawbah",
+              "option3": "Tawakkul",
+              "option4": "Tahasun",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 6,
+              "question": "The seal of the Prophets?",
+              "option1": "Prophet Isa (a.s)",
+              "option2": "Prophet Musa (a.s)",
+              "option3": "Prophet Muhammad (s.a.w.a)",
+              "option4": "Prophet Ibrahim (a.s)",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 7,
+              "question": "In which ordered position is Imam Hasan bin Ali (a.s)?",
+              "option1": "3rd",
+              "option2": "2nd",
+              "option3": "1st",
+              "option4": "4th",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 8,
+              "question": "The 12th Imam's name?",
+              "option1": "Hasan Askari (a.s)",
+              "option2": "Ali Naqi (a.s)",
+              "option3": "Muhammad Taqi (a.s)",
+              "option4": "Mahdi (a.s)",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 9,
+              "question": "The place of the 11th Imam's grave?",
+              "option1": "Samarra",
+              "option2": "Medina",
+              "option3": "Mecca",
+              "option4": "Kufa",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 10,
+              "question": "The father of Imam as-Sadiq (a.s)?",
+              "option1": "Abdullah",
+              "option2": "Muhammad (a.s)",
+              "option3": "Ali (a.s)",
+              "option4": "Jafar (a.s)",
+              "correctAnswerIndex": 1
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Who was the grandfather of Prophet Muhammad (s.a.w.a) and Ali (a.s)?",
+              "option1": "Abu Talib (a.s)",
+              "option2": "Abdul Muttalib (a.s)",
+              "option3": "Hashim",
+              "option4": "Qusayy",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 2,
+              "question": "The first wife of Prophet Muhammad (s.a.w.a) and mother of Fatimah (a.s)?",
+              "option1": "Khadijah  (s.a)",
+              "option2": "Halima (r.a)",
+              "option3": "Zaynab",
+              "option4": "Aminah (s.a)",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 3,
+              "question": "The son of Fatimah who died in miscarriage?",
+              "option1": "Hasan (a.s)",
+              "option2": "Husayn (a.s)",
+              "option3": "Muhsin (a.s)",
+              "option4": "Abdullah",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 4,
+              "question": "At what age was Khadijah (s.a) when shen married the Prophet Muhammad (s.a.w.a)?",
+              "option1": "31",
+              "option2": "35",
+              "option3": "25",
+              "option4": "40",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 5,
+              "question": "What was the land that Fatimah (s.a) claimed as inheritance gifted to her by the Prophet (s.a.w.a)?",
+              "option1": "Fadak",
+              "option2": "Khaybar",
+              "option3": "Badr",
+              "option4": "Uhud",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 6,
+              "question": "The period that Fatimah (s.a) lived after the Prophet (s.a.w.a)?",
+              "option1": "95 days",
+              "option2": "40 days",
+              "option3": "6 months",
+              "option4": "1 year",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 7,
+              "question": "Which Sunni book of Hadiths says 'Hasan and Husayn are leaders of youth of Jannah'?",
+              "option1": "Bukhari",
+              "option2": "Muslim",
+              "option3": "Tirmidhi",
+              "option4": "All major Sunni books",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 8,
+              "question": "The daughter of Ali (a.s) who spoke in Sham after the tragedy of Karbala?",
+              "option1": "Sakinah",
+              "option2": "Fatimah (s.a)",
+              "option3": "Zaynab",
+              "option4": "Umm Kulthum",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 9,
+              "question": "The title of the 4th Imam?",
+              "option1": "Sajjad",
+              "option2": "Zayn al-Abidin",
+              "option3": "Baqir",
+              "option4": "Sadiq",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 10,
+              "question": "The book of the 4th Imam on rights?",
+              "option1": "Risaalat al-Huquq",
+              "option2": "Nahjul Balagha",
+              "option3": "Sahifa Sajjadiyya",
+              "option4": "Al-Kafi",
+              "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Who was the commander of the oppressive army at Karbala?",
+              "option1": "Muawiyah",
+              "option2": "Yazid ibn Muawiyah",
+              "option3": "Umar ibn Sa'd",
+              "option4": "Shimr ibn Dhil-Jawshan",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 2,
+              "question": "Ali (a.s)'s son from Hanafiyyah?",
+              "option1": "Muhammad",
+              "option2": "Hasan (a.s)",
+              "option3": "Husayn (a.s)",
+              "option4": "Abbas",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 3,
+              "question": "What are the two Usul exclusively from Ahl al-Bayt?",
+              "option1": "Tawhid and Ma'ad",
+              "option2": "Nubuwwah and Imamate",
+              "option3": "Adl and Nubuwwah",
+              "option4": "Adl and Imamate",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 4,
+              "question": "Who was the Prophet's cousin sent to Kufa?",
+              "option1": "Mukhtar",
+              "option2": "Muslim ibn Aqil",
+              "option3": "Hani ibn Urwa",
+              "option4": "Habib ibn Muzahir",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 5,
+              "question": "The most prominent child martyr on the Day of Ashura?",
+              "option1": "Ali al-Akbar",
+              "option2": "Qasim ibn Hasan",
+              "option3": "Abdullah ibn Hasan",
+              "option4": "Ali al-Asghar",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 6,
+              "question": "Yazidi commander who switched to Husayn's side?",
+              "option1": "Hurr",
+              "option2": "Zuhayr",
+              "option3": "Shimr",
+              "option4": "Ibn Ziyad",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 7,
+              "question": "Who was the standard-bearer of Imam Husayn (a.s)?",
+              "option1": "Abbas ibn Ali",
+              "option2": "Habib",
+              "option3": "Ali bin Husayn (a.s)",
+              "option4": "Muslim bin Aqil",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 8,
+              "question": "What was the number of Husayn (a.s)'s companions at Karbala as the most widely accepted?",
+              "option1": "50",
+              "option2": "72",
+              "option3": "90",
+              "option4": "110",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 9,
+              "question": "Who issued the direct order in the battlefield to kill Imam Husayn at Karbala?",
+              "option1": "Abu Bakr",
+              "option2": "Umar ibn Khattab",
+              "option3": "Umar ibn Sa'd",
+              "option4": "Ubaydullah ibn Ziyad",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 10,
+              "question": "What is the 40th day after the tragedy of Karbala called?",
+              "option1": "Arba'een",
+              "option2": "Ashura",
+              "option3": "Eid Ghadeer",
+              "option4": "Mubahalah",
+              "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Who revived the Shia fiqh after the tragedy of Karbala?",
+              "option1": "Jafar al-Sadiq (a.s)",
+              "option2": "Muhammad al-Baqir (a.s)",
+              "option3": "Ali al-Rida (a.s)",
+              "option4": "Musa al-Kazim (a.s)",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 2,
+              "question": "Which one of the following is regarded as the most authentic Shia hadith book?",
+              "option1": "Usul al-Kafi",
+              "option2": "Man la yahduruhu al-faqih",
+              "option3": "Tahdhib al-Ahkam",
+              "option4": "Istibsar",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 3,
+              "question": "Teacher of many Sunni Imams?",
+              "option1": "Abu Hanifa",
+              "option2": "Malik",
+              "option3": "Shafi'i",
+              "option4": "Jafar al-Sadiq (a.s)",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 4,
+              "question": "The son of Imam Jafar al-Sadiq (a.s) who died before him?",
+              "option1": "Muhammad",
+              "option2": "Ibrahim",
+              "option3": "Ismail",
+              "option4": "Abdullah",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 5,
+              "question": "In what order of succession was Imam Ali Rida (a.s)?",
+              "option1": "7th",
+              "option2": "8th",
+              "option3": "9th",
+              "option4": "10th",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 6,
+              "question": "Where is Imam al-Rida buried?",
+              "option1": "Mashhad",
+              "option2": "Qom",
+              "option3": "Najaf",
+              "option4": "Samarra",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 7,
+              "question": "Who was the Abbasid caliph that poisoned Imam al-Rida?",
+              "option1": "Ma'mun",
+              "option2": "Harun",
+              "option3": "Mutasim",
+              "option4": "Wathiq",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 8,
+              "question": "The title of the 7th Imam (a.s)?",
+              "option1": "Jawad",
+              "option2": "Hadi",
+              "option3": "Kazim",
+              "option4": "Askari",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 9,
+              "question": "Where is the burial place of the 7th and 9th Imams?",
+              "option1": "Baghdad",
+              "option2": "Kazimayn",
+              "option3": "Samarra",
+              "option4": "Kufa",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 10,
+              "question": "The title of the 10th Imam (a.s)?",
+              "option1": "Naqi",
+              "option2": "Taqi",
+              "option3": "Askari",
+              "option4": "Mahdi",
+              "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "level": 8,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Where are the 10th and 11th Imams buried?",
+              "option1": "Samarra",
+              "option2": "Qom",
+              "option3": "Karbala",
+              "option4": "Najaf",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 2,
+              "question": "What is the name of the 10th Imam (a.s)?",
+              "option1": "Ahmad",
+              "option2": "Muhammad",
+              "option3": "Hasan",
+              "option4": "Ali",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 3,
+              "question": "What is the name of the 11th Imam (a.s)?",
+              "option1": "Ali",
+              "option2": "Hasan",
+              "option3": "Husayn",
+              "option4": "Muhammad",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 4,
+              "question": "In which year did the major occultation begun?",
+              "option1": "260 AH",
+              "option2": "255 AH",
+              "option3": "280 AH",
+              "option4": "329 AH",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 5,
+              "question": "Who was the author of Al-Kafi?",
+              "option1": "Baladhuri",
+              "option2": "Ibn Babawayh",
+              "option3": "Kulayni",
+              "option4": "Tusi",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 6,
+              "question": "Who was the author of Man la yahduruhu al-faqih?",
+              "option1": "Mufid",
+              "option2": "Saduq",
+              "option3": "Tusi",
+              "option4": "Tabatabai",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 7,
+              "question": "Who was the author of both Tahdhib and Istibsar?",
+              "option1": "Saduq Ibn Babawayh",
+              "option2": "Kulayni",
+              "option3": "Majlisi",
+              "option4": "Tusi",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 8,
+              "question": "What is the encyclopedia of hadith by Majlisi?",
+              "option1": "Bihar al-Anwar",
+              "option2": "Wasa'il al-Shia",
+              "option3": "Mustadrak",
+              "option4": "Jawahir",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 9,
+              "question": "Successive centers of Shia hadith in early period?",
+              "option1": "Kufa -> Qum -> Baghdad",
+              "option2": "Basra -> Bukhara -> Sham",
+              "option3": "Qum -> Kufa -> Ray",
+              "option4": "Madina -> Kufa -> Ray",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 10,
+              "question": "Those who exaggerate about Imams as divine?",
+              "option1": "Ghulat",
+              "option2": "Muqassirah",
+              "option3": "Nawasib",
+              "option4": "Khawarij",
+              "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Concealing faith to save life?",
+              "option1": "Taqiyyah",
+              "option2": "Raj'ah",
+              "option3": "Bada",
+              "option4": "Tawalla",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 2,
+              "question": "Loving Ahl al-Bayt is?",
+              "option1": "Tawalla",
+              "option2": "Tabarra",
+              "option3": "Taqiyyah",
+              "option4": "Tawhid",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 3,
+              "question": "Tabarra means?",
+              "option1": "Loving enemies",
+              "option2": "Loving friends",
+              "option3": "Dissociating from enemies",
+              "option4": "Silence",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 4,
+              "question": "How many Furu al-Din are there?",
+              "option1": "15",
+              "option2": "10",
+              "option3": "5",
+              "option4": "7",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 5,
+              "question": "Which Furu al-Din are the core acts of personal worship?",
+              "option1": "Salah, Sawm, Hajj",
+              "option2": "Sawm, Zakat, Jihad",
+              "option3": "Hajj, Salah, Tawalla",
+              "option4": "Zakat, Khums, Salah",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 6,
+              "question": "What is the Khums rate on surplus?",
+              "option1": "2.5%",
+              "option2": "5%",
+              "option3": "10%",
+              "option4": "20%",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 7,
+              "question": "Which is the month of Ashura?",
+              "option1": "Ramadan",
+              "option2": "Shawwal",
+              "option3": "Muharram",
+              "option4": "Dhul Hijjah",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 8,
+              "question": "The anniversary of the event of Ghadir Khumm?",
+              "option1": "Eid al-Fitr",
+              "option2": "Eid al-Ghadeer",
+              "option3": "Eid al-Adha",
+              "option4": "Eid al-Mubahalah",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 9,
+              "question": "The struggle in God's way?",
+              "option1": "Jihad",
+              "option2": "Amr bil ma'ruf",
+              "option3": "Nahi anil munkar",
+              "option4": "Hajj",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 10,
+              "question": "Mourning period for Imam Husayn traditionally?",
+              "option1": "One month",
+              "option2": "Two months",
+              "option3": "40 days",
+              "option4": "70 days",
+              "correctAnswerIndex": 2
+            }
+          ]
+        },
+        {
+          "level": 10,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Who wrote Sahifa Sajjadiyya?",
+              "option1": "Imam al-Sadiq (a.s)",
+              "option2": "Imam al-Baqir (a.s)",
+              "option3": "Imam Zayn al-Abidin (a.s)",
+              "option4": "Imam Ali (a.s)",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 2,
+              "question": "Muhsin (a.s) was the son of?",
+              "option1": "Muhammad (s.a.w.a)",
+              "option2": "Fatimah the daughter of the Prophet (s.a)",
+              "option3": "Hasan ibn Ali (a.s)",
+              "option4": "Husayn ibn Ali (a.s)",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 3,
+              "question": "Verse 33:33 (Tathir) refers to?",
+              "option1": "The total purification of the Ahl-al-Bayt (a.s)",
+              "option2": "Mubahalah",
+              "option3": "Inheritance of the Prophet",
+              "option4": "The event of Ghadeer Khumm",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 4,
+              "question": "What is the number of Prophets in Shia belief?",
+              "option1": "25",
+              "option2": "12",
+              "option3": "313",
+              "option4": "124,000",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 5,
+              "question": "Angels can be?",
+              "option1": "Imams",
+              "option2": "Prophets",
+              "option3": "Awliya",
+              "option4": "Infallible only",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 6,
+              "question": "Which one of the following is not a source of fiqh?",
+              "option1": "Sunnah of the Prophet",
+              "option2": "Marja' al-Taqlid",
+              "option3": "Qur'an",
+              "option4": "Imams of Ahl-al-Bayt",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 7,
+              "question": "Shia approach to names and attributes of God?",
+              "option1": "Moderate",
+              "option2": "Extreme",
+              "option3": "Literal",
+              "option4": "Mystical",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 8,
+              "question": "Which school says Qur'an is created in the sense of being makhluq?",
+              "option1": "Mutazila",
+              "option2": "Ash'ari",
+              "option3": "Imamiyyah",
+              "option4": "Maturidi",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 9,
+              "question": "Which of the following surah was revealed for Ahl al-Bayt?",
+              "option1": "Surah Ikhlas",
+              "option2": "Surah al-Insan",
+              "option3": "Surah Yasin",
+              "option4": "Surah Fatiha",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 10,
+              "question": "First Muslim after Muhammad (s.a.w.a) in Shia view?",
+              "option1": "Ali ibn Abi Talib (a.s)",
+              "option2": "Khadija (s.a)",
+              "option3": "Jafar ibn Abi Talib",
+              "option4": "Abu Bakr",
+              "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "level": 11,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Who compiled Al-Kafi?",
+              "option1": "Muslim",
+              "option2": "Bukhari",
+              "option3": "Kulayni",
+              "option4": "Tirmidhi",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 2,
+              "question": "Author of Tahdhib al-Ahkam?",
+              "option1": "Shaykh Tusi",
+              "option2": "Shaykh Mufid",
+              "option3": "Shaykh Saduq",
+              "option4": "Allamah Hilli",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 3,
+              "question": "Which city is called ‘Hawzah Ilmiyyah’ center in Iran?",
+              "option1": "Najaf",
+              "option2": "Karbala",
+              "option3": "Kufa",
+              "option4": "Qum",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 4,
+              "question": "Who authored al-Wafi and its summary al-Shafi?",
+              "option1": "Mulla al-Sadra",
+              "option2": "Fayd al-Kashani",
+              "option3": "Majlisi",
+              "option4": "Sabzawari",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 5,
+              "question": "The collection of duas by Imam Sajjad?",
+              "option1": "As-Sahifah as-Sajjadiyyah",
+              "option2": "Nahjul Balagha",
+              "option3": "Bihar al-Anwar",
+              "option4": "Tafsir al-Mizan",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 6,
+              "question": "Who was the compiler of Nahjul Balagha?",
+              "option1": "Ali ibn Musa (a.s)",
+              "option2": "Hasan al-Askari (a.s)",
+              "option3": "Sharif al-Razi",
+              "option4": "Murtada Alam al-Huda",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 7,
+              "question": "Who is the author of Wasa'il al-Shia?",
+              "option1": "Muhammad Baqir al-Majlisi",
+              "option2": "Hurr al-Amili",
+              "option3": "Zayn al-Din al-Amili",
+              "option4": "Muhammad Taqi al-Majlisi",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 8,
+              "question": "Who is the author of Mukhtalaf al-Shia?",
+              "option1": "Ibn Babawayh",
+              "option2": "Ibn Idris",
+              "option3": "Muhaqqiq al-Hilli",
+              "option4": "Allamah al-Hilli",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 9,
+              "question": "Who is the author of Tafsir al-Mizan?",
+              "option1": "Tabatabai",
+              "option2": "Khomeini",
+              "option3": "Khamenei",
+              "option4": "Golpaygani",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 10,
+              "question": "What is Mulla Sadra’s main contribution to Shia Aqidah?",
+              "option1": "Islamic conquests",
+              "option2": "Sufism",
+              "option3": "Philosophy and gnosis (Irfan)",
+              "option4": "Astrology",
+              "correctAnswerIndex": 2
+            }
+          ]
+        },
+        {
+          "level": 12,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Who is called ‘Siddiqah al-Kubra’ in Shia?",
+              "option1": "Fatimah al-Zahra (s.a)",
+              "option2": "Maryam bint Imran (s.a)",
+              "option3": "Asiya (s.a)",
+              "option4": "Khadijah (s.a)",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 2,
+              "question": "Which figure declared war on Imam Ali?",
+              "option1": "Abu Bakr",
+              "option2": "Umar ibn Khattab",
+              "option3": "Uthman ibn Affan",
+              "option4": "Muawiyah ibn Abi Sufyan",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 3,
+              "question": "The battle where Aisha opposed Ali?",
+              "option1": "Jamal",
+              "option2": "Siffin",
+              "option3": "Nahrawan",
+              "option4": "Karbala",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 4,
+              "question": "Son of Ali (a.s) who was the flag-bearer in Karbala?",
+              "option1": "Hasan",
+              "option2": "Husayn",
+              "option3": "Abbas",
+              "option4": "Muhammad",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 5,
+              "question": "Who was the governor of Egypt appointed by Ali (a.s)?",
+              "option1": "Muhammad ibn Hanafiyyah",
+              "option2": "Muhammad ibn Abi Bakr",
+              "option3": "Muslim ibn Aqil",
+              "option4": "Ammar ibn Yasir",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 6,
+              "question": "Which wife of the Prophet (s.a.w.a) defended Imam Ali (a.s)?",
+              "option1": "Aisha",
+              "option2": "Hafsa",
+              "option3": "Lady Umm Salamah (Hind bint Abi Umayya) (r.a)",
+              "option4": "Lady Khadijah (s.a)",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 7,
+              "question": "Companion exiled to desert for opposing Uthman?",
+              "option1": "Abu Dharr (r.a)",
+              "option2": "Salman (r.a)",
+              "option3": "Miqdad (r.a)",
+              "option4": "Ammar (r.a)",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 8,
+              "question": "Which of the following companions of the Prophet lived to see Imam al-Baqir (a.s) and delivered the Prophet's greetings to him?",
+              "option1": "Salman al-Farsi (r.a)",
+              "option2": "Ibn Abbas",
+              "option3": "Jabir ibn Abdullah (r.a)",
+              "option4": "Abu al-Tufayl Amir",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 9,
+              "question": "Which companion of the 5th Imam (Imam al-Baqir) was famously entrusted with thousands of esoteric secrets and was ordered to feign madness to protect them?",
+              "option1": "Jabir ibn Abdullah",
+              "option2": "Jabir ibn Yazid al-Ju'fi",
+              "option3": "Jabir ibn Hayyan",
+              "option4": "Jabir al-Ansari",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 10,
+              "question": "Who was the mother of Hazrat Abbas, who sacrificed four of her sons at Karbala but remained behind in Medina?",
+              "option1": "Umm al-Banin (r.a)",
+              "option2": "Fatima al-Zahra (s.a)",
+              "option3": "Umm Habib",
+              "option4": "Umm Kulthum",
+              "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "level": 13,
+          "questions": [
+            {
+              "questionNumber": 1,
+              "question": "Imam Ali al-Rida (a.s) succeeded his father, Imam Musa al-Kazim, as which chronological leader of the Ahl al-Bayt?",
+              "option1": "8th",
+              "option2": "9th",
+              "option3": "10th",
+              "option4": "11th",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 2,
+              "question": "Which Imam's primary title is derived from the military city of Samarra, where he lived under strict house arrest for most of his life?",
+              "option1": "Ali Naqi (a.s)",
+              "option2": "Hasan Askari (a.s)",
+              "option3": "Muhammad Taqi (a.s)",
+              "option4": "Musa Kazim (a.s)",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 3,
+              "question": "Which dynasty poisoned most Imams?",
+              "option1": "Hashemite",
+              "option2": "Umayyad",
+              "option3": "Abbasid",
+              "option4": "Fatimid",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 4,
+              "question": "Place of 7th Imam’s imprisonment by Harun?",
+              "option1": "Baghdad",
+              "option2": "Fustat",
+              "option3": "Damascus",
+              "option4": "Cairo",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 5,
+              "question": "Which caliph officially cursed Imam Ali on pulpits?",
+              "option1": "Umar",
+              "option2": "Abu Bakr",
+              "option3": "Uthman",
+              "option4": "Muawiyah",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 6,
+              "question": "Imam Hasan’s caliphate duration?",
+              "option1": "4 years",
+              "option2": "70 days",
+              "option3": "34 years",
+              "option4": "10 months",
+              "correctAnswerIndex": 1
+            },
+            {
+              "questionNumber": 7,
+              "question": "Imam who made peace with Muawiyah?",
+              "option1": "Hasan",
+              "option2": "Husayn",
+              "option3": "Hasan al-Muthanna",
+              "option4": "Ali",
+              "correctAnswerIndex": 0
+            },
+            {
+              "questionNumber": 8,
+              "question": "Where is Imam Hasan buried?",
+              "option1": "Kufa",
+              "option2": "Basra",
+              "option3": "Medina",
+              "option4": "Mecca",
+              "correctAnswerIndex": 2
+            },
+            {
+              "questionNumber": 9,
+              "question": "Son of Imam Sajjad who rebelled against Umayyads?",
+              "option1": "Ja'far",
+              "option2": "Muhammad",
+              "option3": "Yahya",
+              "option4": "Zayd",
+              "correctAnswerIndex": 3
+            },
+            {
+              "questionNumber": 10,
+              "question": "Which Shia sect believes in 7 Imams?",
+              "option1": "Zaydiyyah",
+              "option2": "Ismailiyyah",
+              "option3": "Waqifiyyah",
+              "option4": "Fathiyyah",
+              "correctAnswerIndex": 1
+            }
+          ]
         }
       ]
     }
