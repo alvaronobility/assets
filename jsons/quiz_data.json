@@ -5,92 +5,92 @@
       "questions": [
         {
           "questionNumber": 1,
-          "question": "Why was humankind created according to the Quran?",
-          "option1": "So that they can enjoy worldly life",
-          "option2": "To worship Allah",
-          "option3": "Because Allah felt lonely",
-          "option4": "There is no specific reason",
+          "question": "Who was the first prophet of Allah?",
+          "option1": "Nūḥ (a.s)",
+          "option2": "Ādam (a.s)",
+          "option3": "Idrīs (a.s)",
+          "option4": "Al-Khiḍr (a.s)",
           "correctAnswerIndex": 1
         },
         {
           "questionNumber": 2,
-          "question": "According to hadith, how many daily prayers (salat) were originally obligatory before being reduced to five?",
-          "option1": "Five",
-          "option2": "Three",
-          "option3": "Seven",
-          "option4": "Ten",
+          "question": "From what material did Allah create Ādam (a.s)?",
+          "option1": "From clay",
+          "option2": "From light",
+          "option3": "From fire",
+          "option4": "From water",
           "correctAnswerIndex": 0
         },
         {
           "questionNumber": 3,
-          "question": "According to Quran 2:187, fasting is prescribed from when until when?",
-          "option1": "From Fajr to Dhuhr",
-          "option2": "From sunrise to sunset",
-          "option3": "From dawn to sunset",
-          "option4": "From Maghrib to Fajr",
-          "correctAnswerIndex": 2
+          "question": "Who was the wife of Ādam (a.s) created by Allah?",
+          "option1": "Ḥawwā (Eve)",
+          "option2": "Lilith",
+          "option3": "Sarah",
+          "option4": "Hagar",
+          "correctAnswerIndex": 0
         },
         {
           "questionNumber": 4,
-          "question": "According to Quran 8:41, what is the rate of Khums?",
-          "option1": "2.5% of savings",
-          "option2": "10% of annual income",
-          "option3": "A fixed amount per family member",
-          "option4": "One-fifth (20%) of annual surplus",
-          "correctAnswerIndex": 3
+          "question": "Which son of Ādam (a.s) was murdered by his brother?",
+          "option1": "Qābīl",
+          "option2": "Shīth",
+          "option3": "Hābīl",
+          "option4": "Yāfith",
+          "correctAnswerIndex": 2
         },
         {
           "questionNumber": 5,
-          "question": "According to Quran 8:41, Khums is divided into how many portions and for whom?",
-          "option1": "To purify wealth",
-          "option2": "For the Prophet, his family, orphans, needy, and travelers",
-          "option3": "Only for the poor",
-          "option4": "For building mosques",
+          "question": "Which prophet was the third son of Ādam (a.s) and his successor?",
+          "option1": "Shīth (a.s)",
+          "option2": "Idrīs (a.s)",
+          "option3": "Nūḥ (a.s)",
+          "option4": "Hūd (a.s)",
           "correctAnswerIndex": 1
         },
         {
           "questionNumber": 6,
-          "question": "According to Quran 2:185, in which month was the Quran revealed?",
-          "option1": "In the month of Ramadan",
-          "option2": "On the day of Ashura",
-          "option3": "On Eid al-Fitr",
-          "option4": "On the day of Arafah",
+          "question": "From what material did Allah create Iblīs (Satan) before his disobedience?",
+          "option1": "From fire",
+          "option2": "From clay",
+          "option3": "From light",
+          "option4": "From water",
           "correctAnswerIndex": 0
         },
         {
           "questionNumber": 7,
-          "question": "According to Quran 2:144, after the Prophet's migration, he was commanded to face which direction in prayer?",
-          "option1": "To the heavens",
-          "option2": "To the Aqsa Mosque in Jerusalem",
-          "option3": "To the Kaaba in Mecca",
-          "option4": "To the mosque of Quba",
-          "correctAnswerIndex": 2
-        },
-        {
-          "questionNumber": 8,
-          "question": "According to Quran 5:6, when is wudu (ablution) required?",
-          "option1": "Only during fasting",
-          "option2": "At all times before prayer",
-          "option3": "Only on Fridays",
-          "option4": "Only after midnight",
-          "correctAnswerIndex": 1
-        },
-        {
-          "questionNumber": 9,
-          "question": "According to Shia hadith, how many rakah are in Dhuhr prayer?",
-          "option1": "One rakah",
-          "option2": "Two rakah",
-          "option3": "Three rakah",
-          "option4": "Four rakah",
+          "question": "Why was Iblīs cursed and expelled from paradise?",
+          "option1": "He stole from paradise",
+          "option2": "He killed Hābīl",
+          "option3": "He refused to prostrate to Ādam",
+          "option4": "He ate from the forbidden tree",
           "correctAnswerIndex": 3
         },
         {
+          "questionNumber": 8,
+          "question": "Which prophet built the ark to save believers from the great flood?",
+          "option1": "Prophet Hūd (a.s)",
+          "option2": "Prophet Nūḥ (a.s)",
+          "option3": "Prophet Ṣāliḥ (a.s)",
+          "option4": "Prophet Shuʿayb (a.s)",
+          "correctAnswerIndex": 2
+        },
+        {
+          "questionNumber": 9,
+          "question": "How many years did Prophet Nūḥ (a.s) invite his people to monotheism according to the Qur'an?",
+          "option1": "40 days and 40 nights",
+          "option2": "950 years",
+          "option3": "300 years",
+          "option4": "100 years",
+          "correctAnswerIndex": 1
+        },
+        {
           "questionNumber": 10,
-          "question": "According to Shia hadith, how many rakah are in Fajr prayer?",
-          "option1": "Two rakah",
-          "option2": "Three rakah",
-          "option3": "Four rakah",
-          "option4": "One rakah",
+          "question": "Where did the ark of Prophet Nūḥ (a.s) settle after the flood?",
+          "option1": "Mount Judi",
+          "option2": "Mount Sinai",
+          "option3": "Mount Hira",
+          "option4": "Mount Arafat",
           "correctAnswerIndex": 0
         }
       ]
