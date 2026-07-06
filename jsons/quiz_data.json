@@ -7,7 +7,7 @@
         "level": 1,
         "questions": [
           {"categoryId": 101, "correctAnswerIndex": 1, "level": 1, "option1": "ʿAdl", "option2": "Tawhid", "option3": "Imamate", "option4": "Ma'ad", "question": "Which root of religion (Uṣūl al-Din) affirms God's Oneness?", "questionNumber": 1},
-          {"categoryId": 101, "correctAnswerIndex": 0, "level": 1, "option1": "5", "option2": "6", "option3": "3", "option4": "7", "question": "How many Uṣūl al-Din in Twelver Shīʿah Islam?", "questionNumber": 2},
+          {"categoryId": 101, "correctAnswerIndex": 0, "level": 1, "option1": "5", "option2": "6", "option3": "3", "option4": "7", "question": "How many Uṣūl al-Din are there according to Twelver Shīʿah Islam?", "questionNumber": 2},
           {"categoryId": 101, "correctAnswerIndex": 3, "level": 1, "option1": "Ṣalāh", "option2": "Zakāt", "option3": "Ḥajj", "option4": "Nubuwwah", "question": "Which is a root, not a branch?", "questionNumber": 3},
           {"categoryId": 101, "correctAnswerIndex": 1, "level": 1, "option1": "Jabr", "option2": "ʿAdl", "option3": "Qadr", "option4": "Tafwid", "question": "Shīʿah belief in Divine Justice is called?", "questionNumber": 4},
           {"categoryId": 101, "correctAnswerIndex": 2, "level": 1, "option1": "Abū Bakr", "option2": "ʿUmar ibn al-Khaṭṭāb", "option3": "ʿAlī ibn Abī Ṭālib (a.s)", "option4": "ʿUthmān ibn ʿAffān", "question": "First Imām in Shīʿah Islam?", "questionNumber": 5},
