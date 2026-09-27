@@ -4,29 +4,30 @@
     {
       "id": "noon_sakinah",
       "title": "Noon Sākinah & Tanween",
-      "subtitle": "Iẓhār, Idghām, Iqlāb, Ikhfāʾ",
-      "rules": [
+      "description": "Iẓhār, Idghām, Iqlāb, Ikhfāʾ",
+      "children": [
         {
           "id": "izhar",
           "title": "Iẓhār (Clear Pronunciation)",
           "arabicTitle": "الإظهار",
-          "category": "Noon Sākinah & Tanween",
           "description": "When Noon Sākinah (نْ) or Tanween (ً ٌ ٍ) is followed by one of the six throat letters (ء ه ع ح غ خ), the Noon is pronounced clearly without Ghunnah.",
           "example": "مَنْ آمَنَ",
           "exampleTranslation": "Man āmana",
           "tags": ["throat letters", "clear", "no ghunnah"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Throat Letters",
-              "content": "ء ه ع ح غ خ (Hamza, Hā, ʿAyn, Ḥā, Ghayn, Khā)",
-              "exampleArabic": "مَنْ آمَنَ",
-              "exampleTranslit": "Man āmana"
+              "id": "izhar_throat_letters",
+              "title": "Throat Letters",
+              "description": "ء ه ع ح غ خ (Hamza, Hā, ʿAyn, Ḥā, Ghayn, Khā)",
+              "example": "مَنْ آمَنَ",
+              "exampleTranslation": "Man āmana"
             },
             {
-              "subtitle": "Rule",
-              "content": "Pronounce Noon clearly, no nasalization, no doubling.",
-              "exampleArabic": "مَنْ هَادَ",
-              "exampleTranslit": "Man hāda"
+              "id": "izhar_rule",
+              "title": "Rule",
+              "description": "Pronounce Noon clearly, no nasalization, no doubling.",
+              "example": "مَنْ هَادَ",
+              "exampleTranslation": "Man hāda"
             }
           ]
         },
@@ -34,23 +35,24 @@
           "id": "idgham",
           "title": "Idghām (Merging)",
           "arabicTitle": "الإدغام",
-          "category": "Noon Sākinah & Tanween",
           "description": "When Noon Sākinah or Tanween is followed by one of the letters (ي ر م ل و ن), the Noon merges into the following letter.",
           "example": "مَنْ يَعْمَلْ",
           "exampleTranslation": "May yaʿmal",
           "tags": ["merging", "ghunnah", "yarmaloon"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Idghām with Ghunnah",
-              "content": "Letters: ي ن م و — Merging with nasalization for 2 counts",
-              "exampleArabic": "مَنْ يَعْمَلْ",
-              "exampleTranslit": "May yaʿmal"
+              "id": "idgham_with_ghunnah",
+              "title": "Idghām with Ghunnah",
+              "description": "Letters: ي ن م و — Merging with nasalization for 2 counts",
+              "example": "مَنْ يَعْمَلْ",
+              "exampleTranslation": "May yaʿmal"
             },
             {
-              "subtitle": "Idghām without Ghunnah",
-              "content": "Letters: ل ر — Complete merging without nasalization",
-              "exampleArabic": "مِنْ رَبِّهِمْ",
-              "exampleTranslit": "Mir rabbihim"
+              "id": "idgham_without_ghunnah",
+              "title": "Idghām without Ghunnah",
+              "description": "Letters: ل ر — Complete merging without nasalization",
+              "example": "مِنْ رَبِّهِمْ",
+              "exampleTranslation": "Mir rabbihim"
             }
           ]
         },
@@ -58,23 +60,24 @@
           "id": "iqlab",
           "title": "Iqlāb (Conversion)",
           "arabicTitle": "الإقلاب",
-          "category": "Noon Sākinah & Tanween",
           "description": "When Noon Sākinah or Tanween is followed by Bā (ب), the Noon converts to a Mīm (م) with Ghunnah for 2 counts.",
           "example": "مِنْ بَعْدِ",
           "exampleTranslation": "Mim baʿdi",
           "tags": ["conversion", "meem", "ba"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Rule",
-              "content": "Noon becomes Mīm, hold Ghunnah for 2 counts",
-              "exampleArabic": "أَنْبِئْهُمْ",
-              "exampleTranslit": "Ambihum"
+              "id": "iqlab_rule",
+              "title": "Rule",
+              "description": "Noon becomes Mīm, hold Ghunnah for 2 counts",
+              "example": "أَنْبِئْهُمْ",
+              "exampleTranslation": "Ambihum"
             },
             {
-              "subtitle": "Note",
-              "content": "The lips should close for the Mīm sound.",
-              "exampleArabic": "سَمِيعٌ بَصِيرٌ",
-              "exampleTranslit": "Samīʿum baṣīr"
+              "id": "iqlab_note",
+              "title": "Note",
+              "description": "The lips should close for the Mīm sound.",
+              "example": "سَمِيعٌ بَصِيرٌ",
+              "exampleTranslation": "Samīʿum baṣīr"
             }
           ]
         },
@@ -82,23 +85,24 @@
           "id": "ikhfa",
           "title": "Ikhfāʾ (Concealment)",
           "arabicTitle": "الإخفاء",
-          "category": "Noon Sākinah & Tanween",
           "description": "When Noon Sākinah or Tanween is followed by any of the 15 Ikhfāʾ letters, the Noon is concealed with Ghunnah for 2 counts.",
           "example": "مِنْ قَبْلِ",
           "exampleTranslation": "Mim qabli",
           "tags": ["concealment", "15 letters"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Ikhfāʾ Letters",
-              "content": "15 letters: ت ث ج د ذ ز س ش ص ض ط ظ ف ق ك",
-              "exampleArabic": "أَنْتُمْ",
-              "exampleTranslit": "Antum"
+              "id": "ikhfa_letters",
+              "title": "Ikhfāʾ Letters",
+              "description": "15 letters: ت ث ج د ذ ز س ش ص ض ط ظ ف ق ك",
+              "example": "أَنْتُمْ",
+              "exampleTranslation": "Antum"
             },
             {
-              "subtitle": "Rule",
-              "content": "Noon is hidden, Ghunnah held for 2 counts",
-              "exampleArabic": "مِنْ شَرِّ",
-              "exampleTranslit": "Mim shar"
+              "id": "ikhfa_rule",
+              "title": "Rule",
+              "description": "Noon is hidden, Ghunnah held for 2 counts",
+              "example": "مِنْ شَرِّ",
+              "exampleTranslation": "Mim shar"
             }
           ]
         }
@@ -107,23 +111,23 @@
     {
       "id": "meem_sakinah",
       "title": "Mīm Sākinah",
-      "subtitle": "Ikhfāʾ, Idghām, Iẓhār Shafawī",
-      "rules": [
+      "description": "Ikhfāʾ, Idghām, Iẓhār Shafawī",
+      "children": [
         {
           "id": "ikhfa-shafawi",
           "title": "Ikhfāʾ Shafawī",
           "arabicTitle": "الإخفاء الشفوي",
-          "category": "Mīm Sākinah",
           "description": "When Mīm Sākinah (مْ) is followed by Bā (ب), the Mīm is concealed with Ghunnah for 2 counts.",
           "example": "تَرْمِيهِمْ بِحِجَارَةٍ",
           "exampleTranslation": "Tarmīhim biḥijārah",
           "tags": ["meem", "ba", "concealment"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Rule",
-              "content": "Conceal Mīm before Bā, hold Ghunnah",
-              "exampleArabic": "رَبَّهُمْ بِهِمْ",
-              "exampleTranslit": "Rabbahum bihim"
+              "id": "ikhfa_shafawi_rule",
+              "title": "Rule",
+              "description": "Conceal Mīm before Bā, hold Ghunnah",
+              "example": "رَبَّهُمْ بِهِمْ",
+              "exampleTranslation": "Rabbahum bihim"
             }
           ]
         },
@@ -131,17 +135,17 @@
           "id": "idgham-shafawi",
           "title": "Idghām Shafawī",
           "arabicTitle": "الإدغام الشفوي",
-          "category": "Mīm Sākinah",
           "description": "When Mīm Sākinah is followed by another Mīm (م), they merge with Ghunnah for 2 counts.",
           "example": "لَهُمْ مَا",
           "exampleTranslation": "Lahum mā",
           "tags": ["meem", "merging"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Rule",
-              "content": "Merge Mīm into Mīm with Ghunnah",
-              "exampleArabic": "أَمْ مَنْ",
-              "exampleTranslit": "Am man"
+              "id": "idgham_shafawi_rule",
+              "title": "Rule",
+              "description": "Merge Mīm into Mīm with Ghunnah",
+              "example": "أَمْ مَنْ",
+              "exampleTranslation": "Am man"
             }
           ]
         },
@@ -149,17 +153,17 @@
           "id": "izhar-shafawi",
           "title": "Iẓhār Shafawī",
           "arabicTitle": "الإظهار الشفوي",
-          "category": "Mīm Sākinah",
           "description": "When Mīm Sākinah is followed by any letter other than Bā or Mīm, it is pronounced clearly.",
           "example": "أَمْ لَمْ",
           "exampleTranslation": "Am lam",
           "tags": ["meem", "clear"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Rule",
-              "content": "Pronounce Mīm clearly without Ghunnah",
-              "exampleArabic": "عَلَيْهِمْ وَلَا",
-              "exampleTranslit": "ʿAlayhim walā"
+              "id": "izhar_shafawi_rule",
+              "title": "Rule",
+              "description": "Pronounce Mīm clearly without Ghunnah",
+              "example": "عَلَيْهِمْ وَلَا",
+              "exampleTranslation": "ʿAlayhim walā"
             }
           ]
         }
@@ -168,35 +172,37 @@
     {
       "id": "madd",
       "title": "Madd Rules",
-      "subtitle": "Natural and secondary elongations",
-      "rules": [
+      "description": "Natural and secondary elongations",
+      "children": [
         {
           "id": "madd-tabee",
           "title": "Madd Ṭabīʿī (Natural)",
           "arabicTitle": "المد الطبيعي",
-          "category": "Madd Rules",
           "description": "Natural elongation of 2 counts. Occurs with ا و ي when not followed by Hamza or Sukūn.",
           "example": "قَالَ",
           "exampleTranslation": "Qāla",
           "tags": ["natural", "2 counts"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Madd with Alif",
-              "content": "2 counts - ا preceded by Fatḥah",
-              "exampleArabic": "كِتَاب",
-              "exampleTranslit": "Kitāb"
+              "id": "madd_tabee_alif",
+              "title": "Madd with Alif",
+              "description": "2 counts - ا preceded by Fatḥah",
+              "example": "كِتَاب",
+              "exampleTranslation": "Kitāb"
             },
             {
-              "subtitle": "Madd with Wāw",
-              "content": "2 counts - و preceded by Ḍammah",
-              "exampleArabic": "يَقُول",
-              "exampleTranslit": "Yaqūl"
+              "id": "madd_tabee_waw",
+              "title": "Madd with Wāw",
+              "description": "2 counts - و preceded by Ḍammah",
+              "example": "يَقُول",
+              "exampleTranslation": "Yaqūl"
             },
             {
-              "subtitle": "Madd with Yā",
-              "content": "2 counts - ي preceded by Kasrah",
-              "exampleArabic": "قِيلَ",
-              "exampleTranslit": "Qīla"
+              "id": "madd_tabee_ya",
+              "title": "Madd with Yā",
+              "description": "2 counts - ي preceded by Kasrah",
+              "example": "قِيلَ",
+              "exampleTranslation": "Qīla"
             }
           ]
         },
@@ -204,17 +210,17 @@
           "id": "madd-munfasil",
           "title": "Madd Munfaṣil (Separated)",
           "arabicTitle": "المد المنفصل",
-          "category": "Madd Rules",
           "description": "When a Madd letter at the end of a word is followed by Hamza at the beginning of the next word. Length: 4-5 counts.",
           "example": "بِمَا أُنْزِلَ",
           "exampleTranslation": "Bimā unzila",
           "tags": ["separated", "4-5 counts"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Length",
-              "content": "4-5 counts (obligatory)",
-              "exampleArabic": "يَا أَيُّهَا",
-              "exampleTranslit": "Yā ayyuhā"
+              "id": "madd_munfasil_length",
+              "title": "Length",
+              "description": "4-5 counts (obligatory)",
+              "example": "يَا أَيُّهَا",
+              "exampleTranslation": "Yā ayyuhā"
             }
           ]
         },
@@ -222,23 +228,24 @@
           "id": "madd-muttasil",
           "title": "Madd Muttasil (Connected)",
           "arabicTitle": "المد المتصل",
-          "category": "Madd Rules",
           "description": "When Madd letter is followed by Hamza in the same word. Length: 4-5 counts (obligatory).",
           "example": "جَاءَ",
           "exampleTranslation": "Jāʾa",
           "tags": ["connected", "4-5 counts"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Length",
-              "content": "4-5 counts (obligatory)",
-              "exampleArabic": "سُوء",
-              "exampleTranslit": "Sūʾ"
+              "id": "madd_muttasil_length",
+              "title": "Length",
+              "description": "4-5 counts (obligatory)",
+              "example": "سُوء",
+              "exampleTranslation": "Sūʾ"
             },
             {
-              "subtitle": "Note",
-              "content": "Both letters in same word",
-              "exampleArabic": "مَاء",
-              "exampleTranslit": "Māʾ"
+              "id": "madd_muttasil_note",
+              "title": "Note",
+              "description": "Both letters in same word",
+              "example": "مَاء",
+              "exampleTranslation": "Māʾ"
             }
           ]
         },
@@ -246,35 +253,38 @@
           "id": "madd-lazim",
           "title": "Madd Lāzim (Necessary)",
           "arabicTitle": "المد اللازم",
-          "category": "Madd Rules",
           "description": "When Madd letter is followed by Sukūn or Shaddah in the same word. Length: 6 counts (obligatory).",
           "example": "الْحَاقَّة",
           "exampleTranslation": "Al-Ḥāqqah",
           "tags": ["necessary", "6 counts"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Kalimī Muthaqqal",
-              "content": "Madd + Shaddah in word",
-              "exampleArabic": "الضَّالِّينَ",
-              "exampleTranslit": "Aḍ-ḍāllīn"
+              "id": "madd_lazim_kalimi_muthaqqal",
+              "title": "Kalimī Muthaqqal",
+              "description": "Madd + Shaddah in word",
+              "example": "الضَّالِّينَ",
+              "exampleTranslation": "Aḍ-ḍāllīn"
             },
             {
-              "subtitle": "Kalimī Mukhaffaf",
-              "content": "Madd + Sukūn in word",
-              "exampleArabic": "آلْآنَ",
-              "exampleTranslit": "Āl-āna"
+              "id": "madd_lazim_kalimi_mukhaffaf",
+              "title": "Kalimī Mukhaffaf",
+              "description": "Madd + Sukūn in word",
+              "example": "آلْآنَ",
+              "exampleTranslation": "Āl-āna"
             },
             {
-              "subtitle": "Ḥarfī Muthaqqal",
-              "content": "In letter combinations",
-              "exampleArabic": "الم",
-              "exampleTranslit": "Alif-Lām-Mīm"
+              "id": "madd_lazim_harfi_muthaqqal",
+              "title": "Ḥarfī Muthaqqal",
+              "description": "In letter combinations",
+              "example": "الم",
+              "exampleTranslation": "Alif-Lām-Mīm"
             },
             {
-              "subtitle": "Ḥarfī Mukhaffaf",
-              "content": "In letter combinations",
-              "exampleArabic": "ص",
-              "exampleTranslit": "Ṣād"
+              "id": "madd_lazim_harfi_mukhaffaf",
+              "title": "Ḥarfī Mukhaffaf",
+              "description": "In letter combinations",
+              "example": "ص",
+              "exampleTranslation": "Ṣād"
             }
           ]
         },
@@ -282,17 +292,17 @@
           "id": "madd-arid",
           "title": "Madd ʿĀriḍ li-Sukūn",
           "arabicTitle": "المد العارض للسكون",
-          "category": "Madd Rules",
           "description": "When Madd is followed by a temporary Sukūn at the end of a verse. Length: 2, 4, or 6 counts.",
           "example": "الرَّحْمَنِ",
           "exampleTranslation": "Ar-Raḥmān",
           "tags": ["temporary sukoon", "stopping"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Length",
-              "content": "2, 4, or 6 counts (permissible)",
-              "exampleArabic": "نَسْتَعِينُ",
-              "exampleTranslit": "Nastaʿīn"
+              "id": "madd_arid_length",
+              "title": "Length",
+              "description": "2, 4, or 6 counts (permissible)",
+              "example": "نَسْتَعِينُ",
+              "exampleTranslation": "Nastaʿīn"
             }
           ]
         },
@@ -300,17 +310,17 @@
           "id": "madd-lin",
           "title": "Madd Līn (Soft)",
           "arabicTitle": "المد اللين",
-          "category": "Madd Rules",
           "description": "Elongation of Wāw or Yā when preceded by Fatḥah and followed by Sukūn. Length: 2-6 counts.",
           "example": "خَوْف",
           "exampleTranslation": "Khawf",
           "tags": ["soft", "waw", "ya"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Rule",
-              "content": "Soft Madd at pause",
-              "exampleArabic": "بَيْت",
-              "exampleTranslit": "Bayt"
+              "id": "madd_lin_rule",
+              "title": "Rule",
+              "description": "Soft Madd at pause",
+              "example": "بَيْت",
+              "exampleTranslation": "Bayt"
             }
           ]
         }
@@ -319,41 +329,44 @@
     {
       "id": "articulation",
       "title": "Articulation",
-      "subtitle": "Qalqalah, Ghunnah, Tafkhīm, Lām",
-      "rules": [
+      "description": "Qalqalah, Ghunnah, Tafkhīm, Lām",
+      "children": [
         {
           "id": "qalqalah",
           "title": "Qalqalah (Echoing)",
           "arabicTitle": "القلقلة",
-          "category": "Articulation",
           "description": "A bouncing/echoing sound when pronouncing the letters ق ط ب ج د when they have Sukūn.",
           "example": "قُلْ",
           "exampleTranslation": "Qul",
           "tags": ["echoing", "qutub jad"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Qalqalah Letters",
-              "content": "ق ط ب ج د (Qāf, Ṭāʾ, Bāʾ, Jīm, Dāl)",
-              "exampleArabic": "أَقْبِلْ",
-              "exampleTranslit": "Aqbil"
+              "id": "qalqalah_letters",
+              "title": "Qalqalah Letters",
+              "description": "ق ط ب ج د (Qāf, Ṭāʾ, Bāʾ, Jīm, Dāl)",
+              "example": "أَقْبِلْ",
+              "exampleTranslation": "Aqbil"
             },
             {
-              "subtitle": "Strongest",
-              "content": "At end of verse with Shaddah",
-              "exampleArabic": "الْحَقّ",
-              "exampleTranslit": "Al-Ḥaqq"
+              "id": "qalqalah_strongest",
+              "title": "Strongest",
+              "description": "At end of verse with Shaddah",
+              "example": "الْحَقّ",
+              "exampleTranslation": "Al-Ḥaqq"
             },
             {
-              "subtitle": "Strong",
-              "content": "At end of word",
-              "exampleArabic": "خَلَقْ",
-              "exampleTranslit": "Khalaq"
+              "id": "qalqalah_strong",
+              "title": "Strong",
+              "description": "At end of word",
+              "example": "خَلَقْ",
+              "exampleTranslation": "Khalaq"
             },
             {
-              "subtitle": "Weakest",
-              "content": "In middle of word",
-              "exampleArabic": "يَجْعَل",
-              "exampleTranslit": "Yajʿal"
+              "id": "qalqalah_weakest",
+              "title": "Weakest",
+              "description": "In middle of word",
+              "example": "يَجْعَل",
+              "exampleTranslation": "Yajʿal"
             }
           ]
         },
@@ -361,23 +374,24 @@
           "id": "laam-jalalah",
           "title": "Lām of Allah (لَام الجلالة)",
           "arabicTitle": "لام الجلالة",
-          "category": "Articulation",
           "description": "The Lām in the name of Allah is pronounced either heavy (Tafkhīm) or light (Tarqīq) depending on the preceding vowel.",
           "example": "اللَّهُ",
           "exampleTranslation": "Allāhu",
           "tags": ["laam", "allah", "tafkheem"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Heavy (Tafkhīm)",
-              "content": "After Fatḥah or Ḍammah",
-              "exampleArabic": "قَالَ اللَّهُ",
-              "exampleTranslit": "Qālallāhu"
+              "id": "laam_jalalah_heavy",
+              "title": "Heavy (Tafkhīm)",
+              "description": "After Fatḥah or Ḍammah",
+              "example": "قَالَ اللَّهُ",
+              "exampleTranslation": "Qālallāhu"
             },
             {
-              "subtitle": "Light (Tarqīq)",
-              "content": "After Kasrah",
-              "exampleArabic": "بِسْمِ اللَّهِ",
-              "exampleTranslit": "Bismillāhi"
+              "id": "laam_jalalah_light",
+              "title": "Light (Tarqīq)",
+              "description": "After Kasrah",
+              "example": "بِسْمِ اللَّهِ",
+              "exampleTranslation": "Bismillāhi"
             }
           ]
         },
@@ -385,17 +399,17 @@
           "id": "laam-shamsiyyah",
           "title": "Lām Shamsiyyah (Solar Lām)",
           "arabicTitle": "اللام الشمسية",
-          "category": "Articulation",
           "description": "The Lām is not pronounced, and the following letter is doubled (with Shaddah).",
           "example": "الشَّمْس",
           "exampleTranslation": "Ash-shams",
           "tags": ["solar laam", "silent"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Rule",
-              "content": "Lām silent, following letter doubled",
-              "exampleArabic": "الرَّحْمَن",
-              "exampleTranslit": "Ar-Raḥmān"
+              "id": "laam_shamsiyyah_rule",
+              "title": "Rule",
+              "description": "Lām silent, following letter doubled",
+              "example": "الرَّحْمَن",
+              "exampleTranslation": "Ar-Raḥmān"
             }
           ]
         },
@@ -403,17 +417,17 @@
           "id": "laam-qamariyyah",
           "title": "Lām Qamariyyah (Lunar Lām)",
           "arabicTitle": "اللام القمرية",
-          "category": "Articulation",
           "description": "The Lām is pronounced clearly with Sukūn.",
           "example": "الْقَمَر",
           "exampleTranslation": "Al-qamar",
           "tags": ["lunar laam", "clear"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Rule",
-              "content": "Lām pronounced clearly",
-              "exampleArabic": "الْحَمْد",
-              "exampleTranslit": "Al-ḥamd"
+              "id": "laam_qamariyyah_rule",
+              "title": "Rule",
+              "description": "Lām pronounced clearly",
+              "example": "الْحَمْد",
+              "exampleTranslation": "Al-ḥamd"
             }
           ]
         },
@@ -421,23 +435,24 @@
           "id": "ghunnah",
           "title": "Ghunnah (Nasalization)",
           "arabicTitle": "الغنة",
-          "category": "Articulation",
           "description": "A nasal sound from the nose when pronouncing Mīm (م) or Nūn (ن) with Shaddah. Held for 2 counts.",
           "example": "إِنَّ",
           "exampleTranslation": "Inna",
           "tags": ["nasal", "meem", "noon"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Letters",
-              "content": "م and ن with Shaddah",
-              "exampleArabic": "ثُمَّ",
-              "exampleTranslit": "Thumma"
+              "id": "ghunnah_letters",
+              "title": "Letters",
+              "description": "م and ن with Shaddah",
+              "example": "ثُمَّ",
+              "exampleTranslation": "Thumma"
             },
             {
-              "subtitle": "Duration",
-              "content": "2 counts",
-              "exampleArabic": "إِنَّ اللَّهَ",
-              "exampleTranslit": "Innallāha"
+              "id": "ghunnah_duration",
+              "title": "Duration",
+              "description": "2 counts",
+              "example": "إِنَّ اللَّهَ",
+              "exampleTranslation": "Innallāha"
             }
           ]
         },
@@ -445,23 +460,24 @@
           "id": "tafkheem",
           "title": "Tafkhīm (Heavy Letters)",
           "arabicTitle": "التفخيم",
-          "category": "Articulation",
           "description": "Seven letters that are always pronounced heavily (thick): خ ص ض ط ظ غ ق",
           "example": "خَصَّ ضَظَطٍّ غَقٍّ",
           "exampleTranslation": "Khaṣṣa ḍaẓaṭṭin ghaqqin",
           "tags": ["heavy", "thick", "isti'la"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Always Heavy",
-              "content": "خ ص ض ط ظ غ ق",
-              "exampleArabic": "قَالَ",
-              "exampleTranslit": "Qāla"
+              "id": "tafkheem_always_heavy",
+              "title": "Always Heavy",
+              "description": "خ ص ض ط ظ غ ق",
+              "example": "قَالَ",
+              "exampleTranslation": "Qāla"
             },
             {
-              "subtitle": "Sometimes Heavy",
-              "content": "ر ل (depending on context)",
-              "exampleArabic": "رَحْمَة",
-              "exampleTranslit": "Raḥmah"
+              "id": "tafkheem_sometimes_heavy",
+              "title": "Sometimes Heavy",
+              "description": "ر ل (depending on context)",
+              "example": "رَحْمَة",
+              "exampleTranslation": "Raḥmah"
             }
           ]
         }
@@ -470,41 +486,44 @@
     {
       "id": "stopping",
       "title": "Stopping Rules",
-      "subtitle": "Waqf and end-of-verse rules",
-      "rules": [
+      "description": "Waqf and end-of-verse rules",
+      "children": [
         {
           "id": "waqf",
           "title": "Waqf (Stopping Rules)",
           "arabicTitle": "الوقف",
-          "category": "Stopping Rules",
           "description": "Rules for stopping at the end of verses or words, including the various signs in the Qur'an.",
           "example": "قِفْ",
           "exampleTranslation": "Qif",
           "tags": ["waqf", "stopping", "signs"],
-          "details": [
+          "children": [
             {
-              "subtitle": "Waqf Lāzim (م)",
-              "content": "Must stop",
-              "exampleArabic": "إِنَّمَا يَتَذَكَّرُ",
-              "exampleTranslit": "Innamā yatadhakkar"
+              "id": "waqf_lazim",
+              "title": "Waqf Lāzim (م)",
+              "description": "Must stop",
+              "example": "إِنَّمَا يَتَذَكَّرُ",
+              "exampleTranslation": "Innamā yatadhakkar"
             },
             {
-              "subtitle": "Waqf Jāʾiz (ج)",
-              "content": "Permissible to stop",
-              "exampleArabic": "الْحَمْدُ لِلَّهِ",
-              "exampleTranslit": "Al-ḥamdu lillāh"
+              "id": "waqf_jaiz",
+              "title": "Waqf Jāʾiz (ج)",
+              "description": "Permissible to stop",
+              "example": "الْحَمْدُ لِلَّهِ",
+              "exampleTranslation": "Al-ḥamdu lillāh"
             },
             {
-              "subtitle": "Waqf Mamnūʿ (لا)",
-              "content": "Do not stop",
-              "exampleArabic": "لَا تَقْرَبُوا",
-              "exampleTranslit": "Lā taqrabū"
+              "id": "waqf_mamnu",
+              "title": "Waqf Mamnūʿ (لا)",
+              "description": "Do not stop",
+              "example": "لَا تَقْرَبُوا",
+              "exampleTranslation": "Lā taqrabū"
             },
             {
-              "subtitle": "Waqf Aulā (قلى)",
-              "content": "Better to stop",
-              "exampleArabic": "يَا أَيُّهَا",
-              "exampleTranslit": "Yā ayyuhā"
+              "id": "waqf_aula",
+              "title": "Waqf Aulā (قلى)",
+              "description": "Better to stop",
+              "example": "يَا أَيُّهَا",
+              "exampleTranslation": "Yā ayyuhā"
             }
           ]
         }
